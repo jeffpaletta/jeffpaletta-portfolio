@@ -1,0 +1,148 @@
+
+/* MAIN CAPTION */
+#emoji-caption-01 {
+	margin-top: 30vw;
+	margin-left: 51.5vw;
+	}
+	
+	
+/* MAIN VIDEO */	
+#emoji-container-01 {
+	margin-top: -22vw; 
+	margin-left: -3vw;
+	}
+#emoji-video-01 {
+	margin-top: -22vw; 
+	margin-left: -3vw;
+	}
+	
+	
+/* GAVIN BELSON SCREENSHOT */	
+#emoji-container-02 {
+	margin-top: 15vw; 
+	margin-left: vw;
+	display: none;
+	}
+#emoji-image-02 {
+	margin-top: 15vw; 
+	margin-left: vw;
+	}
+	
+	
+/* CHAIR SETUP IMAGE */	
+#emoji-container-03 {
+	margin-top: 15vw;
+	margin-left: vw;
+	}
+#emoji-image-03 {
+	margin-top: vw;
+	margin-left: vw;
+	}	
+	
+
+/* CAPTION 2 */
+#emoji-caption-02 {
+	margin-top: vw;
+	margin-left: vw;
+	}
+	
+
+/* ARDUINO IMAGE */
+#emoji-container-04 {
+	margin-top: -5vw;
+	margin-left: vw;
+	}
+#emoji-image-04 {
+	margin-top: -5vw;
+	margin-left: vw;
+	}
+	
+	
+/* BUTTON IMAGE */
+#emoji-container-05 {
+	margin-top: vw;
+	margin-left:vw;
+	}
+#emoji-image-05 {
+	margin-top: vw;
+	margin-left: vw;
+	}
+	
+/*
+@media screen and (max-width: 1900px) {
+#emoji-caption-01 {
+	margin-top: 32vw !important;
+	}
+
+}	
+*/
+
+
+
+
+
+
+@media screen and (max-width: 1880px) {
+
+	
+	#emoji-caption-01 {
+	/* 	display: none !important; */
+		margin-top: 33vw;
+		margin-left: 48vw;
+		font-size: 13.5px !important;
+		}		
+	
+	#emoji-container-01 {
+		width: 850px !important;
+		height: 478px !important;
+		margin-top: -24vw !important;
+	/* 	margin-top: -22vw;  */
+	/* 	margin-left: -3vw; */
+		}
+	#emoji-video-01 {
+		width: 100% !important;
+		height: 100% !important;
+	/* 	margin-top: -22vw;  */
+	/* 	margin-left: -3vw; */
+		}
+	}
+
+
+
+
+
+@media screen and (max-width: 1680px) {
+
+
+	#emoji-caption-01 {
+		margin-top: 33vw !important;
+		margin-left: 54vw !important;
+		font-size: 12.5px !important;
+		}
+}
+
+
+
+
+
+@media screen and (max-width: 1480px) {
+
+
+	#emoji-caption-01 {
+		margin-top: 45vw !important;
+		margin-left: 53vw !important;
+		font-size: 12.5px !important;
+/* 		width: 200px !important; */
+		}
+	
+	#emoji-container-01 {
+		width: 850px !important;
+		height: 478px !important;
+		margin-top: -38vw !important;
+	/* 	margin-left: -3vw; */
+		}
+	#emoji-video-01 {
+		width: 100% !important;
+		height: 100% !important;
+		}
+}	

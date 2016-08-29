@@ -1,0 +1,137 @@
+
+	#lorraine-caption-1 {	
+		margin-left: 10vw; 
+		margin-top: -4vw;
+		}
+	#lorraine-caption-2 {	
+		margin-left: 46vw; 
+		margin-top: 2vw;
+		margin-bottom: 10vw;
+		}
+	#lorraine-caption-3 {
+		margin-top: 3vw;
+		margin-left: -5vw;
+		font-size: 14px;
+	}
+		
+		
+
+	#lorraine-image-1 {
+		margin-top:5vw;
+		margin-left:-6vw;
+		}
+	#lorraine-image-2 {
+		margin-top: 7vw;
+		margin-left: -5vw;
+		}
+	
+	
+	
+	.lorraine-image-string {
+		margin-top: -4vw;
+		margin-left: -5vw;
+		}
+		
+	
+	#lorraine-flipbook-2 {
+		margin-top: 6vw;
+		margin-left: -3vw;
+		padding-bottom: 100px !important;
+	}
+	
+
+		
+
+
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px) {
+	
+	#lorraine-caption-1 {
+		font-size: 8px;
+		line-height: 13px;
+		max-width: 40%;
+		margin-top: vw;
+		margin-left: -1vw;
+	}
+	
+	#lorraine-image-1 {
+		width: 250px !important;
+		margin-top: 5vw;
+		margin-left: -6vw;
+	}
+	
+	#lorraine-caption-2 {
+		max-width: 40% !important;
+		line-height: 13px;
+		margin-left: 45vw;
+		margin-top: 3vw;
+	}
+	
+	#lorraine-caption-3 {
+		margin-top: 3vw;
+		margin-left: vw;
+		font-size: 10px;
+	}
+	
+	#lorraine-flipbook-2 {
+		margin-top: 6vw;
+		height: 299px !important;
+		width: 420px !important;
+		margin-left: -3vw;
+		padding-bottom: 70px !important;
+	}
+}
+
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#lorraine-image-string {
+		margin-top: -1vw;
+	}
+
+	#lorraine-image-1 {
+		margin-top: 5vw;
+		width: 320px !important;
+		}
+		
+	#lorraine-caption-1 {
+		max-width: 34% !important;
+		font-size: 11px;
+		margin-top: -5vw;
+		margin-left: 6vw;
+/* 		margin-left: -5vw; */
+	}	
+	
+	#lorraine-caption-2 {
+		max-width: 35% !important;
+	}
+	
+	#lorraine-flipbook-2 {
+		margin-top: 6vw;
+		margin-left: -3vw;
+		padding-bottom: 40px !important;
+		width: 720px !important;
+		height: 512px !important;
+	}
+}
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2600px) {
+	
+}
+
+/* CINEMA DISPLAY */
+@media screen and (min-width: 2200px) {
+	
+	#lorraine-image-1 {
+		margin-top: 12vw;
+	}
+	
+}

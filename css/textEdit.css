@@ -1,0 +1,147 @@
+@font-face {
+	font-family:'clearanceDisplay';
+	src:
+		url('fonts/ClearanceDisplay-Regular.otf')
+		format('opentype');	
+}
+
+@font-face {
+	font-family:'clearanceCaption';
+	src: 
+		url('fonts/ClearanceCaption-Regular.otf') 
+		format('opentype');
+}
+
+.clearanceDisplay {
+	font-family:'clearanceDisplay',cursive;
+}
+
+.clearanceCaption {
+	font-family:'clearanceCaption',sans-serif;
+}
+
+.openSans {
+	font-family:'Open Sans',sans-serif;
+}
+
+.oswald {
+	font-family:'Oswald',sans-serif;
+}
+
+.anton {
+	font-family:'Anton',sans-serif;
+}
+
+.kaushanScript {
+	font-family:'Kaushan Script',cursive;
+}
+
+.rochester {
+	font-family:'Rochester',sans-serif;
+}
+
+.sacramento {
+	font-family:'Sacramento',sans-serif;
+}
+
+.uppercase-text {
+	text-transform:uppercase;
+}
+
+.lowercase-text {
+	text-transform:lowercase;
+}
+
+.capitalize-text {
+	text-transform:capitalize;
+}
+
+body .editor-body {
+	font-family:'Open Sans',sans-serif;
+}
+
+.editor-wrapper {
+	padding:10px;
+}
+
+.fontsSelectBox-button {
+	margin-top:10px;
+}
+
+select .editor-select {
+	width:200px;
+}
+
+fieldset .editor-fieldset {
+	border:0;
+}
+
+label {
+	display:block;
+	margin:10px 0 0;
+}
+
+input {
+	font-family:'Open Sans',sans-serif;
+	padding:0;
+	font-size:24px;
+	border:0;
+	width:100%;
+}
+
+.fontForm {
+	max-width:500px;
+}
+
+.checkbox-label {
+	display:inline-block;
+}
+
+.grid {
+	margin:-10px;
+	padding:0;
+	letter-spacing:-.286em;
+	position:relative;
+}
+
+.grid-cell {
+	display:inline-block;
+	padding:10px;
+	margin:0;
+	list-style:none;
+	vertical-align:top;
+	width:100%;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	letter-spacing:0;
+	direction:ltr;
+}
+
+.size1of1 {
+	width:100%;
+}
+
+.size1of2 {
+	width:50%;
+}
+
+.font-size-16 {
+	font-size:16px;
+}
+
+.font-size-20 {
+	font-size:20px;
+}
+
+.font-size-40 {
+	font-size:40px;
+}
+
+.font-size-72 {
+	font-size:72px;
+}
+
+.font-size-92 {
+	font-size:92px;
+}

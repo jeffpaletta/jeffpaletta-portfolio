@@ -1,0 +1,100 @@
+/********************************	
+	SUSTAINABLE TINTING	
+********************************/	
+	
+	
+	
+	/* MAIN VIDEO */
+	#paint-container-01 {
+		margin-top: -3vw;
+		margin-left: -4vw;
+		z-index: -200;
+		}
+	#paint-video-01 {
+/*
+		margin-top: -3vw;
+		margin-left: -6vw;
+*/
+		}
+		
+		
+	/* MAIN CAPTION */
+	#paint-caption-01 {
+		margin-top: 35vw;
+		margin-left: 53vw;
+		padding-bottom: 200px;
+		}
+		
+		
+		
+		
+/*
+		
+@media screen and (max-width: 1340px) {
+	
+	#paint-container-01 {
+		width: 60% !important;
+		height: 60% !important;
+	}
+	
+	#paint-caption-01 {
+		font-size: 10px;
+	}
+	
+}
+*/
+
+
+
+
+@media screen and (min-width: 701px) and (max-width: 1199px) {
+	
+	#paint-container-01 {
+/* 		width: 50% !important; */
+/* 		height: 38% !important; */
+		margin-top: 5vw;
+		margin-left: -2vw;
+	}
+	#paint-video-01 {
+		width: 472px !important;
+		height: 307px !important;
+		margin-left: -2vw;
+	}
+	
+	#paint-caption-01 {
+		margin-top: 44vw;
+		margin-left: 54vw !important;
+		max-width: 30% !important;
+		font-size: 8px;
+		line-height: 16px !important;
+	}
+}
+
+
+
+
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#paint-container-01 {
+/* 		width: 50% !important; */
+/* 		height: 38% !important; */
+		margin-top: 5vw;
+		margin-left: vw;
+	}
+	#paint-video-01 {
+		width: 719px !important;
+		height: 468px !important;
+	}
+	
+	#paint-caption-01 {
+		margin-top: 32vw;
+		font-size: 11px;
+	}
+}
+
+
+
+
+@media screen and (min-width: 1400px) and (max-width: 2600px) {
+}

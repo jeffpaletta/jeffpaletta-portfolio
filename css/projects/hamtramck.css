@@ -1,0 +1,86 @@
+#hamtown-flipbook-01 {
+	margin-top: 7vw;
+	margin-left: 23vw;
+	width: 850px !important;
+	height: 637px !important;
+}
+
+#hamtown-caption-01 {
+	margin-top: 44vw;
+	margin-left: 10vw;
+}
+
+#hamtown-image-01 {
+	margin-top: 15vw;
+	margin-left: vw;
+}
+
+
+
+
+
+/* 800 x 600 */
+		@media screen 
+		and (min-width: 701px) 
+		and (max-width: 1199px)  {
+	
+		}
+
+
+
+/* 1336 x 768 */
+		@media screen 
+		and (min-width: 1200px) 
+		and (max-width: 1399px) {
+	
+		}
+
+
+
+
+/* 1920 x 1080 */
+		@media screen 
+		and (min-width: 1400px) 
+		and (max-width: 2600px)	 {
+				
+		}
+
+
+
+
+
+/* IPAD*/
+		@media only screen 
+		and (min-device-width : 768px) 
+		and (max-device-width : 1024px)
+		/* and (orientation : landscape) */
+		/* and (orientation : portrait) */  { 
+			
+		}
+
+
+
+
+/* RETINA IPAD */
+		@media only screen 
+		and (min-device-width : 768px) 
+		and (max-device-width : 1024px)
+		/* and (orientation : landscape) */
+		/* and (orientation : portrait) */
+		and (-webkit-min-device-pixel-ratio: 2) { 
+			
+		}
+	
+		
+		
+		
+/* IPAD 1 & 2 */
+@media only screen 
+		and (min-device-width : 768px) 
+		and (max-device-width : 1024px)
+		/* and (orientation : landscape) */
+		/* and (orientation : portrait) */		 
+		and (-webkit-min-device-pixel-ratio: 1) { 
+		
+		}
+		
