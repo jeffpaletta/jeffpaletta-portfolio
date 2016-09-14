@@ -20,18 +20,19 @@
 
 #emoji-image-button {
 	margin-top: 9vw;
-	margin-left: 3vw;
+	margin-left: 4vw;
 	}
 	
 	
 #emoji-caption-02 {
 	min-width: 400px !important;
-	margin-top: 3vw;
-	margin-left: 3vw !important;
+	margin-top: 6vw;
+	margin-left: 1vw !important;
 	}
 	
 	
 #emoji-image-arduino {
+	display: none;
 	margin-top: 9vw;
 	margin-left: 50vw;
 	}
