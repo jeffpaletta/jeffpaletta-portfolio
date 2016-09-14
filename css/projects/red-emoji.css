@@ -1,72 +1,76 @@
 
-/* MAIN CAPTION */
 #emoji-caption-01 {
-	margin-top: 30vw;
-	margin-left: 51.5vw;
+	margin-top: 29vw;
+	margin-left: 52.5vw;
 	}
 	
-	
-/* MAIN VIDEO */	
-#emoji-container-01 {
-	margin-top: -22vw; 
-	margin-left: -3vw;
-	}
 #emoji-video-01 {
-	margin-top: -22vw; 
-	margin-left: -3vw;
+	margin-top: -49vw; 
+	margin-left: -12vw;
 	}
 	
 	
-/* GAVIN BELSON SCREENSHOT */	
-#emoji-container-02 {
-	margin-top: 15vw; 
+#emoji-image-02 {
+	margin-top: 30vw; 
 	margin-left: vw;
 	display: none;
 	}
-#emoji-image-02 {
-	margin-top: 15vw; 
-	margin-left: vw;
-	}
-	
-	
-/* CHAIR SETUP IMAGE */	
-#emoji-container-03 {
-	margin-top: 15vw;
-	margin-left: vw;
-	}
-#emoji-image-03 {
-	margin-top: vw;
-	margin-left: vw;
-	}	
+		
 	
 
-/* CAPTION 2 */
+#emoji-image-button {
+	margin-top: 9vw;
+	margin-left: 3vw;
+	}
+	
+	
 #emoji-caption-02 {
-	margin-top: vw;
-	margin-left: vw;
+	min-width: 400px !important;
+	margin-top: 3vw;
+	margin-left: 3vw !important;
 	}
+	
+	
+#emoji-image-arduino {
+	margin-top: 9vw;
+	margin-left: 50vw;
+	}
+		
+		
+#emoji-caption-03 {
+	margin-top: 3vw;
+	margin-left: 50vw;
+	}
+	
+	
+#emoji-caption-04 {
+	margin-top: 1vw;
+	margin-left: 50vw;
+	}
+	
+	
+#emoji-process {
+	margin-top: 1vw;
+	margin-left: 50vw;
+	padding-bottom: 400px;
+	}
+	
 	
 
-/* ARDUINO IMAGE */
-#emoji-container-04 {
-	margin-top: -5vw;
-	margin-left: vw;
-	}
-#emoji-image-04 {
-	margin-top: -5vw;
-	margin-left: vw;
-	}
-	
-	
-/* BUTTON IMAGE */
-#emoji-container-05 {
-	margin-top: vw;
-	margin-left:vw;
-	}
-#emoji-image-05 {
+#emoji-image-chairs {
+	display: none;
 	margin-top: vw;
 	margin-left: vw;
 	}
+
+	
+#emoji-spacer {
+	width: 100%;
+	height: 500px;
+}	
+	
+	
+	
 	
 /*
 @media screen and (max-width: 1900px) {
