@@ -6,15 +6,72 @@
 }
 
 #hamtown-caption-01 {
-	margin-top: 44vw;
-	margin-left: 10vw;
+	margin-top: 45vw;
+	margin-left: 2vw !important;
 }
 
-#hamtown-image-01 {
-	margin-top: 15vw;
+#hamtown-image-posters-1 {
+	margin-top: 3vw;
+	margin-left: 4vw;
+}
+
+#hamtown-caption-02 {
+	margin-top: 17vw;
+	margin-left: 54vw !important;
+}
+
+
+
+#hamtown-image-posters-2 {
+	margin-top: 2vw;
+	margin-left: 35vw;
+}
+
+#hamtown-image-menu {
+	margin-top: 1vw;
+	margin-left: 23vw;
+}
+
+
+
+hamtown-caption-3 {
+	margin-top: 20vw;
+	margin-left: 12vw;
+}
+
+
+
+#hamtown-image-4 {
+	margin-top: vw;
 	margin-left: vw;
 }
 
+#hamtown-image-5 {
+	margin-top: vw;
+	margin-left: vw;
+}
+
+#hamtown-image-6 {
+	margin-top: vw;
+	margin-left: vw;
+}
+
+#hamtown-image-7 {
+	margin-top: vw;
+	margin-left: vw;
+}
+
+#hamtown-image-8 {
+	margin-top: vw;
+	margin-left: vw;
+}
+
+
+
+#hamtown-process {
+	margin-top: vw;
+	margin-left: vw;
+}
 
 
 
