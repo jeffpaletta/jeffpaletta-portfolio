@@ -34,12 +34,15 @@
 		
 #826-video-1 {
 /* 		float: right */
-	margin-top: -10vw;
-	margin-left: 45vw;
+/* 	margin-top: 10vw; */
+/* 	margin-left: 45vw; */
 	}	
 		
 
-
+#826-image-logo {
+	margin-top: 9vw;
+	margin-left: 35vw;
+}
 
 	
 	

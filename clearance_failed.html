@@ -7,7 +7,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Clearance</title>
+	<title>Jeff Paletta &mdash;  </title>
 	<meta name="description" content="blank">
 	<meta name="viewport" content="width=device-width">
 
@@ -49,11 +49,20 @@
     <script src="js/connect.js"></script>
     <script src="js/script.js"></script>
     <link rel="stylesheet" href="css/fonts.css" type="text/css">
+    
+    
+    <link rel="stylesheet" href="css/normalize.css">
+
+    <link rel='stylesheet prefetch' href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css'>
+	<link rel='stylesheet prefetch' href='http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css'>
+
+    <link rel="stylesheet" href="css/textEdit.css">
+
 
 </head>
 
 
-<body class="random-2 colour-2 data-page-home" data-page="home">
+<body class="random-2 colour-2 data-page-home editor editor-body" data-page="home">
 
 
 
@@ -146,49 +155,62 @@
 <div class="gallery"><div class="slide"></div></div>
 <section>
 	<div class="section-inner">
+						
+			<p style="font-family: 'clearanceDisplay';">TESTING</p>
 			
 			
-			
-			
-			
-			
-			
-		<!-- Poster Image -->
-			<figure class="block portrait" data-ratio="1">
-				<div class="image" id="clearance-image-poster" data-large="img/clearance/clearance-01.png" data-largewidth="787" data-largeheight="1322">
-					<img src="img/clearance/clearance-01.png" width="394" height="661">
+				<div class="editor-wrapper">    
+					<h1>Font Tester</h1>
+					<fieldset class="fontForm grid editor-fieldset">
+						<div class="grid-cell size1of2">
+							<label for="fontsSelectBox">Choose Font</label>
+							<select class="editor-select" id="fontsSelectBox" name="fontsSelectBox">
+							<option value="clearanceDisplay">Clearance Display</option>
+							<option value="clearanceCaption">Clearance Caption</option>
+<!--
+							<option value="anton">Anton</option>
+							<option value="kaushanScript">Kaushan Script</option>
+							<option value="rochester">Rochester</option>
+							<option value="sacramento">Sacramento</option>
+-->			
+							</select>
+						</div>
+				
+						<div class="grid-cell size1of2">
+							<label for="fontSizeSelectBox">Choose Size</label>
+							<select class="editor-select" id="fontSizeSelectBox" name="fontSizeSelectBox">
+							<option value="font-size-16">16</option>
+							<option value="font-size-20">20</option>
+							<option value="font-size-40">40</option>
+							<option value="font-size-72">72</option>
+							<option value="font-size-92">92</option>
+							</select>
+						</div>
+						
+						<div class="grid-cell size1of1">
+							<label for="uppercase" class="checkbox-label"><input type="radio" name="fontStyle" value="uppercase" id="uppercase"> Uppercase</label>
+							<label for="lowercase" class="checkbox-label"><input type="radio" name="fontStyle" value="lowercase" id="lowercase"> Lowercase</label>
+							<label for="capitalize" class="checkbox-label"><input type="radio" name="fontStyle" value="capitalize" id="capitalize"> Capitalize</label>
+							<label for="normal" class="checkbox-label"><input type="radio" name="fontStyle" value="normal" id="normal" checked> Normal</label>
+						</div>
+					</fieldset>
+					
+					<div class="grid-cell">
+						<input type="text" name="fontTxtField" id="fontTxtField" placeholder="Your text here"/>
+					</div>
+				</div>	
 
-				</div>
-			</figure>
-		
-		
-		
-		<!-- Caption 1 -->
-			<figcaption id="clearance-caption-1" class="block">
-				<p>Ask any mayor what makes their city special, and you’re likely to get roughly the same answers across the board: diversity, strong communities, hardworking people, a rich history, 
-					etc. But in the case of Hamtramck, they’re not kidding around. Once the heart of Detroit’s dominating automotive industry, Hamtramck was once the most lively cities in the midwest. 
-					Though the auto industry left, but the immigrants who came to work there stayed, and transformed the city into one of the most diverse populations in America. Families from all over 
-					the globe have found their home in Hamtramck, and just by walking down the street, you can experience cultures from every corner of the world. Portraying any population under a single 
-					identity can often leave many feeling left out, but when the population spans from across the entire spectrum of ideas, beliefs, and values, branding it calls for extreme flexibility. </p>
-			</figcaption>
+
 			
-			
-			
-		<!-- Process Link -->
-			<figcaption class="block" id="clearance-process">
-				<p><a target="_blank" href="http://www.jeff.college/clearance-process">[ view process work ]</a></p>
-			</figcaption>
-	
-			
-			
-			
-			
+						
+						
 		</div>
 </section>
 
-<div class="process">
-	<div class="cover"></div>
-</div>
+<!--
+<div class="process"></div>
+<div class="cover"></div>
+-->
 
 
 
@@ -204,6 +226,13 @@
 <a href="mailto:&#109;&#x61;&#x69;&#x6c;&#64;&#x73;&#x61;&#109;&#115;&#107;&#x69;&#x6e;&#110;&#x65;&#114;&#x2e;&#110;&#x65;&#x74;">jeffpaletta@gmail.com</a><br />
 <a href="http://twitter.com/palooter">@palooter</a></p>	
 <p class="greentext">>2016</p><p class="greentext">>site not responsive</p><p class="greentext">>MFW</p>
+
+
+<script src="js/textEdit.js"></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+
+
 </footer>
 </body>
 </html>

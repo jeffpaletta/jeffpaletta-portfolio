@@ -64,11 +64,11 @@
 
 
 .gallery-container{
-  max-width:600px;
+  max-width:700px !important;
   position:relative;
 /*   margin:0 auto; */
   margin-top:21vw;
-  margin-left: 9vw;
+  margin-left: 25vw;
 }
 
 #galley-overlay{

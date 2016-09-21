@@ -1,21 +1,19 @@
-/********************************	
-	DUCK HUNT	
-********************************/	
-	
-	
-	
-	
-/* IMAGE */		
+
 #duck-image-1 {
-	margin-top: 10vw;
+	margin-top: -5vw;
 	margin-left: -8vw;
 	}
+	
+#duck-caption-1 {
+	margin-top: vw;
+	margin-left: -2vw;
+	}
+
 #duck-image-2 {
 	margin-top: 5vw;
 	margin-left: 2vw;
 	}
 	
-/* VIDEO */
 #duck-video-1 {
 	margin-top:13vw;
 	margin-left: 27vw !important;
@@ -23,11 +21,7 @@
 	width: 50% !important;
 	}
 	
-/* CAPTIONS */
-#duck-caption-1 {
-	margin-top: vw;
-	margin-left: -2vw;
-	}
+
 #duck-caption-2 {
 	margin-top: 8vw;
 	margin-left: 45vw;
@@ -43,8 +37,29 @@
 	
 	
 	
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
 	
-@media screen and (max-width: 1880px) {
+	}
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
 	
-	
-}	
+	}
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2600px)	 {
+				
+	}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+				
+	}

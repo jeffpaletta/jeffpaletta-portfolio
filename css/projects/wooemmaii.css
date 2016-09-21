@@ -9,10 +9,150 @@
 	height: 660px !important;
 }
 
+
 #wooemmaii-caption-1 {
 	margin-top: 48vw;
 	margin-left: 55vw;
-	}
+}
+
+
+#wooemmaii-image-1 {
+	margin-top: 10vw;
+	margin-left: 15vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+	
+	
+#wooemmaii-caption-2 {
+	margin-top: 9vw;
+	margin-left: 2vw;
+}
+
+#wooemmaii-caption-3 {
+	margin-top: 8vw;
+	margin-left: 50vw;
+}
+	
+	
+#wooemmaii-process {
+	margin-top: 3vw;
+	margin-left: 50vw;
+}
+
+
+
+
+
+wooemmaii-spacer {
+	height: 150px !important;
+}
+
+wooemmaii-gallery-1{
+/* 	margin-left: 12vw !important; */
+}
+
+
+.gallery-container{
+  max-width:600px;
+  position:relative;
+/*   margin:0 auto; */
+  margin-top:5vw;
+  margin-left: 22vw;
+}
+
+#galley-overlay{
+  cursor: pointer;
+  position:absolute;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  background:#000;
+  opacity:.7;
+  z-index:2000;
+  display:none;
+}
+
+.gallery-image{
+  position:relative;
+  float:left;
+  height:120px;
+  width:90px;
+  background:#fff;
+/*   border:1px solid #999; */
+  margin:20px;
+}
+
+.photo-image{
+  cursor: pointer;
+  position:relative;
+  top:0px;
+  left:0px;
+  width:90px;
+/*   border:1px solid #999;   */
+  z-index:1000;
+  opacity:1;
+  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
+}
+
+.photo-image:hover{
+  width:90px;
+  top:-15px;
+  left: 0px;
+  z-index:1001;
+  opacity:1;
+}
+
+.photo-selected{
+  cursor:default;
+  z-index:2001;
+  width:500px;
+  opacity:1;
+  top:-20px;
+  left:-200px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Nov 11 2013 - Added "X" to close popup - just a visual cue */
+/*
+.photo-x:after{
+  content: "X";
+  font-family: arial;
+  position: relative;
+  top: -535px;
+  font-weight: bold;
+  left: 285px;
+  padding: 10px 14px;
+  border: 2px solid black;
+  background: white;
+  z-index: 9999;
+  cursor: pointer;
+}
+*/
+
+.photo-selected:hover{
+  width:500px;
+  top:-50px;
+  left:-50px;
+  z-index:2001;
+  opacity:1;
+  top:-20px;
+  left:-200px;
+}
+
+
+/*
+#826-spacer {
+	display: block;
+	width: 100%;
+	height: 200px;
+ 	padding: 400px; 
+	background-color: #fff;
+}
+*/
+
 		
 
 
