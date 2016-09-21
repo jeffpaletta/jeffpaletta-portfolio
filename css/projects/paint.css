@@ -13,14 +13,14 @@
 	
 #paint-caption-1 {
 	margin-top: 41vw;
-	margin-left: 50vw;
+	margin-left: 46vw;
 /* 	padding-bottom: 200px; */
 }
 
 
 #paint-image-1 {
 	margin-top: 4vw;
-	margin-left: 58vw;
+	margin-left: 60vw;
 }
 
 
@@ -39,18 +39,19 @@
 #paint-image-456 {
 	margin-top: 5vw;
 	margin-left: 11vw;
+	padding-bottom: 100px !important;
 }
 
 
 
 #paint-caption-3 {
-	margin-top: 8vw;
-	margin-left: 42vw;
+	margin-top: 11vw;
+	margin-left: 2vw;
 }
 
 #paint-process-link {
 	margin-top: 2vw;
-	margin-left: 42vw;
+	margin-left: 2vw;
 }
 
 
@@ -59,8 +60,8 @@
   max-width:600px !important;
   position:relative;
 /*   margin:0 auto; */
-  margin-top:6vw !important;
-  margin-left: 4vw !important;
+  margin-top:11vw !important;
+  margin-left: 2vw !important;
 }
 
 #galley-overlay{
