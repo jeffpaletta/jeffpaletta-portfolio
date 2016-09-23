@@ -3,16 +3,19 @@
 	margin-top: -5vw;
 	margin-left: -8vw;
 	}
+
 	
 #duck-caption-1 {
 	margin-top: vw;
 	margin-left: -2vw;
 	}
 
+
 #duck-image-2 {
 	margin-top: 5vw;
 	margin-left: 2vw;
 	}
+
 	
 #duck-video-1 {
 	margin-top:13vw;
@@ -27,12 +30,20 @@
 	margin-left: 45vw;
 /* 	padding-bottom: 200px; */
 	}
+
+
 #duck-source {
 	border:none;
 	width:40%;
 	margin-top: 15vw;
 	margin-left: 40vw;
 	}
+
+	
+#duck-process {
+	margin-top: 2vw;
+	margin-left: 5vw;
+}
 	
 	
 	

@@ -1,21 +1,49 @@
 
-
-#jazz-image-poster {
+#jazz-image-1 {
 	margin-top: vw;
-	margin-left: vw;
+	margin-left: 34vw;
+	width: 480px;
+	height: 800px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
+
 #jazz-caption-1 {
-	margin-top: vw;
+	margin-top: 6vw;
+	margin-left: 50vw;
+}
+
+
+#jazz-image-2 {
+	margin-top: 12vw;
 	margin-left: vw;
+	width: 383px;
+	height: 600px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+
+#jazz-caption-2 {
+	margin-top: 6vw;
+	margin-left: 11vw;
+}
+
+
+#jazz-image-3 {
+	margin-top: 12vw;
+	margin-left: 45vw;
 }
 
 
 #jazz-process {
-	margin-top: vw;
-	margin-left: vw;
+	margin-top: 3vw;
+	margin-left: 45vw;
+	padding-bottom: 200px;
 }
-
 
 
 
