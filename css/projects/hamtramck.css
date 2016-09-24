@@ -17,19 +17,19 @@
 
 
 #hamtown-caption-02 {
-	margin-top: 15vw;
-	margin-left: 41vw !important;
+	margin-top: 17vw;
+	margin-left: 57vw !important;
 }
 
 
 #hamtown-image-posters-2 {
-	margin-top: 2vw;
+	margin-top: 4vw;
 	margin-left: 44vw;
 }
 
 
 #hamtown-image-menu {
-	margin-top: 7vw;
+	margin-top: 4vw;
 	margin-left: 28vw;
 }
 
@@ -37,6 +37,7 @@
 #hamtown-caption-03 {
 	margin-top: 15vw;
 	margin-left: vw;
+	z-index: 10000;
 }
 
 
@@ -52,33 +53,33 @@
 
 #hamtown-image-signs {
 	margin-top: 6vw;
-	margin-left: 47vw;
+	margin-left: 53vw;
 }
 
 
 
 #hamtown-caption-04 {
-	margin-top: vw;
+	margin-top: 16vw;
 	margin-left: vw;
 }
 
 
 
 #hamtown-image-7 {
-	margin-top: vw;
-	margin-left: vw;
+	margin-top: 4vw;
+	margin-left: 4vw;
 }
 
 #hamtown-image-8 {
-	margin-top: vw;
-	margin-left: vw;
+	margin-top: 10vw;
+	margin-left: 41vw;
 }
 
 
 
 #hamtown-process {
-	margin-top: vw;
-	margin-left: vw;
+	margin-top: 10vw;
+	margin-left: 70vw;
 }
 
 

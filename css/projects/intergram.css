@@ -1,20 +1,45 @@
 
 
-#intragram-video-1 {
-	margin-top: -5vw;
+#intergram-video-1 {
+	margin-top: -7vw;
 	margin-left: -3vw;
-	}
+}
 	
-#intragram-caption-1 {
+	
+#intergram-caption-1 {
 	margin-top: 39vw;
 	margin-left: 50vw;
-	}
+}
 	
-#intragram-image-1 {
-	margin-top: 30vw;
-	margin-left: 10vw;
-	max-width: 600px !important;
-	}
+	
+#intergram-image-1 {
+	margin-top: 10vw;
+	margin-left: 20vw;
+}
+	
+	
+#intergram-caption-2 {
+	margin-top: 15vw;
+	margin-left: 32vw;
+}
+	
+	
+#intergram-image-2 {
+	margin-top: 5vw;
+	margin-left: 50vw;
+}
+	
+	
+#intergram-caption-3 {
+	margin-top: 15vw;
+	margin-left: 3vw;
+}
+	
+	
+#intergram-process {
+	margin-top: 2vw;
+	margin-left: vw;
+}
 
 
 
