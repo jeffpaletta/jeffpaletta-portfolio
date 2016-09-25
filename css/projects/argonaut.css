@@ -4,22 +4,62 @@
 	margin-left: -3vw;
 	}
 
+
 #argonaut-image-2 {
 	margin-top: 14vw;
 	margin-left: vw;
 	}
 
+
 #argonaut-caption-1 {
 /* 	z-index: 3000; */
-	margin-top: 3vw;
+	margin-top: 4vw;
 	margin-left: 20vw;
 	}
 
+	
+#argonaut-poster-1 {
+	margin-top: 10vw;
+	margin-left: vw;
+	width: 375px;
+	height: 600px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+
+#argonaut-poster-2 {
+	margin-top: -10vw;
+	margin-left: 19vw;
+	width: 375px;
+	height: 600px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+
+#argonaut-poster-3 {
+	margin-top: -15vw;
+	margin-left: 41vw;
+	width: 375px;
+	height: 600px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+
 #argonaut-caption-2 {
-/* 	z-index: 3000; */
-	margin-top: 4vw;
-	margin-left: 55vw;
-	font-size: 12px;
+	margin-top: 10vw;
+	margin-left: 2vw;
+	}
+
+
+#argonaut-process {
+	margin-top: 7vw;
+	margin-left: 54vw;
 	}
 
 
