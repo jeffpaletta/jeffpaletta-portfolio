@@ -248,7 +248,8 @@ i, em {
 
 html {
   width: 100%;
-  height: 100%; }
+  height: 100%; 
+}
 
 body {
   width: 100%;
@@ -262,30 +263,36 @@ body {
   line-height: 22px;
   font-weight: 400;
   font-style: normal;
-  font-stretch: normal; }
+  font-stretch: normal; 
+}
 
 a {
   color: #3333ff;
   border: 0;
-  text-decoration: none; }
+  text-decoration: none; 
+}
 
 a:hover {
   color: #3333ff;
   border: 0;
-  text-decoration: none; }
+  text-decoration: none; 
+}
 
 ::selection {
   background: #fff;
   color: #3333ff;
-  text-shadow: none; }
+  text-shadow: none; 
+}
 
 .group:after, section:after, .block:after {
   content: "";
   display: table;
-  clear: both; }
+  clear: both; 
+}
 
 .loading, .loading a {
-  cursor: wait !important; }
+  cursor: wait !important; 
+}
 
 nav {
   position: fixed;
@@ -293,7 +300,8 @@ nav {
   left: -10px;
   width: 1px;
   height: 10px;
-  z-index: 3; }
+  z-index: 3; 
+}
 
 nav li {
   position: fixed;
@@ -303,7 +311,8 @@ nav li {
   -moz-transition: color 200ms, left 400ms, top 400ms, visibility 400ms, -moz-transform 400ms, opacity 400ms;
   -webkit-transition: color 200ms, left 400ms, top 400ms, visibility 400ms, -webkit-transform 400ms, opacity 400ms;
   transition: color 200ms, left 400ms, top 400ms, visibility 400ms, transform 400ms, opacity 400ms;
-  visibility: visible; }
+  visibility: visible; 
+}
 
 
 
@@ -314,97 +323,119 @@ nav li {
 /* Jeffrey Paletta -- About */
 .link-1 {
   top: 5vw;
-  left: 5vw; }
+  left: 5vw; 
+}
 
 /* What if Hamtramck was a giant, metaphorical quilt? */
 .link-2 {
   top: 22%;
-  left: 32%; }
-
+  left: 32%;
+/*   top: 32%; */
+/*   left: 31%;  */
+}
+  
 /* What if there was a supply store for presidents? */
 .link-3 {
   top: 58%;
-  left: 49%; } 
+  left: 49%; 
+} 
 
 /* What if you rewrote a book by cutting up or crossing out the parts you didn’t like? */
 .link-4 {
   top: 30%;
-  left: 56%; }
+  left: 56%; 
+}
 
 /* What if finding the best school for your child only took ten minutes? */
 .link-5 {
   top: 66%;
-  left: 29%; }
+  left: 29%; 
+}
 
 /* What if Dadaism was still alive in 2015? */
 .link-6 {
   top: 60%;
-  left: 75%; }
+  left: 75%; 
+}
 
 /* What if you knew that your house paint could kill you? */
 .link-7 {
   top: 70%;
-  left: 71%; }
+  left: 71%; 
+}
 
 /* What if our memories defined who we are? */
 .link-8 {
   top: 34%;
-  left: 41%; }
+  left: 41%;
+/*   left: 43%;  */
+}
 
 /* What if emojis actually meant something again? */
 .link-9 {
   top: 42%;
-  left: 61%; }
+  left: 61%; 
+}
 
 /* What if you needed a reminder to behave like an adult? */
 .link-10 {
   top: 54%;
-  left: 65%; }
+  left: 65%; 
+}
 
 /* What if a game encouraged you to stop playing? */
 .link-11 {
   top: 45%;
-  left: 37%; }
+  left: 37%; 
+}
 
 /* What if a typeface could tell a story? */
 .link-12 {	
   top: 50%;
-  left: 28%; }
+  left: 28%; 
+}
 
 /* What if content reacted to how we moved our bodies? */
 .link-13 {
   top: 62%;
-  left: 40%; }
+  left: 40%; 
+}
 
 /* What if there was a better way of telling our story as design students? */
 .link-14 {
   top: 77%;
-  left: 55%; }
+  left: 55%; 
+}
 
 /* What if identity was defined by your browsing history? */
 .link-15 {
   top: 74%;
-  left: 36%; }
+  left: 36%; 
+}
   
 /* What if a sign painter designed a typeface? */  
 .link-16 {
   top: 44%;
-  left: 70%; }
+  left: 70%; 
+}
 
 /* What if I wrote a manifesto of uncertainty? */  
 .link-17 {
   top: 49%;
-  left: 55%; }
+  left: 55%; 
+}
 
 /* What if Jazz was a design methodology? */  
 .link-18 {
   top: 40%;
-  left: 50%; }
+  left: 50%; 
+}
 
 /* What if rules were better off broken? */  
  .link-19 {
   top: 70%;
-  left: 47%; } 
+  left: 47%; 
+} 
   
 /*
 .link-20 {
