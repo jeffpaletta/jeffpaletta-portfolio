@@ -47,7 +47,7 @@ $('nav a').mouseenter(function(e){
 			if(!that.hasClass('prev-' + prevLink)){
 				$('.' + prevLink).find('a').addClass('prev-' + that.data('link'));
 				that.addClass('prev-' + prevLink);
-				var color = that.parents('li').hasClass('history') ? '#ccc' : '33f';
+				var color = that.parents('li').hasClass('history') ? '#ccc' : '#3233ff';
 				$('.lines').line(prevX, prevY, newX, newY, {
 					css: {height: '0', zIndex: '1', position:'fixed', color:color},
 					width: 0, style: 'solid', color: 'transparent'

@@ -578,7 +578,7 @@ body:not(.loading) nav li.history a:hover {
 .symbol {
 	display:block;
 	font-size:x-large;
-	color:#33f;
+/* 	color:#33f; */
 }
 
 .symbol #header {
@@ -912,6 +912,7 @@ p a {
 
 p a:hover,.p.credit a:hover {
 	color:#000!important;
+	border-bottom: 1px solid #3233ff;
 }
 
 .colour-1 p a {
