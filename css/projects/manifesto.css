@@ -1,125 +1,68 @@
-
-
-.man-image {
-/*
+#man-image-1, #man-image-2, #man-image-3, 
+#man-image-4, #man-image-5, #man-image-6,
+#man-image-7, #man-image-8, #man-image-9,
+#man-image-10, #man-image-11 {
+	width: 350px;
+	height: 500px;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
-*/
-/* 	height: 400px !important; */
-/* 	width: inherit; */
 }
-
 
 
 #man-image-1 {
 	margin-top: 23vw;
 	margin-left: 29vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-2 {
 	margin-top: -7vw;
 	margin-left: 46vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-3 {
 	margin-top: -4vw;
 	margin-left: vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-4 {
 	margin-top: -5vw;
 	margin-left: 25vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-5 {
 	margin-top: -4vw;
 	margin-left: 45vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-6 {
 	margin-top: -2vw;
 	margin-left: 5vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-7 {
 	margin-top: -2vw;
 	margin-left: 23vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-8 {
 	margin-top: -19vw;
 	margin-left: 48vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-9 {
 	margin-top: 8vw;
 	margin-left: 8vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-10 {
 	margin-top: -3vw;
 	margin-left: 33vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #man-image-11 {
 	margin-top: -14vw;
 	margin-left: 53vw;
-	width: 350px;
-	height: 500px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 
@@ -143,12 +86,43 @@
 
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#man-image-1, #man-image-2, #man-image-3, 
+	#man-image-4, #man-image-5, #man-image-6,
+	#man-image-7, #man-image-8, #man-image-9,
+	#man-image-10, #man-image-11 {
+		width: 175px !important;
+		height: 250px !important;
+		-webkit-box-shadow: 5px 5px 23px -4px rgba(0,0,0,0.25) !important;
+		-moz-box-shadow: 5px 5px 23px -4px rgba(0,0,0,0.25) !important;
+		box-shadow: 5px 5px 23px -4px rgba(0,0,0,0.20) !important;
+	}
+	
+	#man-image-1 {
+		z-index: 200000 !important;
+	}
+	
+	#man-image-2 {
+		z-index: -20000 !important;
+		margin-left: 48vw !important;
+	}
 }
 
 
 
 /* 1336 x 768 */
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#man-image-1, #man-image-2, #man-image-3, 
+	#man-image-4, #man-image-5, #man-image-6,
+	#man-image-7, #man-image-8, #man-image-9,
+	#man-image-10, #man-image-11 {
+		width: 280px;
+		height: 400px;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
 }
 
 
