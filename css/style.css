@@ -399,8 +399,9 @@ nav li {
 
 /* What if Dadaism was still alive in 2015? */
 .link-6 {
-	top:60%;
-	left:75%;
+	top:34%;
+	left:41%;
+/*   left: 43%;  */
 }
 
 /* What if you knew that your house paint could kill you? */
@@ -411,9 +412,8 @@ nav li {
 
 /* What if our memories defined who we are? */
 .link-8 {
-	top:34%;
-	left:41%;
-/*   left: 43%;  */
+	top:60%;
+	left:75%;
 }
 
 /* What if emojis actually meant something again? */

@@ -14,14 +14,14 @@
 
 
 #education-image-1 {
-	margin-top: 6vw;
+	margin-top: 4vw;
 	margin-left: 18vw;
 }
 
 
 #education-caption-2 {
 	margin-left: 52vw; 
-	margin-top: 15vw;
+	margin-top: 18vw;
 }
 
 
@@ -49,11 +49,11 @@
 
 
 .education-gallery-container{
-  max-width:800px !important;
+  max-width:600px !important;
   position:relative;
 /*   margin:0 auto; */
-  margin-top:8vw !important;
-  margin-left: 33vw !important;
+  margin-top:6vw !important;
+  margin-left: 34vw !important;
 }
 
 #galley-overlay{

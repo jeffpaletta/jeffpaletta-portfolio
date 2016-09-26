@@ -2,13 +2,27 @@
 #dada-caption-1 {
 	margin-top: 4vw;
 	margin-left: 2vw;
-	max-width: 28%;
+	max-width: 25%;
 }
 
+
 #dada-caption-2 {
-	margin-top: -5vw;
-	margin-left: 33vw;
+	margin-top: vw;
+	margin-left: 2vw;
 }
+
+
+#dada-caption-3 {
+	margin-top: vw;
+	margin-left: 2vw;
+}
+
+
+#dada-caption-4 {
+	margin-top: -1vw;
+	margin-left: 38vw;
+}
+
 
 #dada-flipbook-1 {
 	margin-top: 4vw;
@@ -17,10 +31,12 @@
 	height: 566px !important;
 }
 
-#dada-caption-3 {
+
+#dada-caption-5 {
 	margin-top: 45vw;
 	margin-left: -2vw;
 }
+
 
 #dada-flipbook-2 {
 	margin-top: 2vw;
@@ -29,10 +45,12 @@
 	height: 613px !important;
 }
 
-#dada-caption-4 {
+
+#dada-caption-6 {
 	margin-top: 52vw;
 	margin-left: 59vw;
 }
+
 
 #dada-flipbook-3 {
 	margin-top: 8vw;
@@ -41,22 +59,26 @@
 	height: 720px !important;
 }
 
+
 #dada-title-1 {
 	margin-top: 30vw;
 	margin-left: 30vw;
 	font-size: 24px;
 }
 
-#dada-caption-5 {
+
+#dada-caption-7 {
 	margin-top: 60vw;
 	margin-left: 10vw;
 }
+
 
 #dada-video-1 {
 	margin-top: 20vw;
 	margin-left: 5vw;
 	width: 45%;
 }
+
 
 #dada-video-2 {
 	margin-top: 20vw;
