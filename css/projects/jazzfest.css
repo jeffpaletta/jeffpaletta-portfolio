@@ -1,7 +1,7 @@
 
 #jazz-image-1 {
 	margin-top: vw;
-	margin-left: 34vw;
+	margin-left: 21vw;
 	width: 480px;
 	height: 800px;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
@@ -11,14 +11,14 @@
 
 
 #jazz-caption-1 {
-	margin-top: 6vw;
-	margin-left: 50vw;
+	margin-top: 11vw;
+	margin-left: vw;
 }
 
 
 #jazz-image-2 {
 	margin-top: 12vw;
-	margin-left: vw;
+	margin-left: 48vw;
 	width: 383px;
 	height: 600px;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
@@ -28,20 +28,20 @@
 
 
 #jazz-caption-2 {
-	margin-top: 6vw;
-	margin-left: 11vw;
+	margin-top: 8vw;
+	margin-left: 53vw;
 }
 
 
 #jazz-image-3 {
-	margin-top: 12vw;
-	margin-left: 45vw;
+	margin-top: 19vw;
+	margin-left: 7vw;
 }
 
 
 #jazz-process {
-	margin-top: 3vw;
-	margin-left: 45vw;
+	margin-top: 6vw;
+	margin-left: 7vw;
 	padding-bottom: 200px;
 }
 

@@ -1,18 +1,16 @@
 
+
+#sincerely-video-01 {
+	margin-top: -3vw; 
+	margin-left: 4vw;	
+}
 	
-	/* WALKTRHOUGH VIDEO */
-	#sincerely-container-01 {
-		margin-top: -5vw !important; 
-		margin-left: 12vw;	}
-	#sincerely-video-01 {
-		margin-top: -5vw !important; 
-		margin-left: 12vw;	}
-		
-	
-	/* MAIN CAPTION */	
-	#sincerely-caption-01 {
-		margin-top: 34vw; 
-		margin-left: 63vw;	}
+
+#sincerely-caption-01 {
+/* 	margin-top: 37vw;  */
+	margin-top: 42vw; 
+	margin-left: 61vw;	
+}
 		
 		
 		
