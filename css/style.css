@@ -426,6 +426,14 @@ nav li {
 	left:75%;
 }
 
+		/* 800 x 600 */
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
+			.link-8 {
+				top:60%;
+				left:72%;
+			}
+		}
+
 /* What if emojis actually meant something again? */
 .link-9 {
 	top:43%;
@@ -437,6 +445,14 @@ nav li {
 	top:54%;
 	left:65%;
 }
+
+		/* 800 x 600 */
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
+			.link-10 {
+				top:55%;
+				left:63%;
+			}
+		}
 
 /* What if a game encouraged you to stop playing? */
 .link-11 {
