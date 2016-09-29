@@ -4,130 +4,415 @@
 #emoji-video-1 {
 	width: 1024px;
 	height: 576px;
-	margin-top: -2vw; 
-	margin-left: -3vw;
+	margin-top: -1.5vw; 
+	margin-left: -6.5vw;
 }
 
 #emoji-caption-1 {
 	margin-top: 43vw;
-	margin-left: 44vw;
+	margin-left: 51vw;
 }
 
 #emoji-image-red-dot {
-	width: 120px;
-	height: 120px;
+	width: 150px;
+	height: 150px;
 	margin-top: 2vw;
-	margin-left: 50vw;
+	margin-left: 65vw;
 }
 	
-/* #emoji-image-2 {
+/* 
+	#emoji-image-2 {
 	margin-top: 30vw; 
 	margin-left: vw;
 	display: none;
-} */	
+} 
+*/	
+
+#emoji-caption-2 {
+/* 	min-width: 400px !important; */
+	margin-top: 12vw;
+	margin-left: 1vw !important;
+}
 
 #emoji-image-button {
-	width: 400px;
-	height: 300px;
+	width: 500px;
+	height: 375px;
 	margin-top: 9vw;
 	margin-left: 9vw;
 }
 	
-#emoji-caption-2 {
-/* 	min-width: 400px !important; */
-	margin-top: 6vw;
-	margin-left: 1vw !important;
-}	
-	
-#emoji-image-arduino {
-	display: none;
-	margin-top: 9vw;
-	margin-left: 50vw;
+#emoji-caption-3 {
+	margin-top: 15vw;
+	margin-left: 48vw !important;
 }	
 	
 #emoji-image-chairs {
 /* 	display: none; */
-	width: 650px;
-	height: 486px;
+	width: 500px;
+	height: 373px;
 	margin-top: 15vw;
 	margin-left: 38vw;
 }
 
-#emoji-caption-3 {
-	margin-top: 5vw;
-	margin-left: 52vw;
+#emoji-caption-4 {
+	margin-top: 15vw;
+	margin-left: 3vw;
 }
+
+#emoji-image-arduino {
+/* 	display: none; */
+	width: 550px;
+	height: 275px;
+	margin-top: 10vw;
+	margin-left: 13vw;
+}	
 
 #emoji-process {
-	margin-top: 2vw;
+	margin-top: 20vw;
 	margin-left: 52vw;
+	padding-bottom: 200px;
 }
 
 
 
 
 
-@media screen and (max-width: 1880px) {
-
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#emoji-caption-1,
+	#emoji-caption-2,
+	#emoji-caption-3,
+	#emoji-caption-4,
+	#emoji-process {
+		font-size: 8px !important;
+		line-height: 11px !important;
+	}
+	
+	#emoji-video-1 {
+		width: 420px !important;
+		height: 235px !important;
+		margin-top: 7vw; 
+		margin-left: -4.5vw;
+	}
 	
 	#emoji-caption-1 {
-	/* 	display: none !important; */
+		margin-top: 44vw;
+		margin-left: 52vw;
+	}
+	
+	#emoji-image-red-dot {
+		width: 80px !important;
+		height: 80px !important;
+		margin-top: 2vw;
+		margin-left: 68vw;
+	}	
+	
+	#emoji-caption-2 {
+		margin-top: 12vw;
+		margin-left: 5vw !important;
+	}
+	
+	#emoji-image-button {
+		width: 239px !important;
+		height: 166px !important;
+		margin-top: 9vw;
+		margin-left: 14vw;
+	}
+		
+	#emoji-caption-3 {
+		margin-top: 17vw;
+		margin-left: 51vw !important;
+	}	
+		
+	#emoji-image-chairs {
+		width: 222px !important;
+		height: 166px !important;
+		margin-top: 14vw;
+		margin-left: 36vw;
+	}
+	
+	#emoji-caption-4 {
+		margin-top: 15vw;
+		margin-left: 3vw;
+	}
+	
+	#emoji-image-arduino {
+		width: 242px !important;
+		height: 121px !important;
+		margin-top: 10vw;
+		margin-left: 13vw;
+	}	
+	
+	#emoji-process {
+		margin-top: 15vw;
+		margin-left: 13vw;
+		padding-bottom: 120px;
+	}
+}
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#emoji-caption-1,
+	#emoji-caption-2,
+	#emoji-caption-3,
+	#emoji-caption-4,
+	#emoji-process {
+		font-size: 11px !important;
+/* 		line-height: 11px !important; */
+	}
+	
+	#emoji-video-1 {
+		width: 717px !important;
+		height: 403px !important;
+		margin-top: -3vw; 
+		margin-left: -4.5vw;
+	}
+	
+	#emoji-caption-1 {
+		margin-top: 42vw;
+		margin-left: 51vw;
+	}
+	
+	#emoji-image-red-dot {
+		width: 125px;
+		height: 125px;
+		margin-top: 2vw;
+		margin-left: 68vw;
+	}	
+	
+	#emoji-caption-2 {
+		margin-top: 12vw;
+		margin-left: 5vw !important;
+	}
+	
+	#emoji-image-button {
+		width: 347px !important;
+		height: 260px !important;
+		margin-top: 9vw;
+		margin-left: 14vw;
+	}
+		
+	#emoji-caption-3 {
+		margin-top: 15vw;
+		margin-left: 53vw !important;
+	}	
+		
+	#emoji-image-chairs {
+		width: 349px !important;
+		height: 261px !important;
+		margin-top: 11vw;
+		margin-left: 38vw;
+	}
+	
+	#emoji-caption-4 {
+		margin-top: 15vw;
+		margin-left: 3vw;
+	}
+	
+	#emoji-image-arduino {
+		width: 382px !important;
+		height: 191px !important;
+		margin-top: 10vw;
+		margin-left: 13vw;
+	}	
+	
+	#emoji-process {
+		margin-top: 15vw;
+		margin-left: 13vw;
+		padding-bottom: 200px;
+	}
+}
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+	
+	#emoji-video-1 {
+		width: 1024px !important;
+		height: 576px !important;
+		margin-top: -1.5vw; 
+		margin-left: -4.5vw;
+	}
+	
+	#emoji-caption-1 {
+		margin-top: 42vw;
+		margin-left: 55vw;
+	}
+	
+	#emoji-image-red-dot {
+		width: 150px;
+		height: 150px;
+		margin-top: 2vw;
+		margin-left: 68vw;
+	}	
+	
+	#emoji-caption-2 {
+		margin-top: 12vw;
+		margin-left: 5vw !important;
+	}
+	
+	#emoji-image-button {
+		width: 500px;
+		height: 375px;
+		margin-top: 9vw;
+		margin-left: 14vw;
+	}
+		
+	#emoji-caption-3 {
+		margin-top: 15vw;
+		margin-left: 53vw !important;
+	}	
+		
+	#emoji-image-chairs {
+		width: 500px;
+		height: 373px;
+		margin-top: 12vw;
+		margin-left: 38vw;
+	}
+	
+	#emoji-caption-4 {
+		margin-top: 15vw;
+		margin-left: 3vw;
+	}
+	
+	#emoji-image-arduino {
+		width: 550px;
+		height: 275px;
+		margin-top: 10vw;
+		margin-left: 13vw;
+	}	
+	
+	#emoji-process {
+		margin-top: 15vw;
+		margin-left: 13vw;
+		padding-bottom: 200px;
+	}
+}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	#emoji-video-1 {
+		width: 1200px !important;
+		height: 675px !important;
+		margin-top: -3vw; 
+		margin-left: -2vw;
+	}
+	
+	#emoji-caption-1 {
+		margin-top: 38vw !important;
+		margin-left: 54vw !important;
+	}
+	
+	#emoji-image-red-dot {
+		width: 200px !important;
+		height: 200px !important;
+		margin-top: 2vw;
+		margin-left: 66vw !important;
+	}	
+	
+	#emoji-caption-2 {
+		margin-top: 8vw;
+		margin-left: 9vw !important;
+	}
+	
+	#emoji-image-button {
+		width: 500px !important;
+		height: 375px !important;
+		margin-top: 9vw;
+		margin-left: 18vw;
+	}
+		
+	#emoji-caption-3 {
+		margin-top: 11vw;
+		margin-left: 59vw !important;
+	}	
+		
+	#emoji-image-chairs {
+		width: 598px !important;
+		height: 446px !important;
+		margin-top: 12vw;
+		margin-left: 46vw;
+	}
+	
+	#emoji-caption-4 {
+		margin-top: 12vw;
+		margin-left: 3vw;
+	}
+	
+	#emoji-image-arduino {
+		width: 657px !important;
+		height: 328px !important;
+		margin-top: 10vw;
+		margin-left: 13vw;
+	}	
+	
+	#emoji-process {
+		margin-top: 15vw;
+		margin-left: 13vw;
+		padding-bottom: 300px;
+	}
+}
+
+
+
+
+
+
+/*
+@media screen and (max-width: 1880px) {
+
+	#emoji-caption-1 {
 		margin-top: 33vw;
 		margin-left: 48vw;
 		font-size: 13.5px !important;
 		}		
-	
 	#emoji-container-1 {
 		width: 850px !important;
 		height: 478px !important;
 		margin-top: -24vw !important;
-	/* 	margin-top: -22vw;  */
-	/* 	margin-left: -3vw; */
 		}
 	#emoji-video-1 {
 		width: 100% !important;
 		height: 100% !important;
-	/* 	margin-top: -22vw;  */
-	/* 	margin-left: -3vw; */
-		}
-	}
-
-
+	} 
+}
 
 
 
 @media screen and (max-width: 1680px) {
 
-
 	#emoji-caption-1 {
 		margin-top: 33vw !important;
 		margin-left: 54vw !important;
 		font-size: 12.5px !important;
-		}
+	} 
 }
-
-
 
 
 
 @media screen and (max-width: 1480px) {
 
-
 	#emoji-caption-1 {
 		margin-top: 45vw !important;
 		margin-left: 53vw !important;
 		font-size: 12.5px !important;
-/* 		width: 200px !important; */
-		}
-	
+	}
 	#emoji-container-1 {
 		width: 850px !important;
 		height: 478px !important;
 		margin-top: -38vw !important;
-	/* 	margin-left: -3vw; */
-		}
+	}
 	#emoji-video-1 {
 		width: 100% !important;
 		height: 100% !important;
-		}
-}	
+	}	
+} */	
