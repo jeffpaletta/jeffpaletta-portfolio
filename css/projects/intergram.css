@@ -1,44 +1,43 @@
 
-
 #intergram-video-1 {
+	width: 1200px;
+	height: 720px;
 	margin-top: -7vw;
 	margin-left: -3vw;
-}
-	
+}	
 	
 #intergram-caption-1 {
 	margin-top: 39vw;
 	margin-left: 56vw;
 }
-	
-	
+		
 #intergram-image-1 {
+	width: 600px;
+	height: 239px;
 	margin-top: 17vw;
-	margin-left: -1vw;
+	margin-left: 4vw;
 }
-	
-	
+		
 #intergram-caption-2 {
 	margin-top: 6vw;
-	margin-left: 12vw;
+	margin-left: 17vw;
 }
-	
-	
+		
 #intergram-image-2 {
-	margin-top: 17vw;
+	width: 600px;
+	height: 394px;
+	margin-top: 16vw;
 	margin-left: 50vw;
 }
-	
-	
+		
 #intergram-caption-3 {
-	margin-top: 6vw;
-	margin-left: 46vw;
+	margin-top: 9vw;
+	margin-left: 43vw;
 }
-	
-	
+		
 #intergram-process {
-	margin-top: 2vw;
-	margin-left: 46vw;
+	margin-top: 3vw;
+	margin-left: 43vw;
 	padding-bottom: 200px;
 }
 
@@ -50,15 +49,112 @@
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
 	
+	#intergram-caption-1,
+	#intergram-caption-2,
+	#intergram-caption-3,
+	#intergram-process {
+		font-size: 8px !important;
+		line-height: 11px !important;
 	}
+	
+	#intergram-video-1 {
+		width: 545px !important;
+		height: 327px !important;
+		margin-top: -1vw;
+		margin-left: -3vw;
+	}	
+		
+	#intergram-caption-1 {
+		margin-top: 57vw;
+		margin-left: 50vw;
+	}
+			
+	#intergram-image-1 {
+		width: 272px !important;
+		height: 108px !important;
+		margin-top: 17vw;
+		margin-left: -1vw;
+	}
+			
+	#intergram-caption-2 {
+		margin-top: 7vw;
+		margin-left: 12vw;
+	}
+			
+	#intergram-image-2 {
+		width: 272px !important;
+		height: 178px !important;
+		margin-top: 18vw;
+		margin-left: 47vw;
+	}
+			
+	#intergram-caption-3 {
+		margin-top: 9vw;
+		margin-left: 40vw;
+	}
+			
+	#intergram-process {
+		margin-top: 3vw;
+		margin-left: 40vw;
+		padding-bottom: 200px;
+	}
+}
 
 
 
 /* 1336 x 768 */
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
 	
+	#intergram-caption-1,
+	#intergram-caption-2,
+	#intergram-caption-3,
+	#intergram-process {
+		font-size: 11px !important;
+/* 		line-height: 11px !important; */
 	}
-
+	
+	#intergram-video-1 {
+		width: 840px !important;
+		height: 504px !important;
+		margin-top: -7vw;
+		margin-left: -3vw;
+	}	
+		
+	#intergram-caption-1 {
+		margin-top: 39vw;
+		margin-left: 56vw;
+	}
+			
+	#intergram-image-1 {
+		width: 420px !important;
+		height: 167px !important;
+		margin-top: 17vw;
+		margin-left: -1vw;
+	}
+			
+	#intergram-caption-2 {
+		margin-top: 9vw;
+		margin-left: 12vw;
+	}
+			
+	#intergram-image-2 {
+		width: 420px !important;
+		height: 275px !important;
+		margin-top: 15vw;
+		margin-left: 50vw;
+	}
+			
+	#intergram-caption-3 {
+		margin-top: 9vw;
+		margin-left: 43vw;
+	}
+			
+	#intergram-process {
+		margin-top: 3vw;
+		margin-left: 43vw;
+		padding-bottom: 200px;
+	}
+}
 
 
 
