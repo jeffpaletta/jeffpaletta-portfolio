@@ -76,10 +76,18 @@
 
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
-
+	
+	#dada-caption-1,
+	#dada-caption-2,
+	#dada-caption-3,
+	#dada-caption-4,
+	#dada-process {
+		font-size: 8px !important;
+		line-height: 11px !important;
+	}
 
 	#dada-caption-2 {
-		margin-right: 4vw !important;
+		margin-top: 6vw !important;
 		margin-left: 50vw !important;
 	}
 	
@@ -88,6 +96,7 @@
 		width: 475px !important;
 		margin-top: 8vw !important;
 		margin-left: 21vw !important;
+		margin-bottom: 3vw !important;
 	}
 	
 	#dada-caption-2 {
@@ -134,6 +143,15 @@
 
 /* 1336 x 768 */
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#dada-caption-1,
+	#dada-caption-2,
+	#dada-caption-3,
+	#dada-caption-4,
+	#dada-process {
+		font-size: 8px !important;
+/* 		line-height: 11px !important; */
+	}
 	
 	#dada-caption-1 {
 		margin-top: -1vw !important;
