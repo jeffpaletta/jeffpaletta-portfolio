@@ -1,28 +1,25 @@
-		
+/* argonaut.css by Jeffrey Paletta */
+	
 #argonaut-image-1 {
 	margin-top: -4vw;
 	margin-left: -6vw;
 	width: 700px;
 }
 
-
 #argonaut-caption-1 {
 	margin-top: 4vw;
 	margin-left: 20vw;
 }
-	
-	
+		
 #argonaut-image-2 {
 	margin-top: 14vw;
 	margin-left: vw;
-}
-	
+}	
 	
 #argonaut-caption-2 {
 	margin-top: 16vw;
 	margin-left: -10vw;
 }
-
 	
 #argonaut-poster-1 {
 	margin-top: 4vw;
@@ -34,7 +31,6 @@
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
-
 #argonaut-poster-2 {
 	margin-top: -12vw;
 	margin-left: 30vw;
@@ -44,7 +40,6 @@
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
-
 
 #argonaut-poster-3 {
 	margin-top: -17vw;
@@ -56,18 +51,23 @@
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
-
 #argonaut-caption-2 {
 	margin-top: 10vw;
 	margin-left: 2vw;
-	}
-
+}
 
 #argonaut-process {
 	margin-top: 9vw;
 	margin-left: 52vw;
 	padding-bottom: 150px;
-	}
+}
+
+#argonaut-image-glyphs {
+	margin-top: 10vw;
+	margin-left: 5vw;
+	width: 800px;
+	height: 449px;
+}
 
 
 	
