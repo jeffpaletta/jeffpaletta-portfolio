@@ -1,17 +1,12 @@
-/* kinect.css by Jeffrey Paletta */
 
 #kinect-video-1 {
 	margin-top: -7vw;
-	margin-left: -7.5vw;
+	margin-left: -13vw;
 }
 
 #kinect-caption-1 {
 	margin-top: 41vw;
 	margin-left: -2vw;
-}
-
-.kinect-indent {
-	padding-left: 16px !important;
 }
 
 
