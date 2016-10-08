@@ -1,0 +1,20 @@
+
+@font-face {
+	font-family: 'Clearance Caption';
+	src: url('subset-ClearanceCaption-Regular.eot');
+	src: url('subset-ClearanceCaption-Regular.eot?#iefix') format('embedded-opentype'),
+		url('subset-ClearanceCaption-Regular.woff') format('woff'),
+		url('subset-ClearanceCaption-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Clearance Display';
+	src: url('subset-ClearanceDisplay-Regular.eot');
+	src: url('subset-ClearanceDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+		url('subset-ClearanceDisplay-Regular.woff') format('woff'),
+		url('subset-ClearanceDisplay-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

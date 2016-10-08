@@ -1,5 +1,7 @@
 /* clearance.css by Jeffrey Paletta */
 
+
+
 #clearance-image-poster {
 	margin-top: vw;
 	margin-left: vw;
@@ -14,6 +16,71 @@
 	margin-top: vw;
 	margin-left: vw;
 }
+
+
+
+
+
+textarea#notepad {
+	width: 100%;
+	height: 200px;
+/* 	font-family: 'Clearance Display', Impact; */
+	font-size: 15em;
+	padding: 1em;
+	text-transform: uppercase;
+	border-color: transparent;
+	border: none;
+	overflow: hidden;
+	outline: none;
+	-webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+		::-webkit-input-placeholder { /* Chrome */
+		  color: #ccc;
+		  opacity: 0.3;
+		}
+		
+		:-ms-input-placeholder { /* IE 10+ */
+		  color: #ccc;
+		  opacity: 0.3
+		}
+		
+		::-moz-placeholder { /* Firefox 19+ */
+		  color: #ccc;
+		  opacity: 0.3;
+		}
+		
+		:-moz-placeholder { /* Firefox 4 - 18 */
+		  color: #ccc;
+		  opacity: 0.3;
+		}
+	
+
+textarea.font-preview {
+	font-family: 'Clearance Display', Impact;
+}
+
+div#text {
+  font-family: Times !important;
+}
+
+.caption { 
+  font-family: 'Clearance Caption' !important; 
+ }
+
+
+.font-hidden {
+  display:none;
+}
+
+div#toggle-buttons {
+	margin-top: 2vw;
+	margin-left: 40vw;
+}
+
+
 
 
 

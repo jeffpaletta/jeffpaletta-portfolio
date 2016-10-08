@@ -1,16 +1,4 @@
-@font-face {
-	font-family:'clearanceDisplay';
-	src:
-		url('fonts/ClearanceDisplay-Regular.otf')
-		format('opentype');	
-}
 
-@font-face {
-	font-family:'clearanceCaption';
-	src: 
-		url('fonts/ClearanceCaption-Regular.otf') 
-		format('opentype');
-}
 
 .clearanceDisplay {
 	font-family:'clearanceDisplay',cursive;

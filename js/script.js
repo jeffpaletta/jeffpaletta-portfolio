@@ -406,4 +406,5 @@ $(document).ready(function() {
 		$('.browser').remove();
 		e.preventDefault();
 	});
+
 });

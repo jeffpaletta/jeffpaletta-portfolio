@@ -1,21 +1,5 @@
-/*
-* Webfonts served by Typotheque.com
-*
-* To make the font files as small as possible,
-* most glyphs and OpenType features were removed.
-* To edit the fonts, add more language support,
-* log it to your Typotheque account:
-* http://www.typotheque.com/my_account/webfonts
-*
-* The Typotheque Font Software is protected under domestic
-* and international trademark and copyright law.
-* Modifying, reverse engineering or otherwise copying
-* of Typotheque Font Software is illegal.
-* http://www.typotheque.com/licensing/
-*
-* (c) 2015, Typotheque
-* Generated: 2015-11-15 13:18:30
-*/
+
+											/* NEUTRAL */
 
 @font-face {
 	font-family: "Neutral";
@@ -30,3 +14,5 @@
 	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-026806-008973-001251-1447593514.eot");
 	src: url("https://s3.amazonaws.com/fonts.typotheque.com/WF-026806-008973-001251-1447593514.eot?#iefix") format("embedded-opentype"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-026806-008973-001251-1447593514.woff") format("woff"), url("https://s3.amazonaws.com/fonts.typotheque.com/WF-026806-008973-001251-1447593514.svg#typotheque_webfonts_service") format("svg");
 	}
+	
+	
