@@ -52,8 +52,8 @@
     <!-- Global Scripts -->
 	    <script src="js/jquery-1.11.2.min.js"></script>
 	    <script src="js/connect.js"></script>
-	    <script src="js/script.js"></script>
-
+	    <script src="js/script.js"></script>    
+	    
 
 	<!-- Redirect on Mobile -->
 		<script type="text/javascript"> // <![CDATA[
@@ -62,21 +62,6 @@
 			} // ]]>
 		</script>
 		
-		<script>
-		$(document).ready(function(){
-			$(".setImpact").click(function() {
-			    $(".font-preview").toggleClass("caption");
-			    $("#impactSelected").toggleClass("font-hidden");
-			    $("#arialSelected").toggleClass("font-hidden");
-			});
-			
-			$(".setArial").click(function() {
-			    $(".font-preview").removeClass("caption");
-			    $("#impactSelected").toggleClass("font-hidden");
-			    $("#arialSelected").toggleClass("font-hidden");
-			});
-		});
-	</script>
 
 </head>
 
@@ -241,9 +226,9 @@
         </p>   
 	</div>    
         
-        
+    <script src="js/fontDemo.js"></script>        
     <script src="js/gallery.js"></script>
-    <script src="js/showMore.js"></script>
+<!--     <script src="js/showMore.js"></script> -->
 
 	<script>
 		
@@ -256,6 +241,7 @@
   		ga('send', 'pageview');
 
 	</script>
+	
 
 </footer>
 
