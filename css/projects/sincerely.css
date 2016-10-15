@@ -1,40 +1,84 @@
+/* sincerely.css by Jeffrey Paletta */
 
 
-#sincerely-video-01 {
-	margin-top: -3vw; 
-	margin-left: 4vw;	
-}
-	
+#sincerely-video-1 {
+	width: 492px;
+	height: 850px;
+	margin-top: -5vw; 
+	margin-left: 1vw;	
+}	
 
-#sincerely-caption-01 {
-/* 	margin-top: 37vw;  */
+#sincerely-caption-1 {
 	margin-top: 42vw; 
 	margin-left: 61vw;	
 }
 
-#sincerely-process {
-	margin-top: 2vw;
-	margin-left: 61vw;
+#sincerely-image-1 {	/* LMAO notebook sketch */
+	width: 378px;
+	height: 400px;
+	margin-top: 10vw;
+	margin-left: 12vw;
 }
+
+#sincerely-caption-2 {
+	margin-top: 12vw; 
+	margin-left: 1vw;	
+}
+
+
+#sincerely-image-2 {	/* Roll on floor laughing prompt */
+	width: 700px;
+	height: 137px;
+	margin-top: 15vw;
+	margin-left: 30vw;
+}
+
+#sincerely-caption-3 {
+	margin-top: 15vw; 
+	margin-left: 55vw;	
+}
+
+#sincerely-process {
+	margin-top: -2vw;
+	margin-left: 55vw;
+}
+
+#sincerely-image-3 {	/* Message failed then Scanning */
+/*
+	width: 238px;
+	height: 300px;
+	margin-top: 50vw;
+	margin-left: 2vw;
+*/
+}
+
+#sincerely-image-4 {	/* Picture message with text */
+	width: 376px;
+	height: 600px;
+	margin-top: 13vw;
+	margin-left: 10vw;
+}
+
+
 		
 		
 		
 		
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px) {
-	
 }
-
 
 
 /* 1336 x 768 */
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
-	
 }
 
 
-
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2600px) {
-	
+@media screen and (min-width: 1400px) and (max-width: 2099px) {
+}
+
+
+/* 2100+ */
+@media screen and (min-width: 2100px) {
 }
