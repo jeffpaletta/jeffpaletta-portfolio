@@ -40,7 +40,7 @@
 
 .experimental-gallery-container {
   padding-top: 50px;
-  max-width:600px !important;
+  max-width:800px !important;
   position:relative;
 /*   margin:0 auto; */
   margin-top:4vw !important;
@@ -63,8 +63,8 @@
 		.experimental-gallery-image{
 		  position:relative;
 		  float:left;
-		  height:200px !important;
-		  width:153px !important;
+		  height:120px !important;
+		  width:90px !important;
 		  background:#fff;
 		  margin:20px !important;
 		}
@@ -74,14 +74,14 @@
 		  position:relative;
 		  top:0px;
 		  left:0px;
-		  width:153px !important;
+		  width:90px !important;
 		  z-index:1000;
 		  opacity:1;
 		  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
 		}
 		
 		.experimental-photo-image:hover{
-		  width:153px !important;
+		  width:90px !important;
 		  top:-15px;
 		  left: 0px;
 		  z-index:1001;
