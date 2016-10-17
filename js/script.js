@@ -37,13 +37,13 @@ $(document).ready(function() {
 		'&#9814;',		//	♖	duck-hunt
 		'&#9999;',		//	✏	education
 		'&#9988;',		//	✄	exprimental type
-		'&#0000;',		//	░	hamtramck
+		'&#9617;',		//	░	hamtramck
 		'&#9734;',		//	☆	intergram
 		'&#9836;',		//	♬	jazzfest
 		'&#9758;',		//	☞	kinect
 		'&#12283;',		//	⿻	lorraine
 		'&#9998;',		//	✎	manifesto
-		'&#9853;',		//	♽	paint mixer
+		'&#9888;',		//	⚠	paint mixer
 		'&#9743;',		//	☏	presidential supply
 		'&#9680;',		//	◐	red-emoji
 		'&#9745;',		//	☑	sincerely
