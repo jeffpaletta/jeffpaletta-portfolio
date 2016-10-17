@@ -100,9 +100,28 @@ textarea.display-preview {
 	margin-left: 36vw;
 }
 
+#clearance-image-display {
+	width: 500px;
+	height: 223px;
+	margin-top: 14vw;
+	margin-left: -2vw;
+}
+
+#clearance-image-caption {
+	width: 500px;
+	height: 214px;
+	margin-top: 4vw;
+	margin-left: -2vw;
+}
+
+#clearance-caption-3 {
+	margin-top: 13vw;
+	margin-left: 8vw;
+}
+
 #clearance-process {
 	margin-top: 2vw;
-	margin-left: 36vw;
+	margin-left: 8vw;
 	padding-bottom: 200px;
 }
 
@@ -211,6 +230,25 @@ textarea.display-preview {
 		margin-left: 36vw;
 	}
 	
+	#clearance-image-display {
+		width: 500px;
+		height: 223px;
+		margin-top: 14vw;
+		margin-left: -2vw;
+	}
+	
+	#clearance-image-caption {
+		width: 500px;
+		height: 214px;
+		margin-top: 4vw;
+		margin-left: -2vw;
+	}
+	
+	#clearance-caption-3 {
+		margin-top: 10vw;
+		margin-left: 8vw;
+	}
+	
 	#clearance-process {
 		margin-top: 2vw;
 		margin-left: 36vw;
@@ -226,6 +264,7 @@ textarea.display-preview {
 /* 1920 x 1080 */
 @media screen and (min-width: 1400px) and (max-width: 2099px)	 {
 	
+/*
 	#clearance-image-poster {
 		width: 494px;
 		height: 800px;
@@ -250,22 +289,22 @@ textarea.display-preview {
 	    margin-left: 32vw;
 	}
 	
-			::-webkit-input-placeholder { /* Chrome */
+			::-webkit-input-placeholder { 
 			  color: #ccc;
 			  opacity: 0.3;
 			}
 			
-			:-ms-input-placeholder { /* IE 10+ */
+			:-ms-input-placeholder { 
 			  color: #ccc;
 			  opacity: 0.3
 			}
 			
-			::-moz-placeholder { /* Firefox 19+ */
+			::-moz-placeholder { 
 			  color: #ccc;
 			  opacity: 0.3;
 			}
 			
-			:-moz-placeholder { /* Firefox 4 - 18 */
+			:-moz-placeholder { 
 			  color: #ccc;
 			  opacity: 0.3;
 			}
@@ -309,12 +348,32 @@ textarea.display-preview {
 		margin-left: 36vw;
 	}
 	
+	#clearance-image-display {
+		width: 500px;
+		height: 223px;
+		margin-top: 14vw;
+		margin-left: -2vw;
+	}
+	
+	#clearance-image-caption {
+		width: 500px;
+		height: 214px;
+		margin-top: 4vw;
+		margin-left: -2vw;
+	}
+	
+	#clearance-caption-3 {
+		margin-top: 13vw;
+		margin-left: 8vw;
+	}
+	
 	#clearance-process {
 		margin-top: 2vw;
 		margin-left: 36vw;
 		padding-bottom: 200px;
 	}
-}	
+}
+*/	
 		
 		
 		
@@ -403,6 +462,25 @@ textarea.display-preview {
 	#clearance-caption-2 {
 		margin-top: 10vw;
 		margin-left: 32vw;
+	}
+	
+	#clearance-image-display {
+		width: 500px;
+		height: 223px;
+		margin-top: 14vw;
+		margin-left: -2vw;
+	}
+	
+	#clearance-image-caption {
+		width: 500px;
+		height: 214px;
+		margin-top: 4vw;
+		margin-left: -2vw;
+	}
+	
+	#clearance-caption-3 {
+		margin-top: 13vw;
+		margin-left: 8vw;
 	}
 	
 	#clearance-process {

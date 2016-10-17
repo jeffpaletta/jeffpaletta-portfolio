@@ -50,29 +50,6 @@ $(document).ready(function() {
 		'&#9756;',		//	☜	think-play-create
 		'&#9730;'		//	☂	wooemmaii
 	];
-	/*
-	characters = [
-		'&#128579;', 		//	🙃	about
-		'&#9918;',			//	⚾️	argonaut
-		'&#9997;',			//	✍️	clearance
-		'&#128701;',		//	🚽	dada
-		'&#128299;',		//	🔫	duck-hunt
-		'&#128211;',		//	📓	education
-		'&#9986;',			//	✂️	exprimental type
-		'&#127758;',		//	🌎	hamtramck
-		'&#128421;',		//	🖥	intergram
-		'&#127930;',		//	🎺	jazzfest
-		'&#128587;',		//	🙋	kinect
-		'&#128680;',		//	🚨	lorraine
-		'&#128221;',		//	📝	manifesto
-		'&#127912;',		//	🎨	paint mixer
-		'&#9742;',			//	☎️	presidential supply
-		'&#128308;',		//	🔴	red-emoji
-		'&#9745;',			//	😂	sincerely
-		'&#9756;',			//	👋	think-play-create
-		'&#9748;'			//	☔️	wooemmaii
-	];
-*/
 	var navOpen = false;
 	var totalProjects = $('nav li').length - 1;
 	// var totalProjects = 20;
