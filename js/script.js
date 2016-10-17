@@ -38,7 +38,7 @@ $(document).ready(function() {
 		'&#9999;',		//	✏	education
 		'&#9988;',		//	✄	exprimental type
 		'&#0000;',		//	░	hamtramck
-		'&#9734;',	//	☆	intergram
+		'&#9734;',		//	☆	intergram
 		'&#9836;',		//	♬	jazzfest
 		'&#9758;',		//	☞	kinect
 		'&#12283;',		//	⿻	lorraine
@@ -50,28 +50,6 @@ $(document).ready(function() {
 		'&#9756;',		//	☜	think-play-create
 		'&#9730;'		//	☂	wooemmaii
 	];
-/*	
-	characters = [
-		'&#9786;', 		//	☺
-		'&#9785;',		//	☹
-		'&#9788;',		//	☼
-		'&#9730;',		//	☂
-		'&#9756;',		//	☜
-		'&#9992;',		//	✈
-		'&#9988;',		//	✄
-		'&#9996;',		//	✌	(problematic)
-		'&#9998;',		//	✎
-		'&#9680;',		//	◐
-		'&#9096;',		//	⎈ 
-		'&#9999;',		//	✏
-		'&#9814;',		//	♖ 
-		'&#9816;',		//	♘
-		'&#9775;', 		//	☯
-		'&#9638;',		//	▦
-		'&#9682;',		//	◒
-		'&#9786;'		//	☺	(duplicate)
-	];
-*/
 	var navOpen = false;
 	var totalProjects = $('nav li').length - 1;
 	// var totalProjects = 20;
