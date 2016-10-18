@@ -14,9 +14,41 @@
 	padding-left: 16px !important;
 }
 
+#kinect-image-sensor {
+	width: 600px;
+	height: 210px;
+	margin-top: 10vw;
+	margin-left: 8vw;
+}
+
+#kinect-caption-2 {
+	margin-top: 12vw;
+	margin-left: 58vw;
+}
+
+#kinect-video-2 {
+	width: 600px;
+	height: 600px;
+	margin-top: 10vw;
+	margin-left: 38vw;
+}
+
+#kinect-caption-3 {
+	margin-top: 18vw;
+	margin-left: 3vw;
+}
+
 #kinect-process {
 	margin-top: 2vw;
-	margin-left: -2vw;
+	margin-left: 3vw;
+}
+
+#kinect-code-1 {
+	width: 700px;
+	height: 2000px;
+	margin-top: 12vw;
+	margin-left: 24vw;
+	padding-bottom: 150px;
 }
 
 

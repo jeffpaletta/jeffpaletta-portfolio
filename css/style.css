@@ -1434,6 +1434,10 @@ footer {
 /* 	border-bottom: 1px solid #ccc !important; */
 }
 
+.pastebin {
+	border: none;
+}
+
 
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
