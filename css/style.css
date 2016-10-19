@@ -400,6 +400,13 @@ nav li {
 	top:30%;
 	left:55%;
 }
+		/* 800 x 600 */
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
+			.link-4 {
+				top:29%;
+				left:53%;
+			}
+		}
 
 /* What if finding the best school for your child only took ten minutes? */
 .link-5 {
@@ -413,6 +420,14 @@ nav li {
 	left:42%;
 /*   left: 41%;  */
 }
+
+		/* 800 x 600 */
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
+			.link-6 {
+				top:35%;
+				left:42%;
+			}
+		}
 
 /* What if you knew that your house paint could kill you? */
 .link-7 {
