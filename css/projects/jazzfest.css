@@ -10,41 +10,50 @@
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
-
 #jazz-caption-1 {
 	margin-top: 11vw;
 	margin-left: vw;
 }
 
-
-#jazz-image-2 {
+#jazz-image-scales {
 	margin-top: 12vw;
 	margin-left: 44vw;
+	width: 480px !important;
+	height: 682px !important;
+}
+
+#jazz-caption-2 {
+	margin-top: 10vw;
+	margin-left: 36vw;
+}
+
+/*
+#jazz-image-alt-poster {
+	margin-top: 19vw;
+	margin-left: 12vw;
 	width: 383px;
 	height: 600px;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
+*/
 
+#jazz-image-text {
+	width: 600px;
+	height: 282px;
+	margin-top: 21vw;
+	margin-left: 2vw;
+}
 
-#jazz-caption-2 {
+#jazz-caption-3 {
 	margin-top: 10vw;
-	margin-left: 55vw;
+	margin-left: 13vw;
 }
-
-
-#jazz-image-3 {
-	margin-top: 19vw;
-	margin-left: 12vw;
-	width: 422px !important;
-	height: 600px !important;
-}
-
 
 #jazz-process {
-	margin-top: 6vw;
-	margin-left: 12vw;
+	margin-top: 2vw;
+	margin-left: 13vw;
 	padding-bottom: 200px;
 }
 
@@ -83,7 +92,8 @@
 		display: none !important;
 	}
 	
-	#jazz-image-2 {
+/*
+	#jazz-image-alt-poster {
 		margin-top: 18vw !important;
 		margin-left: 41vw !important;
 		width: 213px !important;
@@ -92,23 +102,36 @@
 		-moz-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
 		box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.20) !important;
 	}
+*/
+	
+	#jazz-image-scales {
+		margin-top: 14vw;
+		margin-left: 47vw;
+		width: 204px !important;
+		height: 291px !important;
+	}
 	
 	#jazz-caption-2 {
-	margin-top: 10vw;
-	margin-left: 51vw !important;
-}
+		margin-top: 11vw;
+		margin-left: 36vw;
+	}
 	
-	#jazz-image-3 {
-		margin-top: 19vw;
-		margin-left: 12vw;
-		width: 235px !important;
-		height: 335px !important;
+	#jazz-image-text {
+		width: 273px;
+		height: 128px;
+		margin-top: 21vw;
+		margin-left: 2vw;
+	}
+	
+	#jazz-caption-3 {
+		margin-top: 11vw;
+		margin-left: 13vw;
 	}
 	
 	#jazz-process {
-		margin-top: 6vw !important;
-		margin-left: 12vw;
-		padding-bottom: 120px !important;
+		margin-top: 2vw;
+		margin-left: 13vw;
+		padding-bottom: 200px;
 	}
 }
 
@@ -124,7 +147,7 @@
 	#jazz-caption-3,
 	#jazz-process {
 		font-size: 11px !important;
-/* 		line-height: 14px !important; */
+		line-height: 18px !important;
 	}
 	
 	#jazz-image-1 {
@@ -139,27 +162,46 @@
 		margin-left: 1vw !important;
 	}
 	
-	.remove-br {
-/* 		display: none !important; */
+	#jazz-image-scales {
+		margin-top: 14vw;
+		margin-left: 47vw;
+		width: 315px !important;
+		height: 448px !important;
 	}
 	
-	#jazz-image-2 {
-		margin-top: 15vw !important;
-		margin-left: 44vw;
-		width: 261px !important;
-		height: 410px !important;
+	#jazz-caption-2 {
+		margin-top: 11vw;
+		margin-left: 36vw;
 	}
 	
-	#jazz-image-3 {
+	/*
+	#jazz-image-alt-poster {
 		margin-top: 19vw;
 		margin-left: 12vw;
-		width: 288px !important;
-		height: 410px !important;
+		width: 383px;
+		height: 600px;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
+	*/
+	
+	#jazz-image-text {
+		width: 420px;
+		height: 197px;
+		margin-top: 21vw;
+		margin-left: 2vw;
+	}
+	
+	#jazz-caption-3 {
+		margin-top: 11vw;
+		margin-left: 13vw;
 	}
 	
 	#jazz-process {
-		margin-top: 4vw !important;
-		margin-left: 12vw;
+		margin-top: 2vw;
+		margin-left: 13vw;
+		padding-bottom: 200px;
 	}
 }
 
@@ -182,23 +224,46 @@
 		height: 1000px;
 	}
 	
-	#jazz-image-2 {
+	#jazz-image-scales {
 		margin-top: 12vw;
 		margin-left: 44vw;
-		width: 478px !important;
-		height: 750px !important;
+		width: 575px !important;
+		height: 818px !important;
 	}
 	
-	#jazz-image-3 {
+	#jazz-caption-2 {
+		margin-top: 7vw !important;
+		margin-left: 36vw;
+	}
+	
+	/*
+	#jazz-image-alt-poster {
 		margin-top: 19vw;
 		margin-left: 12vw;
-		width: 527px !important;
-		height: 750px !important;
+		width: 383px;
+		height: 600px;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
+	*/
+	
+	#jazz-image-text {
+		width: 720px;
+		height: 338px;
+		margin-top: 21vw;
+		margin-left: 2vw;
+	}
+	
+	#jazz-caption-3 {
+		margin-top: 10vw;
+		margin-left: 16vw;
 	}
 	
 	#jazz-process {
-		margin-top: 3vw !important;
-/* 		margin-left: 12vw; */
+		margin-top: 1vw;
+		margin-left: 16vw;
+		padding-bottom: 200px;
 	}
 }
 

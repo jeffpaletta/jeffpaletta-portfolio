@@ -1,6 +1,8 @@
 
 
 #tpc-video-1 {
+	width: 1200px;
+	height: 720px;
 	margin-top: -3vw;
 	margin-left: -4vw;
 }
@@ -235,6 +237,8 @@
 @media screen and (min-width: 1400px) and (max-width: 2099px)	 {
 	
 	#tpc-video-1 {
+		width: 1200px;
+		height: 720px;
 		margin-top: -3vw;
 		margin-left: -4vw;
 	}
@@ -251,7 +255,7 @@
 	
 	#tpc-video-2 {
 		margin-top: 18vw;
-		margin-left: 39vw;
+		margin-left: 33vw;
 	}
 	
 	#tpc-caption-2 {
@@ -260,8 +264,8 @@
 	}
 	
 	#tpc-caption-3 {
-		margin-top: 48vw;
-		margin-left: 39vw;
+		margin-top: 50vw;
+		margin-left: 31vw;
 	}
 	
 	#tpc-video-3 {

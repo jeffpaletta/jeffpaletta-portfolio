@@ -1,12 +1,14 @@
 /* kinect.css by Jeffrey Paletta */
 
 #kinect-video-1 {
+	width: 1280px;
+	height: 720px;
 	margin-top: -7vw;
 	margin-left: -7.5vw;
 }
 
 #kinect-caption-1 {
-	margin-top: 41vw;
+	margin-top: 43vw;
 	margin-left: -2vw;
 }
 
@@ -15,15 +17,15 @@
 }
 
 #kinect-image-sensor {
-	width: 600px;
-	height: 210px;
+	width: 800px;
+	height: 261px;
 	margin-top: 10vw;
-	margin-left: 8vw;
+	margin-left: 4vw;
 }
 
 #kinect-caption-2 {
-	margin-top: 12vw;
-	margin-left: 58vw;
+	margin-top: 14vw;
+	margin-left: 54vw;
 }
 
 #kinect-video-2 {
@@ -34,7 +36,7 @@
 }
 
 #kinect-caption-3 {
-	margin-top: 18vw;
+	margin-top: 55vw;
 	margin-left: 3vw;
 }
 
@@ -45,9 +47,9 @@
 
 #kinect-code-1 {
 	width: 700px;
-	height: 2000px;
-	margin-top: 12vw;
-	margin-left: 24vw;
+	height: 1000px;
+	margin-top: 14vw;
+	margin-left: 13vw;
 	padding-bottom: 150px;
 }
 
@@ -56,26 +58,189 @@
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
 	
+	#kinect-caption-1,
+	#kinect-caption-2,
+	#kinect-caption-3,
+	#kinect-process {
+		font-size: 8px !important;
+		line-height: 12px !important;
 	}
+	
+	#kinect-video-1 {
+		width: 581px;;
+		height: 327px;
+		margin-top: -1vw;
+/* 		margin-left: -7.5vw; */
+	}
+	
+	#kinect-caption-1 {
+		margin-top: 55vw;
+/* 		margin-left: -2vw; */
+	}
+	
+	.kinect-indent {
+/* 		padding-left: 16px !important; */
+	}
+	
+	#kinect-image-sensor {
+		width: 363px;
+		height: 117px;
+/* 		margin-top: 10vw; */
+		margin-left: 6vw;
+	}
+	
+	#kinect-caption-2 {
+/* 		margin-top: 14vw; */
+/* 		margin-left: 54vw; */
+	}
+	
+	#kinect-video-2 {
+		width: 268px;
+		height: 268px;
+/* 		margin-top: 10vw; */
+/* 		margin-left: 38vw; */
+	}
+	
+	#kinect-caption-3 {
+		margin-top: 60vw;
+/* 		margin-left: 3vw; */
+	}
+	
+	#kinect-process {
+/* 		margin-top: 2vw; */
+/* 		margin-left: 3vw; */
+	}
+	
+	#kinect-code-1 {
+		width: 350px;
+		height: 500px;
+/* 		margin-top: 14vw; */
+/* 		margin-left: 13vw; */
+/* 		padding-bottom: 150px; */
+	}
+}
 
 
 
 /* 1336 x 768 */
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
 	
+	#kinect-caption-1,
+	#kinect-caption-2,
+	#kinect-caption-3,
+	#kinect-process {
+		font-size: 11px !important;
+		line-height: 18px !important;
 	}
+	
+	#kinect-video-1 {
+		width: 896px;
+		height: 504px;
+/* 		margin-top: -7vw; */
+/* 		margin-left: -7.5vw; */
+	}
+	
+	#kinect-caption-1 {
+/* 		margin-top: 43vw; */
+/* 		margin-left: -2vw; */
+	}
+	
+	.kinect-indent {
+/* 		padding-left: 16px !important; */
+	}
+	
+	#kinect-image-sensor {
+		width: 560px;
+		height: 182px;
+/* 		margin-top: 10vw; */
+/* 		margin-left: 4vw; */
+	}
+	
+	#kinect-caption-2 {
+/* 		margin-top: 14vw; */
+/* 		margin-left: 54vw; */
+	}
+	
+	#kinect-video-2 {
+		width: 418px;
+		height: 418px;
+/* 		margin-top: 10vw; */
+/* 		margin-left: 38vw; */
+	}
+	
+	#kinect-caption-3 {
+/* 		margin-top: 55vw; */
+/* 		margin-left: 3vw; */
+	}
+	
+	#kinect-process {
+/* 		margin-top: 2vw; */
+/* 		margin-left: 3vw; */
+	}
+	
+	#kinect-code-1 {
+		width: 500px;
+		height: 695px;
+/* 		margin-top: 14vw; */
+/* 		margin-left: 13vw; */
+/* 		padding-bottom: 150px; */
+	}
+}
 
 
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2600px)	 {
-				
-	}
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+}
 		
 		
 
 /* 2100+ */
 @media screen and (min-width: 2100px)	 {
-				
+	
+	#kinect-video-1 {
+		width: 1536px;
+		height: 864px;
 	}
+		
+	#kinect-caption-1 {
+		margin-top: 39vw;
+		margin-left: -2vw;
+	}
+		
+	#kinect-image-sensor {
+		width: 960px;
+		height: 313px;
+	}
+	
+	#kinect-caption-2 {
+/* 		margin-top: 14vw; */
+/* 		margin-left: 54vw; */
+		}
+
+	#kinect-video-2 {
+		width: 650px;
+		height: 650px;
+/* 		margin-top: 10vw; */
+/* 		margin-left: 38vw; */
+	}
+	
+	#kinect-caption-3 {
+		margin-top: 50vw;
+		margin-left: 9vw;
+	}
+	
+	#kinect-process {
+/* 		margin-top: 2vw; */
+		margin-left: 9vw;
+	}
+	
+	#kinect-code-1 {
+		width: 700px;
+		height: 1000px;
+/* 		margin-top: 14vw; */
+		margin-left: 23vw;
+/* 		padding-bottom: 150px; */
+	}
+}
