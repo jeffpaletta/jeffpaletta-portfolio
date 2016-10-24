@@ -15,7 +15,7 @@
 }
 
 #wooemmaii-image-1 {
-	margin-top: 5vw;
+	margin-top: 6vw;
 	margin-left: 14vw;
 	width: 315px;
 	height: 425px;
@@ -25,8 +25,8 @@
 }
 		
 #wooemmaii-caption-2 {
-	margin-top: 6vw;
-	margin-left: 56vw;
+	margin-top: 11vw;
+	margin-left: 53vw;
 }
 
 #wooemmaii-caption-3 {
@@ -52,7 +52,7 @@
   position:relative;
 /*   margin:0 auto; */
   margin-top:2vw !important;
-  margin-left: 40vw !important;
+  margin-left: 37vw !important;
 }
 
 		#galley-overlay{
@@ -127,7 +127,7 @@
 	#wooemmaii-caption-3,
 	#wooemmaii-process {
 		font-size: 8px !important;
-		line-height: 11px !important;
+		line-height: 13px !important;
 	}
 	
 	#wooemmaii-video-1 {
@@ -143,7 +143,7 @@
 	}
 	
 	#wooemmaii-image-1 {
-		margin-top: 5vw;
+		margin-top: 8vw;
 		margin-left: 15vw;
 		width: 142px !important;
 		height: 191px !important;
@@ -232,7 +232,7 @@
 			
 	#wooemmaii-caption-2 {
 		margin-top: 15vw;
-		margin-left: 56vw;
+		margin-left: 50vw;
 	}
 	
 	#wooemmaii-caption-3 {
@@ -253,7 +253,7 @@
 	.wooemmaii-gallery-container{
 	  max-width:450px !important;
 	  margin-top:2vw !important;
-	  margin-left: 40vw !important;
+	  margin-left: 34vw !important;
 	}
 			
 			.wooemmaii-gallery-image{
@@ -276,7 +276,7 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2600px)	 {
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
 				
 	}
 		
