@@ -13,6 +13,115 @@
 }
 
 
-@media screen and (max-width: 1880px) {
 
+.about-title {
+	font-size: 16px !important;
+}
+
+
+
+#about-caption-shinola {
+/* 	display: none; */
+}
+
+/*
+.resume {
+	margin-top: 7vw;
+}
+*/
+
+
+
+
+
+
+
+
+#test-de-program {
+	margin-left: 30vw !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*	about.css by Jeffrey Paletta	*/
+
+
+
+
+#about-intro-caption {
+/* 	margin-top: vw; */
+/* 	margin-left: vw; */
+}
+
+#about-crying-selfie {
+	width: 270px;
+	height: 240px;
+	margin-top: 16vw;
+	margin-left: 18vw;
+}
+
+#about-contact-info {
+	margin-top: 16vw;
+	margin-left: 17vw !important;
+/* 	padding-bottom: 100px; */
+}
+
+
+
+#resume-toggle-button {
+	margin-top: -1vw !important;
+	margin-left: 16.5vw !important
+}
+	
+.resume-toggle {
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.resume-toggle:hover {
+/*     text-decoration: underline; */
+}
+
+.resume-content {
+/* 	background-color: yellow; */
+	width: 100% !important;
+/* 	border: solid 1px red; */
+}
+
+
+
+
+/* ONLY FOR MOBILE */
+@media screen and (max-width: 749px) {
+	
+	.desktop-only {
+		display: none !important;
+	}
+}
+
+
+
+
+/* ONLY FOR DESKTOP */
+@media screen and (min-width: 750px) {
+	
+	#about-intro-caption {
+		margin-top: 
+	}
+	
+	p.mobile-only {
+		display: none !important;
+	}
 }
