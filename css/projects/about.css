@@ -13,6 +13,13 @@
 }
 
 
+
+.about-title {
+	font-size: 16px !important;
+}
+
+
+
 #about-caption-shinola {
 /* 	display: none; */
 }
@@ -24,32 +31,18 @@
 */
 
 
+
+
+
+
+
+
 #test-de-program {
 	margin-left: 30vw !important;
 }
 
-/*
-#resume-toggle-button {
-	margin-top: -1vw !important;
-	margin-left: 16.5vw !important
-}
-	
-.resume-toggle {
-    display: block;
-    margin-bottom: 5px;
-    padding: 5px 10px;
-    text-decoration: none;
-}
 
-.resume-toggle:hover {
-}
 
-.resume-content {
-	background-color: yellow;
-	width: 100% !important;
-	border: solid 1px red;
-}
-*/
 
 
 
@@ -63,9 +56,7 @@
 /*	about.css by Jeffrey Paletta	*/
 
 
-.about-title {
-	font-size: 16px !important;
-}
+
 
 #about-intro-caption {
 /* 	margin-top: vw; */
@@ -85,6 +76,29 @@
 /* 	padding-bottom: 100px; */
 }
 
+
+
+#resume-toggle-button {
+	margin-top: -1vw !important;
+	margin-left: 16.5vw !important
+}
+	
+.resume-toggle {
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.resume-toggle:hover {
+/*     text-decoration: underline; */
+}
+
+.resume-content {
+/* 	background-color: yellow; */
+	width: 100% !important;
+/* 	border: solid 1px red; */
+}
 
 
 
