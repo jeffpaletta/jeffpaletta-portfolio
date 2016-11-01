@@ -396,14 +396,32 @@ $(document).ready(function() {
 		// $('section').addClass('fixed');
 		e.preventDefault();
 	});
+	
+	
+	
+	
 	$('body').on('click', '.slide img', function(e) {
 		$('.gallery').removeClass('visible');
 		clicked = false;
 	});
-	$('body').on('click', '.read-more-toggle', function(e) {
-		$('.read-more-content').removeClass('hide');
-		$('.read-more-toggle').addClass('hide');
+	$('body').on('click', '.show-more-toggle', function(e) {
+		$('.show-more-content').removeClass('hide');
+		$('.show-more-toggle').addClass('hide');
+		$('.read-more-content').addClass('hide');
+		e.preventDefault();
 	});
+	$('body').on('click', '.read-more-toggle-shinola', function(e) {
+		$('.read-more-content-shinola').toggleClass('hide');
+		e.preventDefault();
+	});
+	$('body').on('click', '.read-more-toggle-deprogram', function(e) {
+		$('.read-more-content-deprogram').toggleClass('hide');
+		e.preventDefault();
+	});
+	
+	
+	
+	
 	$(document).keydown(function(e) {
 		// Escape
 		if (e.keyCode === 27) {
