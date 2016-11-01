@@ -1462,6 +1462,10 @@ footer {
 	border: none;
 }
 
+s {
+	text-decoration: line-through;
+}
+
 
 /* 800 x 600 */
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
