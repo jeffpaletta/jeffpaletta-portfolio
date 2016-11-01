@@ -418,6 +418,32 @@ $(document).ready(function() {
 		$('.read-more-content-deprogram').toggleClass('hide');
 		e.preventDefault();
 	});
+	$('body').on('click', '.read-more-toggle-practicum', function(e) {
+		$('.read-more-content-practicum').toggleClass('hide');
+		e.preventDefault();
+	});
+	$('body').on('click', '.read-more-toggle-workshop', function(e) {
+		$('.read-more-content-workshop').toggleClass('hide');
+		e.preventDefault();
+	});
+	
+	
+	$('body').on('click', '.read-more-toggle-freelance', function(e) {
+		$('.read-more-content-freelance').toggleClass('hide');
+		e.preventDefault();
+	});
+	$('body').on('click', '.read-more-toggle-heavenly', function(e) {
+		$('.read-more-content-heavenly').toggleClass('hide');
+		e.preventDefault();
+	});
+	$('body').on('click', '.read-more-toggle-faceplay', function(e) {
+		$('.read-more-content-faceplay').toggleClass('hide');
+		e.preventDefault();
+	});
+	$('body').on('click', '.read-more-toggle-sign', function(e) {
+		$('.read-more-content-sign').toggleClass('hide');
+		e.preventDefault();
+	});
 	
 	
 	
