@@ -9,7 +9,7 @@
 
 
 .hide {
-  display: none;
+  display: none !important;
 }
 
 #about-caption-shinola {
@@ -55,6 +55,30 @@
 
 
 
+
+
+#resume-toggle-button {
+	margin-top: -1vw !important;
+	margin-left: 16.5vw !important
+}
+	
+.resume-toggle {
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.show-more-toggle:hover {
+/*     text-decoration: underline; */
+	color: #ccc !important;
+}
+
+.resume-content {
+/* 	background-color: yellow; */
+	width: 100% !important;
+/* 	border: solid 1px red; */
+}
 
 
 

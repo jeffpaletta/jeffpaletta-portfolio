@@ -186,6 +186,14 @@ $(document).ready(function() {
 					}, 100);
 				});
 				loadLink(link, title);
+/*
+		    	if (jQuery) {  
+			    	alert("yeah");
+					
+		    	} else {
+					alert("Doesn't Work");
+		        }
+*/
 			}
 		}
 		e.preventDefault();
@@ -392,6 +400,10 @@ $(document).ready(function() {
 		$('.gallery').removeClass('visible');
 		clicked = false;
 	});
+	$('body').on('click', '.read-more-toggle', function(e) {
+		$('.read-more-content').removeClass('hide');
+		$('.read-more-toggle').addClass('hide');
+	});
 	$(document).keydown(function(e) {
 		// Escape
 		if (e.keyCode === 27) {
@@ -432,3 +444,5 @@ $(document).ready(function() {
 	});
 
 });
+
+
