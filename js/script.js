@@ -402,7 +402,7 @@ $(document).ready(function() {
 	});
 	
 	// Resume Info Togglers
-	$('body').on('click', '.show-more-toggle', function() {
+	$('body').on('click', '.show-more-toggle', function(e) {
 		$('.show-more-content').removeClass('hide');
 		$('.show-more-toggle').addClass('hide');
 		$('.read-more-content').addClass('hide');
@@ -447,6 +447,7 @@ $(document).ready(function() {
 	$('body').on('click', '.show-more-freelance-toggle', function(e) {
 		$('.show-more-freelance').removeClass('hide');
 		$('.show-more-freelance-toggle').addClass('hide');
+		$('#freelance-header').addClass('hide');
 // 		$('.read-more-toggle-freelance').addClass('hide');
 		e.preventDefault();
 	});
