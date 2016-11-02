@@ -66,7 +66,7 @@ h3 > strong {
 
 
 .about-title {
-	font-size: 16px !important;
+	font-size: 14px !important;
 }
 
 .about-header {
@@ -99,12 +99,19 @@ h1.resume-header {
 }
 
 
+/* EXPERIENCE */
 
-#about-image-shinola {
-	width: 350px !important;
-	height: 233px !important;
-	margin-top: 10vw;
-	margin-left: 5vw;
+#about-image-deprogram {
+	width: 310px !important;
+	height: 168px !important;
+	margin-top: 3vw;
+	margin-left: 7vw;
+	padding-bottom: 75px;
+}
+
+#about-title-experience {
+	margin-left: 7vw;
+	padding-bottom: 75px;
 }
 
 #about-caption-shinola {
@@ -119,7 +126,7 @@ h1.resume-header {
 }
 
 #about-caption-practicum {
-	margin-top: -22.6vw;
+	margin-top: -25vw;
 	margin-left: 36vw;
 }
 
@@ -128,82 +135,69 @@ h1.resume-header {
 /* 	margin-left: 35vw !important; */
 }
 
-
-.workshop-adjust {
-	margin-top: -9.7vw !important;
-	margin-left: 36vw !important;
-}
-
-
-
-
-
-.practicum-4workshop-adjust {
-	padding-top: 140px;
-}
-
-
-.shinola-4practicum-adjust {
-	margin-top: -36.95vw !important;
-}
-
-.shinola-4workshop-adjust {
-	margin-top: -24.1vw !important;
-	margin-left: 36vw !important;
-}
-
-.deprogram-4practicum-adjust{
-	margin-top: -35.8vw !important;
-}
-
-.deprogram-4workshop-adjust{
-	margin-top: -22.9vw !important;
-}
-
-.deprogram-shinola-4practicum-adjust {
-	margin-top: -50.2vw !important;
-}
-
-.deprogram-shinola-4workshop-adjust {
-	margin-top: -50.2vw !important;
-}
-
+#about-caption-workshop {
 /*
-.deprogram-shinola-4workshop-adjust {
-	margin-top: -50.2vw !important;
-}
+	margin-top: 8vw;
+	margin-left: 27vw;
 */
-
-.deprogram-practicum-4workshop-adjust {
-	margin-top: -35vw !important;
-}
-
-.deprogram-shinola-4workshop-adjust {
-	margin-top: -37.25vw !important;
-	margin-left: 36vw !important;
-}
-
-.deprogram-shinola-practicum-4workshop-adjust {
-	margin-top: 20vw !important;
-	margin-left: 36vw !important;
 }
 
 
+		.workshop-adjust {
+			margin-top: -10.9vw !important;
+			margin-left: 36vw !important;
+		}
+		
+		.shinola-4practicum-adjust {
+			margin-top: -39.35vw !important;
+		}
+		
+		.shinola-4workshop-adjust {
+			margin-top: -25.25vw !important;
+			margin-left: 36vw !important;
+		}
+		
+		.practicum-4workshop-adjust {
+			padding-top: 140px;
+		}
+		
+		.deprogram-4practicum-adjust{
+			margin-top: -35.8vw !important;
+		}
+		
+		.deprogram-4workshop-adjust{
+			margin-top: -22.9vw !important;
+		}
+		
+		.deprogram-shinola-4practicum-adjust {
+			margin-top: -52.5vw !important;
+		}
+		
+		.deprogram-shinola-4workshop-adjust {
+			margin-top: -58.6vw !important;
+		}
+	
+		.deprogram-practicum-4workshop-adjust {
+			margin-top: -35vw !important;
+		}
+		
+		.deprogram-shinola-4workshop-adjust {
+			margin-top: -37.25vw !important;
+			margin-left: 36vw !important;
+		}
+		
+		.deprogram-shinola-practicum-4workshop-adjust {
+			margin-top: 20vw !important;
+			margin-left: 36vw !important;
+		}
 
-#about-image-deprogram {
-	width: 250px !important;
-	height: 186px !important;
-	margin-top: 5vw;
-	margin-left: 38vw;
-}
+
 /*
 #about-caption-deprogram {
 	margin-top: 7vw;
 	margin-left: 30vw;
 }
 */
-
-
 
 #about-image-practicum {
 /*
@@ -215,19 +209,21 @@ h1.resume-header {
 	display: none;
 }
 
-
-
-
 #about-image-workshop {
 	width: 300px !important;
 	height: 200px !important;
-	margin-top: 12vw;
-	margin-left: 37vw;
+	margin-top: 15vw;
+	margin-left: 49vw;
 }
-#about-caption-workshop {
-	margin-top: 8vw;
-	margin-left: 27vw;
+
+
+#about-image-shinola {
+	width: 300px !important;
+	height: 200px !important;
+	margin-top: 10vw;
+	margin-left: 45vw;
 }
+
 #about-image-workshop-2 {
 	width: 350px !important;
 	height: 233px !important;
@@ -235,6 +231,12 @@ h1.resume-header {
 	margin-left:8vw;
 }
 
+
+
+#about-caption-freelance {
+	margin-top: 6vw;
+	margin-left: 25vw;
+}
 
 
 #about-caption-heavenly {
