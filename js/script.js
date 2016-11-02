@@ -414,64 +414,23 @@ $(document).ready(function() {
 	$('body').on('click', '.read-more-toggle-shinola', function(e) {
 		$('.read-more-content-shinola').toggleClass('hide');
 		$('.read-more-toggle-shinola').toggleClass('hide');
-		$('#about-caption-practicum').addClass('shinola-4practicum-adjust');
-		$('#about-caption-workshop').removeClass('workshop-adjust');
-		$('#about-caption-workshop').addClass('shinola-4workshop-adjust');
 		e.preventDefault();
 	});
 	
 	$('body').on('click', '.read-more-toggle-deprogram', function(e) {
 		$('.read-more-content-deprogram').toggleClass('hide');
 		$('.read-more-toggle-deprogram').toggleClass('hide');
-		$('#about-caption-workshop').addClass('deprogram-4workshop-adjust');
-		
-		if( $('#about-caption-practicum').hasClass('shinola-4practicum-adjust')) {
-			$('#about-caption-practicum').removeClass('shinola-4practicum-adjust');
-			$('#about-caption-practicum').addClass('deprogram-shinola-4practicum-adjust');
-		}
-		else {
-			$('#about-caption-practicum').addClass('deprogram-4practicum-adjust');
-		}
-		
-		
-		if( $('#about-caption-workshop').hasClass('practicum-4workshop-adjust')) {
-			$('#about-caption-workshop').removeClass('practicum-4workshop-adjust');
-			$('#about-caption-workshop').addClass('deprogram-practicum-4workshop-adjust');
-		}
-		else {
-			$('#about-caption-workshop').addClass('deprogram-4workshop-adjust');
-		}
-		
-		if( $('#about-caption-workshop').hasClass('shinola-4workshop-adjust')) {
-			$('#about-caption-workshop').removeClass('shinola-4workshop-adjust');
-			$('#about-caption-workshop').addClass('deprogram-shinola-4workshop-adjust');
-		}
-		else {
-			$('#about-caption-workshop').addClass('deprogram-4workshop-adjust');
-		}
-		
-/*
-		if($('#about-caption-workshop').hasClass('practicum-4workshop-adjust') && ('#about-caption-workshop').hasClass('shinola-4workshop-adjust')) {
-			$('#about-caption-workshop').removeClass('shinola-4workshop-adjust');
-			$('#about-caption-workshop').removeClass('practicum-4workshop-adjust');
-			$('#about-caption-workshop').addClass('deprogram-shinola-practicum-4workshop-adjust');
-		}
-		else {
-			
-		}
-*/
 		e.preventDefault();
 	});
 	
 	$('body').on('click', '.read-more-toggle-practicum', function(e) {
 		$('.read-more-content-practicum').toggleClass('hide');
 		$('.read-more-toggle-practicum').toggleClass('hide');
-		$('#about-caption-workshop').addClass('practicum-4workshop-adjust');
 		e.preventDefault();
 	});
 	
 	$('body').on('click', '.read-more-toggle-workshop', function(e) {
-		$('.show-more-content-workshop').toggleClass('hide');
+		$('.read-more-content-workshop').toggleClass('hide');
 		$('.read-more-toggle-workshop').toggleClass('hide');
 		e.preventDefault();
 	});
