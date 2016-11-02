@@ -114,82 +114,93 @@ h1.resume-header {
 	display: none;
 }
 
-#about-caption-shinola {
+
+
+
+
+
+
+#about-experience-wrapper-1 {
+	width: 970px;
+	overflow: auto;
+	padding: 1em;
+	min-width: 800px;
+	max-width: 1200px;
 	margin-top: 13vw;
 	margin-left: 14vw;
-	padding-bottom: 20px;
 }
 
-#about-caption-deprogram {
-	margin-top: 2vw;
-	margin-left: 14vw;
+div.exp-table {
+	vertical-align: top;
+	min-width: 350px;
+	max-width: 400px;
+
+}
+
+
+
+
+#about-caption-shinola {
+
+	float: left !important;
+	width: 30%;
+	box-sizing: border-box;
+	margin: 0;
+	overflow: hidden;
+	display: inline-block !important;
 }
 
 #about-caption-practicum {
-	margin-top: -25vw;
-	margin-left: 36vw;
+
+	float: left !important;
+	box-sizing: border-box;
+	margin: 0;
+	width: 40%;
+	min-width: 300px;
+	padding-left: 50px;
+	overflow: hidden;
+	display: inline-block !important;
+}
+
+
+
+
+
+
+div.exp-table-2 {
+/* 	vertical-align: top; */
+	min-width: 350px;
+	max-width: 400px;
+	vertical-align: top;
+
+}
+
+#about-caption-deprogram {
+	float: left !important;
+	width: 30%;
+	left: 0;
+	box-sizing: border-box;
+	margin-top: 4vw;
+	margin-left: 0vw;	
+	overflow: hidden;
+	display: block !important;
 }
 
 #about-caption-workshop {
-/* 	margin-top: -9.8vw; */
-/* 	margin-left: 35vw !important; */
+	margin-top: 4vw;
+	float: left !important;
+	box-sizing: border-box;
+/* 	margin: 0; */
+	width: 40%;
+	padding-left: 50px;
+	overflow: hidden;
+	display: inline-block !important;
 }
 
-#about-caption-workshop {
-/*
-	margin-top: 8vw;
-	margin-left: 27vw;
-*/
-}
 
 
-		.workshop-adjust {
-			margin-top: -10.9vw !important;
-			margin-left: 36vw !important;
-		}
-		
-		.shinola-4practicum-adjust {
-			margin-top: -39.35vw !important;
-		}
-		
-		.shinola-4workshop-adjust {
-			margin-top: -25.25vw !important;
-			margin-left: 36vw !important;
-		}
-		
-		.practicum-4workshop-adjust {
-			padding-top: 140px;
-		}
-		
-		.deprogram-4practicum-adjust{
-			margin-top: -35.8vw !important;
-		}
-		
-		.deprogram-4workshop-adjust{
-			margin-top: -22.9vw !important;
-		}
-		
-		.deprogram-shinola-4practicum-adjust {
-			margin-top: -52.5vw !important;
-		}
-		
-		.deprogram-shinola-4workshop-adjust {
-			margin-top: -58.6vw !important;
-		}
-	
-		.deprogram-practicum-4workshop-adjust {
-			margin-top: -35vw !important;
-		}
-		
-		.deprogram-shinola-4workshop-adjust {
-			margin-top: -37.25vw !important;
-			margin-left: 36vw !important;
-		}
-		
-		.deprogram-shinola-practicum-4workshop-adjust {
-			margin-top: 20vw !important;
-			margin-left: 36vw !important;
-		}
+
+
 
 
 /*
