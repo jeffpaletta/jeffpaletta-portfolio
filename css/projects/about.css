@@ -102,8 +102,8 @@ h1.resume-header {
 /* EXPERIENCE */
 
 #about-image-deprogram {
-	width: 310px !important;
-	height: 168px !important;
+	width: 340px !important;
+	height: 184px !important;
 	margin-top: 3vw;
 	margin-left: 7vw;
 }
@@ -115,27 +115,32 @@ h1.resume-header {
 }
 
 
-#resume-data {
-	font-size: 11px;
-	padding-top: 3px;
+h5#resume-date {
+	font-size: 11px !important;
+	font-weight: 200;
+	padding-top: -1px;
 }
 
 
-
-
 #about-experience-wrapper-1 {
-	width: 970px;
-	overflow: auto;
+	width: 1020px;
+	overflow: none;
 	padding: 1em;
-	min-width: 800px;
-	max-width: 1200px;
-	margin-top: 13vw;
-	margin-left: 14vw;
+	min-width: 600px;
+	max-width: 1000px;
+	margin-top: 12vw;
+	margin-left: 13vw;
 }
 
 
 
 div.exp-table {
+	vertical-align: top;
+	min-width: 350px;
+	max-width: 420px;
+}
+
+div.exp-table-2 {
 	vertical-align: top;
 	min-width: 350px;
 	max-width: 400px;
@@ -157,42 +162,31 @@ div.exp-table {
 	float: left !important;
 	box-sizing: border-box;
 	margin: 0;
-	width: 40%;
+	width: 45%;
 	min-width: 300px;
-	padding-left: 50px;
+	padding-left: 100px;
 	overflow: hidden;
 	display: inline-block !important;
 }
-
-
-
-div.exp-table-2 {
-/* 	vertical-align: top; */
-	min-width: 350px;
-	max-width: 400px;
-	vertical-align: top;
-}
-
 
 #about-caption-deprogram {
 	float: left !important;
 	width: 30%;
 	left: 0;
 	box-sizing: border-box;
-	margin-top: 4vw;
+	margin-top: 3vw;
 	margin-left: 0vw;	
 	overflow: hidden;
 	display: block !important;
 }
 
-
 #about-caption-workshop {
-	margin-top: 4vw;
+	margin-top: 3vw;
 	float: left !important;
 	box-sizing: border-box;
 /* 	margin: 0; */
-	width: 40%;
-	padding-left: 50px;
+	width: 45%;
+	padding-left: 100px;
 	overflow: hidden;
 	display: inline-block !important;
 }
@@ -225,15 +219,15 @@ div.exp-table-2 {
 #about-image-workshop-2 {
 	width: 300px !important;
 	height: 200px !important;
-	margin-top: 15vw;
-	margin-left: 49vw;
+	margin-top: 14vw;
+	margin-left: 52.5vw;
 }
 
 #about-image-workshop {
 	width: 250px !important;
 	height: 166px !important;
-	margin-top: 10vw;
-	margin-left:24vw;
+	margin-top: 8vw;
+	margin-left:42vw;
 }
 
 #about-image-shinola {
@@ -250,24 +244,33 @@ div.exp-table-2 {
 /* FREELANCE */
 
 #about-caption-freelance {
-	margin-top: 8vw;
+	margin-top: -17vw;
 	margin-left: 6vw;
 }
 
 
 #about-caption-heavenly {
-	margin-top: 2vw;
-	margin-left: 6vw;
+	margin-top: vw !important;;
+	margin-left: 6.5vw;
 }
 
 #about-caption-faceplay {
 	margin-top: vw;
-	margin-left: 6vw;
+	margin-left: 6.5vw;
 }
 
 #about-caption-painting {
 	margin-top: vw;
-	margin-left: 6vw;
+	margin-left: 6.5vw;
+}
+
+
+#about-image-freelance {
+	width: 250px !important;
+	height: 166px !important;
+	margin-top: 10vw;
+	margin-left: 45vw;
+	display: none;
 }
 
 
