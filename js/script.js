@@ -396,56 +396,63 @@ $(document).ready(function() {
 		// $('section').addClass('fixed');
 		e.preventDefault();
 	});
-	
-	
-	
-	
 	$('body').on('click', '.slide img', function(e) {
 		$('.gallery').removeClass('visible');
 		clicked = false;
 	});
+	
+	// Resume Info Togglers
 	$('body').on('click', '.show-more-toggle', function(e) {
 		$('.show-more-content').removeClass('hide');
 		$('.show-more-toggle').addClass('hide');
 		$('.read-more-content').addClass('hide');
 		e.preventDefault();
 	});
+	
+	// Experience
 	$('body').on('click', '.read-more-toggle-shinola', function(e) {
 		$('.read-more-content-shinola').toggleClass('hide');
+		$('.read-more-toggle-shinola').toggleClass('hide');
+// 		$('#about-caption-deprogram-2').addClass('move-down');
 		e.preventDefault();
 	});
 	$('body').on('click', '.read-more-toggle-deprogram', function(e) {
 		$('.read-more-content-deprogram').toggleClass('hide');
+		$('.read-more-toggle-deprogram').toggleClass('hide');
 		e.preventDefault();
 	});
 	$('body').on('click', '.read-more-toggle-practicum', function(e) {
 		$('.read-more-content-practicum').toggleClass('hide');
+		$('.read-more-toggle-practicum').toggleClass('hide');
 		e.preventDefault();
 	});
 	$('body').on('click', '.read-more-toggle-workshop', function(e) {
 		$('.read-more-content-workshop').toggleClass('hide');
+		$('.read-more-toggle-workshop').toggleClass('hide');
 		e.preventDefault();
 	});
 	
-	
+	// Freelance 
 	$('body').on('click', '.read-more-toggle-freelance', function(e) {
 		$('.read-more-content-freelance').toggleClass('hide');
+		$('.read-more-toggle-freelance').addClass('hide');
 		e.preventDefault();
 	});
 	$('body').on('click', '.read-more-toggle-heavenly', function(e) {
 		$('.read-more-content-heavenly').toggleClass('hide');
+		$('.read-more-toggle-heavenly').addClass('hide');
 		e.preventDefault();
 	});
 	$('body').on('click', '.read-more-toggle-faceplay', function(e) {
 		$('.read-more-content-faceplay').toggleClass('hide');
+		$('.read-more-toggle-faceplay').addClass('hide');
 		e.preventDefault();
 	});
 	$('body').on('click', '.read-more-toggle-sign', function(e) {
 		$('.read-more-content-sign').toggleClass('hide');
+		$('.read-more-toggle-sign').addClass('hide');
 		e.preventDefault();
 	});
-	
-	
 	
 	
 	$(document).keydown(function(e) {

@@ -82,17 +82,20 @@ h1.resume-header {
 }
 */
 
+.move-down {
+	padding-top: 50px !important;
+}
 
 
 #about-image-diploma {
-	width: 310px !important;
-	height: 231px !important;
-	margin-top: 10vw;
-	margin-left: 48vw;
+	width: 250px !important;
+	height: 136px !important;
+	margin-top: 4vw;
+	margin-left: 45vw;
 }
 #about-caption-education {
-	margin-top: 6vw !important;
-	margin-left: 54vw !important;
+	margin-top: 8vw !important;
+	margin-left: 51vw !important;
 }
 
 
@@ -106,20 +109,27 @@ h1.resume-header {
 #about-caption-shinola {
 	margin-top: 8vw;
 	margin-left: 12vw;
+	padding-bottom: 20px;
 }
 
 
 
+#about-caption-deprogram {
+	margin-top: 5vw;
+	margin-left: 12vw;
+}
 #about-image-deprogram {
 	width: 350px !important;
 	height: 261px !important;
 	margin-top: 8vw;
 	margin-left: 38vw;
 }
+/*
 #about-caption-deprogram {
 	margin-top: 7vw;
 	margin-left: 30vw;
 }
+*/
 
 
 
