@@ -60,7 +60,7 @@
 h3 > strong {
 /* 	font-weight: 800 !important; */
 	font-size: 14px !important;
-	letter-spacing: -0.5px !important;
+/* 	letter-spacing: -0.5px !important; */
 }
 
 
@@ -106,16 +106,16 @@ h1.resume-header {
 	height: 168px !important;
 	margin-top: 3vw;
 	margin-left: 7vw;
-	padding-bottom: 75px;
 }
 
 #about-title-experience {
-	margin-left: 7vw;
-	padding-bottom: 75px;
+	margin-top: -3vw;
+	margin-left: 14vw;
+	display: none;
 }
 
 #about-caption-shinola {
-	margin-top: 8vw;
+	margin-top: 13vw;
 	margin-left: 14vw;
 	padding-bottom: 20px;
 }
@@ -209,49 +209,72 @@ h1.resume-header {
 	display: none;
 }
 
-#about-image-workshop {
+#about-image-workshop-2 {
 	width: 300px !important;
 	height: 200px !important;
 	margin-top: 15vw;
 	margin-left: 49vw;
 }
 
+#about-image-workshop {
+	width: 250px !important;
+	height: 166px !important;
+	margin-top: 10vw;
+	margin-left:24vw;
+}
 
 #about-image-shinola {
-	width: 300px !important;
-	height: 200px !important;
+	width: 250px !important;
+	height: 166px !important;
 	margin-top: 10vw;
 	margin-left: 45vw;
-}
-
-#about-image-workshop-2 {
-	width: 350px !important;
-	height: 233px !important;
-	margin-top: 15vw;
-	margin-left:8vw;
+	display: none;
 }
 
 
+
+
+/* FREELANCE */
 
 #about-caption-freelance {
-	margin-top: 6vw;
-	margin-left: 25vw;
+	margin-top: 8vw;
+	margin-left: 6vw;
 }
 
 
 #about-caption-heavenly {
-	margin-top: 18vw;
-	margin-left: 50vw;
+	margin-top: 2vw;
+	margin-left: 6vw;
 }
 
 #about-caption-faceplay {
 	margin-top: vw;
-	margin-left: 50vw;
+	margin-left: 6vw;
 }
 
 #about-caption-painting {
 	margin-top: vw;
-	margin-left: 50vw;
+	margin-left: 6vw;
+}
+
+
+
+
+/* SKILLS */
+
+#about-caption-worked {
+	margin-top: 8vw;
+	margin-left: 38vw;
+}
+
+#about-caption-experienced {
+	margin-top: 3vw;
+	margin-left: 38vw;
+}
+
+#about-caption-terrific {
+	margin-top: 3vw;
+	margin-left: 38vw;
 }
 
 

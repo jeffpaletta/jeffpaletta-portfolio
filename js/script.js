@@ -483,8 +483,10 @@ $(document).ready(function() {
 	
 	
 	// Freelance 
+	
 	$('body').on('click', '.show-more-freelance-toggle', function(e) {
 		$('.show-more-freelance').removeClass('hide');
+		$('.show-more-freelance-toggle').addClass('hide');
 // 		$('.read-more-toggle-freelance').addClass('hide');
 		e.preventDefault();
 	});
