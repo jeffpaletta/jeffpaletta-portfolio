@@ -406,6 +406,7 @@ $(document).ready(function() {
 		$('.show-more-content').removeClass('hide');
 		$('.show-more-toggle').addClass('hide');
 		$('.read-more-content').addClass('hide');
+		$('.show-more-freelance').addClass('hide');
 		e.preventDefault();
 	});
 	
@@ -475,11 +476,18 @@ $(document).ready(function() {
 	
 	
 	// Freelance 
-	$('body').on('click', '.read-more-toggle-freelance', function(e) {
-		$('.read-more-content-freelance').toggleClass('hide');
-		$('.read-more-toggle-freelance').addClass('hide');
+	$('body').on('click', '.show-more-freelance-toggle', function(e) {
+		$('.show-more-freelance-toggle').addClass('hide');
+		$('.show-more-freelance').toggleClass('hide');
+// 		$('.read-more-content-freelance').removeClass('hide');
+// 		$('.read-more-toggle-freelance').addClass('hide');
 		e.preventDefault();
 	});
+	
+	
+	
+	
+	
 	
 	$('body').on('click', '.read-more-toggle-heavenly', function(e) {
 		$('.read-more-content-heavenly').toggleClass('hide');
