@@ -402,12 +402,13 @@ $(document).ready(function() {
 	});
 	
 	// Resume Info Togglers
-	$('body').on('click', '.show-more-toggle', function(e) {
+	$('body').on('click', '.show-more-toggle', function() {
 		$('.show-more-content').removeClass('hide');
 		$('.show-more-toggle').addClass('hide');
 		$('.read-more-content').addClass('hide');
 		$('.show-more-freelance').addClass('hide');
-		e.preventDefault();
+		$('#about-experience-wrapper-1').removeClass('hide');
+// 		e.preventDefault();
 	});
 	
 	// Experience
