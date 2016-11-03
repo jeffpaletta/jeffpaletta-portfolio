@@ -12,9 +12,6 @@
   display: none !important;
 }
 
-#about-caption-shinola {
-/* 	display: none; */
-}
 
 
 
@@ -23,10 +20,7 @@
 
 
 
-.show-more-toggle:hover, .read-more-toggle:hover {
-/*     text-decoration: underline; */
-	color: #ccc !important;
-}
+
 
 
 
@@ -39,58 +33,123 @@
 
 
 
+
+
+
+.about-title {
+	font-size: 14px !important;
+	}
+
+
+.about-header {
+	font-size: 18px !important;
+	}
+	
+
+.resume {
+	}
+
+
+.move-down {
+	padding-top: 50px !important;
+	}
+	
+	
+p.first-line {
+	padding-top: 8px;	/* Space between titles and captions */
+	}
+	
+	
+.inline-block {
+	display: inline-block;
+	}
+
+
+.hide-3 {
+	display: none;
+	}
+
+
+h5#resume-date {		/* project dates */		
+	font-size: 11px !important;
+	font-weight: 200;
+	padding-top: -1px;
+	}
+	
+	
+.show-more-toggle:hover, .read-more-toggle:hover {		/* hovering over "show resume"  button */
+	color: #ccc !important;
+}
+
+
+
+
+
+
+
+
+
+		/* CONTENT */
+		/* CONTENT */
+		/* CONTENT */
+		
+
+
+
+
+		/* INTRO CAPTION */
+		
+		
+
 #about-intro-caption {
 /* 	margin-top: vw; */
 	margin-left: 6vw !important;
-}
+	}
+	
+	
+	
+		/* SELFIE CRYING */
+		
+	
 
 #about-image-selfie {
 	width: 280px;
 	height: 248px;
 	margin-top: 16vw;
 	margin-left: 24vw;
-}
+	}
+	
+	
+	
+	
+		/* CONTACT INFO */
+	
 
 #about-contact-info {
 	margin-top: 19vw;
 	margin-left: 23vw !important;
-/* 	padding-bottom: 100px; */
-}
-
-h3 > span {
-/* 	font-weight: 800 !important; */
-	font-size: 14px !important;
-/* 	letter-spacing: -0.5px !important; */
-}
-
-
-
-.about-title {
-	font-size: 14px !important;
-}
-
-.about-header {
-	font-size: 18px !important;
-}
-
-.resume {
-}
-
-/*
-h1.resume-header {
-	font-size: 18px !important;
-}
-*/
-
-.move-down {
-	padding-top: 50px !important;
-}
+	}
+	
+	
+	
 
 
 
 
 
 
+
+
+		/* EDUCATION */
+		/* EDUCATION */
+		/* EDUCATION */
+
+
+
+
+
+		/* DIPLOMA IMAGE */
+		
 
 
 #about-image-diploma {
@@ -98,11 +157,22 @@ h1.resume-header {
 	height: 136px !important;
 	margin-top: 2vw;
 	margin-left: 48vw;
-}
+	}
+	
+	
+	
+		/* EDUCATION CAPTION */
+		
+	
+	
 #about-caption-education {
 	margin-top: 9vw !important;
 	margin-left: 54vw !important;
-}
+	}
+	
+h3 > span {				
+	font-size: 14px !important;		/* used for education title */
+	}
 
 
 
@@ -112,27 +182,46 @@ h1.resume-header {
 
 
 
-/* EXPERIENCE */
+
+
+
+		/* EXPERIENCE */
+		/* EXPERIENCE */
+		/* EXPERIENCE */
+		
+		
+		
+		
+		
+		/* DEPROGRAM IMAGE */
+		
+		
 
 #about-image-deprogram {
 	width: 280px !important;
 	height: 150px !important;
 	margin-top: 6vw;
 	margin-left: 4vw;
-}
+	}
+	
+	
+	
+	
+		/* EXPERIENCE TITLE */
+		
+
 
 #about-title-experience {
 	margin-top: -3vw;
 	margin-left: 14vw;
 	display: none;
-}
-
-
-h5#resume-date {
-	font-size: 11px !important;
-	font-weight: 200;
-	padding-top: -1px;
-}
+	}
+	
+	
+	
+	
+		/* EXPERIENCE CONTAINER */
+		
 
 
 #about-experience-wrapper-1 {
@@ -143,7 +232,9 @@ h5#resume-date {
 	max-width: 1000px;
 	margin-top: 17vw;
 	margin-left: 9vw;
-}
+	}
+
+
 
 
 
@@ -151,13 +242,20 @@ div.exp-table {
 	vertical-align: top;
 	min-width: 350px;
 	max-width: 420px;
-}
+	}
 
 div.exp-table-2 {
 	vertical-align: top;
 	min-width: 350px;
 	max-width: 400px;
-}
+	}
+	
+	
+	
+	
+	
+		/* EXPERIENCE CAPTIONS */
+		
 
 
 #about-caption-shinola {
@@ -167,7 +265,7 @@ div.exp-table-2 {
 	margin: 0;
 	overflow: hidden;
 	display: inline-block !important;
-}
+	}
 
 #about-caption-practicum {
 	float: left !important;
@@ -178,7 +276,7 @@ div.exp-table-2 {
 	padding-left: 30px;
 	overflow: hidden;
 	display: inline-block !important;
-}
+	}
 
 #about-caption-deprogram {
 	float: left !important;
@@ -189,7 +287,7 @@ div.exp-table-2 {
 	margin-left: 0vw;	
 	overflow: hidden;
 	display: block !important;
-}
+	}
 
 #about-caption-workshop {
 	margin-top: 2.5vw;
@@ -200,13 +298,19 @@ div.exp-table-2 {
 	padding-left: 30px;
 	overflow: hidden;
 	display: inline-block !important;
-}
+	}
+	
+	
+	
+
 	
 
 
-#about-image-practicum {
-	display: none;
-}
+
+		/* WORKSHOP 2 IMAGE */
+
+
+
 
 #about-image-workshop-2 {
 	width: 290px !important;
@@ -214,72 +318,82 @@ div.exp-table-2 {
 	margin-top: 17vw;
 	margin-left: 57vw;
 	z-index: 100000;
-}
-
-
-
-#about-image-shinola {
-	display: none;
-}
+	}
 
 
 
 
 
-/* FREELANCE */
 
+
+
+
+
+		/* FREELANCE */
+		/* FREELANCE */
+		/* FREELANCE */
+
+
+
+
+
+
+		/* TOGGLE BUTTON */
+		
+		
 
 #about-caption-freelance {
 	margin-top: -22vw;
 	margin-left: 9.6vw;
-}
+	}
+	
+	
+	
+		/* CONTAINER */
+		
+		
 
 #about-freelance-wrapper {
 	margin-top: -24vw;
 	margin-left: 9.6vw;
+	}
 	
-}
+	
+	
+		/* CAPTIONS */
+	
+	
 
 #about-caption-heavenly {
 	margin-top: vw;
-}
+	}
 
 #about-caption-faceplay {
 	margin-top: -8.6vw;
 	margin-left: 19.7vw;
 	padding-top: 11px;
-}
+	}
 
 #about-caption-painting {
 	margin-top: 4vw;
-}
+	}
+
+	
+	
+	
+	
+	
 
 
 
-#about-image-freelance {
-	width: 275px !important;
-	height: 181px !important;
-	margin-top: 17vw;
-	margin-left: 34vw;
-	display: none;
-}
-
-
-
-
-
-
+		/* SKILLS */
+		/* SKILLS */
+		/* SKILLS */
 
 
 
 
-
-
-/* SKILLS */
-
-p.first-line {
-	padding-top: 8px;
-}
+		/* CONTAINER */
 
 
 
@@ -293,6 +407,12 @@ p.first-line {
 	margin-left: 36vw;
 }
 
+
+
+		/* TABLE TWEAKS */
+		
+		
+
 div.exp-table-3 {
 	vertical-align: top;
 	min-width: 150px;
@@ -304,6 +424,12 @@ div.exp-table-4 {
 	min-width: 150px;
 	max-width: 500px;
 }
+
+
+
+		/* SKILLS CAPTIONS */
+
+
 
 #about-caption-worked {
 	float: left !important;
@@ -341,28 +467,31 @@ div.exp-table-4 {
 	margin-top: 3vw;
 	float: left !important;
 	box-sizing: border-box;
-/* 	margin: 0; */
 	width: 50%;
 	padding-left: 100px;
 	overflow: hidden;
 	display: inline-block !important;
-}
+	}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		/* GALLERY */
+		/* GALLERY */
+		/* GALLERY */
+		
+		
+
+		
 
 
-
-
-
-
-/* IMAGE */
-
-
-#about-image-workshop {
-	width: 260px !important;
-	height: 171px !important;
-	margin-top: 10vw;
-	margin-left:2vw;
-	display: none;
-}
+		/* GALLERY CAPTION */
 
 
 
@@ -376,117 +505,209 @@ div.exp-table-4 {
 
 
 
+		/* GALLERY IMAGES */
 
-
-/* GALLERY */
 
 
 
 .about-gallery-container{
-  max-width:800px !important;
-  position:relative;
-/*   margin:0 auto; */
-  margin-top:8vw !important;
-  margin-left: 7vw !important;
-  padding-bottom: 200px;
-}
+  	max-width:800px !important;
+  	position:relative;
+/*   	margin:0 auto; */
+  	margin-top:8vw !important;
+  	margin-left: 7vw !important;
+  	padding-bottom: 200px;
+	}
 
 		#galley-overlay{
-		  cursor: pointer;
-		  position:absolute;
-		  top:0;
-		  left:0;
-		  height:100%;
-		  width:100%;
-		  background:#000;
-		  opacity:.7;
-		  z-index:2000;
-		  display:none;
-		}
+		  	cursor: pointer;
+		  	position:absolute;
+		  	top:0;
+		  	left:0;
+		  	height:100%;
+		  	width:100%;
+		  	background:#000;
+		  	opacity:.7;
+		  	z-index:2000;
+		  	display:none;
+			}
 		
 		.about-gallery-image{
-		  position:relative;
-		  float:left;
-		  height:120px !important;
-		  width:120px !important;
-		  background:#fff;
-		  margin:15px !important;
-		}
+		  	position:relative;
+		  	float:left;
+		  	height:120px !important;
+		  	width:120px !important;
+		  	background:#fff;
+		  	margin:15px !important;
+			}
 		
 		.about-photo-image{
-		  cursor: pointer;
-		  position:relative;
-		  top:0px;
-		  left:0px;
-		  width:120px !important;
-		  z-index:1000;
-		  opacity:1;
-		  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
-		}
+		  	cursor: pointer;
+		  	position:relative;
+		  	top:0px;
+		  	left:0px;
+		  	width:120px !important;
+		  	z-index:1000;
+		  	opacity:1;
+		  	transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
+			}	
 		
 		.about-photo-image:hover{
-		  width:120px !important;
-		  top:-15px;
-		  left: 0px;
-		  z-index:1001;
-		  opacity:1;
-		}
+		  	width:120px !important;
+		  	top:-15px;
+		  	left: 0px;
+		  	z-index:1001;
+		  	opacity:1;
+			}
 		
 		.photo-selected{
-		  cursor:default;
-		  z-index:2001;
-		  width:500px !important;
-		  opacity:1;
-		  top:-20px;
-		  left:-200px;
-		  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
-		}
+		  	cursor:default;
+		  	z-index:2001;
+		  	width:500px !important;
+		  	opacity:1;
+		  	top:-20px;
+		  	left:-200px;
+		  	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+			}
 		
 		.photo-selected:hover{
-		  width:500px;
-		  top:-50px;
-		  left:-50px;
-		  z-index:2001;
-		  opacity:1;
-		  top:-20px;
-		  left:-200px;
-		}
+		  	width:500px;
+		  	top:-50px;
+		  	left:-50px;
+		  	z-index:2001;
+		  	opacity:1;
+		  	top:-20px;
+		  	left:-200px;
+			}
 		
 		
 		
-
-
-
-.inline-block {
-/* 	display: inline-block; */
-}
-
-.hide-3 {
-	display: none;
-}
+		
 
 
 
 
-/* ONLY FOR MOBILE */
+
+
+		/* ONLY FOR MOBILE */
+		
+		
 @media screen and (max-width: 749px) {
 	
 	.desktop-only {
 		display: none !important;
+		}
 	}
-}
 
 
 
 
-/* ONLY FOR DESKTOP */
+
+
+
+
+
+		/* ONLY FOR DESKTOP */
+
+
 @media screen and (min-width: 750px) {
 	
 	#about-intro-caption {
 		margin-top: 
-	}
+		}
 	
 	p.mobile-only {
 		display: none !important;
+		}
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+		/* 800 x 600 */
+
+
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
 }
+
+
+
+
+
+
+
+
+
+
+
+		/* 1336 x 768 */
+
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		/* 1920 x 1080 */
+
+
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+}
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+
+		/* 2100+ */
+
+
+@media screen and (min-width: 2100px)	 {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
