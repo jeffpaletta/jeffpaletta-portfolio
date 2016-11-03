@@ -113,8 +113,8 @@ h5#resume-date {		/* project dates */
 #about-image-diploma {
 	width: 250px;
 	height: 136px;
-	margin-top: 2vw;
-	margin-left: 48vw;
+	margin-top: 3vw;
+	margin-left: 50vw;
 	}
 	
 	
@@ -123,8 +123,8 @@ h5#resume-date {		/* project dates */
 	/* EDUCATION CAPTION */
 			
 #about-caption-education {
-	margin-top: 9vw !important;
-	margin-left: 54vw !important;
+	margin-top: 10vw !important;
+	margin-left: 56vw !important;
 	}
 	
 
@@ -442,6 +442,7 @@ div.exp-table-4 {
 #about-caption-gallery {
 	margin-top: 25vw;
 	margin-left: 2vw;
+	width: 350px;
 /* 	padding-bottom: 200px; */
 }
 
