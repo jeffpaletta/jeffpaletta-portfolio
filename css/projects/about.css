@@ -57,7 +57,7 @@
 /* 	padding-bottom: 100px; */
 }
 
-h3 > strong {
+h3 > span {
 /* 	font-weight: 800 !important; */
 	font-size: 14px !important;
 /* 	letter-spacing: -0.5px !important; */
@@ -117,8 +117,8 @@ h1.resume-header {
 #about-image-deprogram {
 	width: 280px !important;
 	height: 150px !important;
-	margin-top: -1vw;
-	margin-left: 6vw;
+	margin-top: 6vw;
+	margin-left: 4vw;
 }
 
 #about-title-experience {
@@ -141,7 +141,7 @@ h5#resume-date {
 	padding: 1em;
 	min-width: 600px;
 	max-width: 1000px;
-	margin-top: 15vw;
+	margin-top: 17vw;
 	margin-left: 9vw;
 }
 
@@ -162,7 +162,7 @@ div.exp-table-2 {
 
 #about-caption-shinola {
 	float: left !important;
-	width: 30%;
+	width: 25%;
 	box-sizing: border-box;
 	margin: 0;
 	overflow: hidden;
@@ -173,9 +173,9 @@ div.exp-table-2 {
 	float: left !important;
 	box-sizing: border-box;
 	margin: 0;
-	width: 45%;
+	width: 42%;
 	min-width: 300px;
-	padding-left: 50px;
+	padding-left: 30px;
 	overflow: hidden;
 	display: inline-block !important;
 }
@@ -185,19 +185,19 @@ div.exp-table-2 {
 	width: 30%;
 	left: 0;
 	box-sizing: border-box;
-	margin-top: 4vw;
+	margin-top: 3vw;
 	margin-left: 0vw;	
 	overflow: hidden;
 	display: block !important;
 }
 
 #about-caption-workshop {
-	margin-top: 4vw;
+	margin-top: 2.5vw;
 	float: left !important;
 	box-sizing: border-box;
 /* 	margin: 0; */
 	width: 45%;
-	padding-left: 50px;
+	padding-left: 30px;
 	overflow: hidden;
 	display: inline-block !important;
 }
@@ -209,10 +209,10 @@ div.exp-table-2 {
 }
 
 #about-image-workshop-2 {
-	width: 272px !important;
-	height: 181px !important;
+	width: 290px !important;
+	height: 192px !important;
 	margin-top: 17vw;
-	margin-left: 55vw;
+	margin-left: 57vw;
 	z-index: 100000;
 }
 
@@ -231,12 +231,12 @@ div.exp-table-2 {
 
 #about-caption-freelance {
 	margin-top: -22vw;
-	margin-left: 10.4vw;
+	margin-left: 9.6vw;
 }
 
 #about-freelance-wrapper {
 	margin-top: -24vw;
-	margin-left: 10.4vw;
+	margin-left: 9.6vw;
 	
 }
 
@@ -245,8 +245,9 @@ div.exp-table-2 {
 }
 
 #about-caption-faceplay {
-	margin-top: -9vw;
-	margin-left: 21.5vw;
+	margin-top: -8.6vw;
+	margin-left: 19.7vw;
+	padding-top: 11px;
 }
 
 #about-caption-painting {
@@ -256,9 +257,9 @@ div.exp-table-2 {
 
 
 #about-image-freelance {
-	width: 250px !important;
-	height: 166px !important;
-	margin-top: 10vw;
+	width: 275px !important;
+	height: 181px !important;
+	margin-top: 17vw;
 	margin-left: 34vw;
 	display: none;
 }
@@ -267,13 +268,7 @@ div.exp-table-2 {
 
 
 
-#about-image-workshop {
-	width: 200px !important;
-	height: 132px !important;
-	margin-top: 8vw;
-	margin-left:63vw;
-	display: none;
-}
+
 
 
 
@@ -282,7 +277,9 @@ div.exp-table-2 {
 
 /* SKILLS */
 
-
+p.first-line {
+	padding-top: 8px;
+}
 
 
 
@@ -292,8 +289,8 @@ div.exp-table-2 {
 	padding: 1em;
 	min-width: 600px;
 	max-width: 800px;
-	margin-top: 18vw;
-	margin-left: 38vw;
+	margin-top: 19vw;
+	margin-left: 36vw;
 }
 
 div.exp-table-3 {
@@ -308,23 +305,17 @@ div.exp-table-4 {
 	max-width: 500px;
 }
 
-
-
-
 #about-caption-worked {
-/* 	margin-top: 8vw; */
-/* 	margin-left: 38vw; */
 	float: left !important;
 	width: 30%;
 	box-sizing: border-box;
 	margin: 0;
 	overflow: hidden;
 	display: inline-block !important;
+	padding-top: 5px;
 }
 
 #about-caption-experienced {
-/* 	margin-top: 3vw; */
-/* 	margin-left: 38vw; */
 	float: left !important;
 	box-sizing: border-box;
 	margin: 0;
@@ -336,13 +327,11 @@ div.exp-table-4 {
 }
 
 #about-caption-terrific {
-/* 	margin-top: 3vw; */
-/* 	margin-left: 38vw; */
 	float: left !important;
 	width: 30%;
 	left: 0;
 	box-sizing: border-box;
-	margin-top: 3vw;
+	margin-top: 2.5vw;
 	margin-left: 0vw;	
 	overflow: hidden;
 	display: block !important;
@@ -362,12 +351,44 @@ div.exp-table-4 {
 
 
 
+
+
+/* IMAGE */
+
+
+#about-image-workshop {
+	width: 260px !important;
+	height: 171px !important;
+	margin-top: 10vw;
+	margin-left:2vw;
+	display: none;
+}
+
+
+
+
+#about-caption-gallery {
+	margin-top: 12vw;
+	margin-left: 2vw;
+/* 	padding-bottom: 200px; */
+}
+
+
+
+
+
+
+/* GALLERY */
+
+
+
 .about-gallery-container{
-  max-width:600px !important;
+  max-width:800px !important;
   position:relative;
 /*   margin:0 auto; */
-  margin-top:10vw !important;
-  margin-left: 20vw !important;
+  margin-top:8vw !important;
+  margin-left: 7vw !important;
+  padding-bottom: 200px;
 }
 
 		#galley-overlay{
@@ -387,9 +408,9 @@ div.exp-table-4 {
 		  position:relative;
 		  float:left;
 		  height:120px !important;
-		  width:90px !important;
+		  width:120px !important;
 		  background:#fff;
-		  margin:20px !important;
+		  margin:15px !important;
 		}
 		
 		.about-photo-image{
@@ -397,14 +418,14 @@ div.exp-table-4 {
 		  position:relative;
 		  top:0px;
 		  left:0px;
-		  width:90px !important;
+		  width:120px !important;
 		  z-index:1000;
 		  opacity:1;
 		  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
 		}
 		
 		.about-photo-image:hover{
-		  width:90px !important;
+		  width:120px !important;
 		  top:-15px;
 		  left: 0px;
 		  z-index:1001;
@@ -430,6 +451,10 @@ div.exp-table-4 {
 		  top:-20px;
 		  left:-200px;
 		}
+		
+		
+		
+
 
 
 .inline-block {
