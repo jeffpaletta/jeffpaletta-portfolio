@@ -445,9 +445,9 @@ $(document).ready(function() {
 	// Freelance 
 	
 	$('body').on('click', '.show-more-freelance-toggle', function(e) {
-		$('.show-more-freelance').removeClass('hide');
-		$('.show-more-freelance-toggle').addClass('hide');
-		$('#freelance-header').addClass('hide');
+		$('.show-more-freelance').toggleClass('hide');
+// 		$('.show-more-freelance-toggle').addClass('hide');
+// 		$('#freelance-header').addClass('hide');
 // 		$('.read-more-toggle-freelance').addClass('hide');
 		e.preventDefault();
 	});

@@ -60,10 +60,7 @@ h5#resume-date {		/* project dates */
 
 
 
-	/* CONTENT */
-	/* CONTENT */
-	/* CONTENT */
-		
+
 
 
 
@@ -177,7 +174,7 @@ h3 > span {
 	
 	/* EXPERIENCE CONTAINER */
 		
-\
+
 #about-experience-wrapper-1 {
 	width: 1020px;
 	overflow: none;
@@ -221,7 +218,7 @@ div.exp-table-2 {
 	}
 
 
-#about-caption-practicum {
+#about-caption-deprogram {
 	float: left !important;
 	box-sizing: border-box;
 	margin: 0;
@@ -233,7 +230,7 @@ div.exp-table-2 {
 	}
 
 
-#about-caption-deprogram {
+#about-caption-practicum {
 	float: left !important;
 	width: 30%;
 	left: 0;
@@ -246,7 +243,7 @@ div.exp-table-2 {
 
 
 #about-caption-workshop {
-	margin-top: 2.5vw;
+	margin-top: 2.7vw;
 	float: left !important;
 	box-sizing: border-box;
 /* 	margin: 0; */
@@ -295,7 +292,7 @@ div.exp-table-2 {
 		
 
 #about-caption-freelance {
-	margin-top: -27vw;
+	margin-top: -29vw;
 	margin-left: 9.6vw;
 	}
 	
@@ -305,7 +302,7 @@ div.exp-table-2 {
 		
 
 #about-freelance-wrapper {
-	margin-top: -29vw;
+	margin-top: -28vw;
 	margin-left: 9.6vw;
 	}
 	
@@ -325,7 +322,7 @@ div.exp-table-2 {
 	}
 
 #about-caption-painting {
-	margin-top: 4vw;
+	margin-top: 3vw;
 	}
 
 
@@ -574,6 +571,26 @@ div.exp-table-4 {
 
 
 
+	/* ONLY FOR SAFARI */
+	
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
+   
+    @media {
+        
+/*
+        #about-caption-deprogram { 
+            z-index: 20000 !important; 
+        }
+*/
+    }   
+}
+
+
+
+
+
+
+
 
 
 
@@ -639,11 +656,66 @@ div.exp-table-4 {
 @media screen and (min-width: 2100px)	 {
 	
 	#about-image-deprogram {
-	width: 340px;
-	height: 182px;
-	margin-top: 6vw;
-	margin-left: 4vw;
-	}
+		width: 340px;
+		height: 182px;
+		margin-top: 6vw;
+		margin-left: 4vw;
+		}
+		
+	
+	#about-experience-wrapper-1 {
+		width: 1224px;
+		overflow: none;
+		padding: 1em;
+		min-width: 720px;
+		max-width: 1300px;
+		margin-top: 17vw;
+		margin-left: 9vw;
+		}
+		
+		
+	#about-caption-deprogram {
+		width: 42%;
+		min-width: 300px;
+		padding-left: 45px;
+		}
+	
+	
+	#about-caption-practicum {
+		width: 30%;
+		margin-top: 3vw;
+/* 		margin-left: 0vw;	 */
+		}
+		
+		
+	#about-caption-freelance {
+		margin-top: -27vw;
+		margin-left: 9.6vw;
+		}
+			
+	
+	#about-freelance-wrapper {
+		margin-top: -26vw;
+		margin-left: 9.6vw;
+		}
+	
+	
+	#about-caption-workshop {
+		margin-top: 2.85vw !important;
+		width: 45%;
+/* 		padding-left: 30px; */
+		}
+		
+	
+	#about-caption-faceplay {
+		margin-top: -6vw;
+		margin-left: 15.5vw;
+/* 		padding-top: 11px; */
+		} 
+		
+	#about-caption-painting {
+		margin-top: 2vw;
+		}
 }
 
 
