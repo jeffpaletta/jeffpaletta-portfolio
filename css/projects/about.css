@@ -42,7 +42,7 @@ p.first-line {
 	}
 
 
-.hide-3 {
+.hide-3, .about-1336-only {
 	display: none;
 	}
 
@@ -588,13 +588,11 @@ div.exp-table-4 {
 /* 		padding-top: -1px; */
 		}
 	
-	
 	#about-intro-caption {
 		margin-top: 2vw;
 		margin-left: 2vw !important;
 		}
 			
-	
 	#about-image-selfie {
 		width: 196px;
 		height: 173px;
@@ -602,13 +600,11 @@ div.exp-table-4 {
 		margin-left: 22vw;
 		}
 			
-	
 	#about-contact-info {
 		margin-top: 20vw;
 		margin-left: 21vw !important;
 		}
 		
-	
 	#about-image-diploma {
 		width: 174px;
 		height: 94px;
@@ -616,17 +612,14 @@ div.exp-table-4 {
 /* 		margin-left: 50vw; */
 		}
 		
-					
 	#about-caption-education {
 /* 		margin-top: 10vw !important; */
 		margin-left: 47vw !important;
 		}
 		
-	
 	h3 > span {				
 		font-size: 11px !important;		/* used for education title */
 		}
-	
 	
 	#about-image-deprogram {
 		width: 196px;
@@ -634,7 +627,6 @@ div.exp-table-4 {
 		margin-top: 7vw;
 /* 		margin-left: 4vw; */
 		}
-		
 		
 	#about-experience-wrapper-1 {
 		width: 900px;
@@ -655,26 +647,22 @@ div.exp-table-4 {
 		max-width: 380px;
 		}
 			
-	
 	#about-caption-shinola {
 		width: 25%;
 		margin: 0;
 		}
-	
 	
 	#about-caption-deprogram {
 		width: 42%;
 		min-width: 300px;
 		padding-left: 50px;
 		}
-	
-	
+		
 	#about-caption-practicum {
 		width: 30%;
 		margin-top: 3vw;
 /* 		margin-left: 0vw;	 */
 		}
-	
 	
 	#about-caption-workshop {
 		margin-top: 2.9vw;
@@ -682,20 +670,32 @@ div.exp-table-4 {
 		padding-left: 30px;
 		}
 		
-	
-	#about-caption-faceplay {
-		margin-top: -8.6vw;
-		margin-left: 27vw;
-		padding-top: 11px;
-		}
-
-		
 		
 	#about-image-workshop-2 {
 		width: 200px !important;
 		height: 132px !important;
-/* 		margin-top: 22vw; */
+		margin-top: 28vw;
 /* 		margin-left: 57vw; */
+		}
+		
+	#about-caption-freelance {
+		margin-top: -36vw;
+/* 		margin-left: 9.6vw; */
+		}
+			
+	#about-freelance-wrapper {
+		margin-top: -34vw;
+/* 		margin-left: 9.6vw; */
+		}
+				
+	#about-caption-heavenly {
+/* 		margin-top: vw; */
+		}
+		
+	#about-caption-faceplay {
+		margin-top: -10.5vw;
+		margin-left: 22vw;
+		padding-top: 11px;
 		}
 		
 		
@@ -730,6 +730,40 @@ div.exp-table-4 {
 		width: 50%;
 		padding-left: 30px;
 		}
+		
+	#about-caption-gallery {
+		margin-top: 25vw;
+		margin-left: 2vw;
+		width: 210px !important;
+	/* 	padding-bottom: 200px; */
+		}
+		
+	.about-1336-only {
+		display: inline !important;
+		}
+		
+		
+	.about-gallery-container{
+	  	max-width:560px !important;
+	  	margin-top: 10vw !important;
+	  	margin-left: 6vw !important;
+	  	padding-bottom: 300px;
+		}
+	
+			.about-gallery-image{
+			  	height:85px !important;
+			  	width:85px !important;
+			  	margin:12px !important;
+				}
+			
+			.about-photo-image{
+			  	width:85px !important;
+				}	
+			
+			.about-photo-image:hover{
+			  	width:85px !important;
+				}
+			
 	}
 
 
