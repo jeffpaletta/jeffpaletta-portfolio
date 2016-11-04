@@ -593,9 +593,6 @@ div.exp-table-4 {
 		margin-top: 2vw;
 		margin-left: 2vw !important;
 		}
-		
-	
-		
 			
 	
 	#about-image-selfie {
@@ -627,17 +624,78 @@ div.exp-table-4 {
 		
 	
 	h3 > span {				
-		font-size: 12px !important;		/* used for education title */
+		font-size: 11px !important;		/* used for education title */
 		}
-
-		
 	
 	
 	#about-image-deprogram {
 		width: 196px;
 		height: 105px;
-/* 		margin-top: 6vw; */
+		margin-top: 7vw;
 /* 		margin-left: 4vw; */
+		}
+		
+		
+	#about-experience-wrapper-1 {
+		width: 900px;
+/* 		padding: 1em; */
+		min-width: 420px;
+		max-width: 95000px;
+/* 		margin-top: 17vw; */
+/* 		margin-left: 9vw; */
+		}
+	
+	div.exp-table {
+		min-width: 250px;
+		max-width: 380px;
+		}
+	
+	div.exp-table-2 {
+		min-width: 250px;
+		max-width: 380px;
+		}
+			
+	
+	#about-caption-shinola {
+		width: 25%;
+		margin: 0;
+		}
+	
+	
+	#about-caption-deprogram {
+		width: 42%;
+		min-width: 300px;
+		padding-left: 50px;
+		}
+	
+	
+	#about-caption-practicum {
+		width: 30%;
+		margin-top: 3vw;
+/* 		margin-left: 0vw;	 */
+		}
+	
+	
+	#about-caption-workshop {
+		margin-top: 2.9vw;
+		width: 45%;
+		padding-left: 30px;
+		}
+		
+	
+	#about-caption-faceplay {
+		margin-top: -8.6vw;
+		margin-left: 27vw;
+		padding-top: 11px;
+		}
+
+		
+		
+	#about-image-workshop-2 {
+		width: 200px !important;
+		height: 132px !important;
+/* 		margin-top: 22vw; */
+/* 		margin-left: 57vw; */
 		}
 		
 		
@@ -646,6 +704,31 @@ div.exp-table-4 {
 /* 		font-size: 11px !important; */
 /* 		font-weight: 200; */
 /* 		padding-top: -1px; */
+		}
+		
+		
+	#about-caption-worked {
+		width: 30%;
+		padding-top: 5px;
+		}
+	
+	#about-caption-experienced {
+		width: 50%;
+		min-width: 300px;
+		padding-left: 30px;
+		}
+	
+	#about-caption-terrific {
+		width: 30%;
+		left: 0;
+		margin-top: 3.5vw;
+		margin-left: 0vw;	
+		}
+	
+	#about-caption-learn {
+		margin-top: 4.3vw;
+		width: 50%;
+		padding-left: 30px;
 		}
 	}
 
