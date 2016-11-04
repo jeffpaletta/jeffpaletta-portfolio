@@ -401,7 +401,7 @@ $(document).ready(function() {
 		clicked = false;
 	});
 	
-	// Resume Info Togglers
+	// Resume 
 	$('body').on('click', '.show-more-toggle', function(e) {
 		$('.show-more-content').removeClass('hide');
 		$('.show-more-toggle').addClass('hide');
@@ -410,40 +410,26 @@ $(document).ready(function() {
 		$('#about-experience-wrapper-1').removeClass('hide');
 // 		e.preventDefault();
 	});
-	
-	// Experience
 	$('body').on('click', '.read-more-toggle-shinola', function(e) {
 		$('.read-more-content-shinola').toggleClass('hide');
 		$('.read-more-toggle-shinola').toggleClass('hide');
 		e.preventDefault();
 	});
-	
 	$('body').on('click', '.read-more-toggle-deprogram', function(e) {
 		$('.read-more-content-deprogram').toggleClass('hide');
 		$('.read-more-toggle-deprogram').toggleClass('hide');
 		e.preventDefault();
 	});
-	
 	$('body').on('click', '.read-more-toggle-practicum', function(e) {
 		$('.read-more-content-practicum').toggleClass('hide');
 		$('.read-more-toggle-practicum').toggleClass('hide');
 		e.preventDefault();
 	});
-	
 	$('body').on('click', '.read-more-toggle-workshop', function(e) {
 		$('.read-more-content-workshop').toggleClass('hide');
 		$('.read-more-toggle-workshop').toggleClass('hide');
 		e.preventDefault();
 	});
-	
-	
-	
-	
-	
-	
-	
-	// Freelance 
-	
 	$('body').on('click', '.show-more-freelance-toggle', function(e) {
 		$('.show-more-freelance').toggleClass('hide');
 // 		$('.show-more-freelance-toggle').addClass('hide');
@@ -451,30 +437,38 @@ $(document).ready(function() {
 // 		$('.read-more-toggle-freelance').addClass('hide');
 		e.preventDefault();
 	});
-	
-	
-	
-	
-	
 	$('body').on('click', '.read-more-toggle-heavenly', function(e) {
 		$('.read-more-content-heavenly').toggleClass('hide');
 		$('.read-more-toggle-heavenly').addClass('hide');
 		e.preventDefault();
 	});
-	
 	$('body').on('click', '.read-more-toggle-faceplay', function(e) {
 		$('.read-more-content-faceplay').toggleClass('hide');
 		$('.read-more-toggle-faceplay').addClass('hide');
 		e.preventDefault();
 	});
-	
 	$('body').on('click', '.read-more-toggle-sign', function(e) {
 		$('.read-more-content-sign').toggleClass('hide');
 		$('.read-more-toggle-sign').addClass('hide');
 		e.preventDefault();
 	});
 	
-	
+// Caption Demo Toggler
+	$('body').on('click', '#display-is-active', function(e) {
+		$('.set-caption-toggle').addClass('hide');
+		$('.set-display-toggle').removeClass('hide');
+		$('#notepad').removeClass('display-demo');
+		$('#notepad').addClass('caption-demo');
+		e.preventDefault();
+	});
+	$('body').on('click', '#caption-is-active', function(e) {
+		$('.set-display-toggle').addClass('hide');
+		$('.set-caption-toggle').removeClass('hide');
+		$('#notepad').removeClass('caption-demo');
+		$('#notepad').addClass('display-demo');
+		e.preventDefault();
+	});
+		
 	$(document).keydown(function(e) {
 		// Escape
 		if (e.keyCode === 27) {
