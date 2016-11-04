@@ -1,7 +1,10 @@
 /*	about.css by Jeffrey Paletta	*/
-
-
-
+ 
+ /*
+	This code is absolutely appalling. 
+	I'm going to clean it up soon I promise. 
+	Don't jusdge me.  (:
+*/
 
 
 
@@ -57,24 +60,12 @@ h5#resume-date {		/* project dates */
 
 
 
-
-
-
-
-
-
-
-
-	/* INTRO CAPTION */
-		
-
 #about-intro-caption {
 	margin-left: 6vw !important;
 	}
 	
 	
 	
-	/* SELFIE CRYING */
 		
 
 #about-image-selfie {
@@ -83,12 +74,7 @@ h5#resume-date {		/* project dates */
 	margin-top: 16vw;
 	margin-left: 24vw;
 	}
-	
-	
-	
-	
-	/* CONTACT INFO */
-	
+		
 
 #about-contact-info {
 	margin-top: 19vw;
@@ -106,8 +92,6 @@ h5#resume-date {		/* project dates */
 
 
 
-
-	/* DIPLOMA IMAGE */
 		
 
 #about-image-diploma {
@@ -117,11 +101,7 @@ h5#resume-date {		/* project dates */
 	margin-left: 50vw;
 	}
 	
-	
-	
-	
-	/* EDUCATION CAPTION */
-			
+				
 #about-caption-education {
 	margin-top: 10vw !important;
 	margin-left: 56vw !important;
@@ -134,19 +114,10 @@ h3 > span {
 
 
 
-
-
-
-
 	/* EXPERIENCE */
 	/* EXPERIENCE */
 	/* EXPERIENCE */
 		
-		
-		
-		
-		
-	/* DEPROGRAM IMAGE */
 		
 
 #about-image-deprogram {
@@ -156,24 +127,17 @@ h3 > span {
 	margin-left: 4vw;
 	}
 	
-	
-	
-	
-	
-	/* EXPERIENCE TITLE */
-		
 
 #about-title-experience {
 	margin-top: -3vw;
 	margin-left: 14vw;
 	display: none;
 	}
-	
-	
-	
-	
-	/* EXPERIENCE CONTAINER */
 		
+
+
+
+
 
 #about-experience-wrapper-1 {
 	width: 1020px;
@@ -184,10 +148,6 @@ h3 > span {
 	margin-top: 17vw;
 	margin-left: 9vw;
 	}
-
-
-
-
 
 div.exp-table {
 	vertical-align: top;
@@ -205,8 +165,6 @@ div.exp-table-2 {
 	
 	
 	
-	/* EXPERIENCE CAPTIONS */
-
 
 #about-caption-shinola {
 	float: left !important;
@@ -227,18 +185,22 @@ div.exp-table-2 {
 	padding-left: 30px;
 	overflow: hidden;
 	display: inline-block !important;
+	clear: right;
 	}
 
 
 #about-caption-practicum {
 	float: left !important;
 	width: 30%;
-	left: 0;
+/* 	left: 0; */
 	box-sizing: border-box;
 	margin-top: 3vw;
 	margin-left: 0vw;	
 	overflow: hidden;
 	display: block !important;
+/* 	clear: both !important; */
+/* 	position: relative; */
+	clear: left;
 	}
 
 
@@ -259,10 +221,6 @@ div.exp-table-2 {
 	
 
 
-
-	/* WORKSHOP 2 IMAGE */
-
-
 #about-image-workshop-2 {
 	width: 290px !important;
 	height: 192px !important;
@@ -275,20 +233,12 @@ div.exp-table-2 {
 
 
 
-
-
 	/* FREELANCE */
 	/* FREELANCE */
 	/* FREELANCE */
 
 
 
-
-
-
-
-
-	/* FREELANCE TOGGLE BUTTON */
 		
 
 #about-caption-freelance {
@@ -297,9 +247,7 @@ div.exp-table-2 {
 	}
 	
 	
-	
-	/* FREELANCE CONTAINER */
-		
+			
 
 #about-freelance-wrapper {
 	margin-top: -28vw;
@@ -308,7 +256,6 @@ div.exp-table-2 {
 	
 	
 	
-	/* FREELANCE CAPTIONS */
 	
 	
 #about-caption-heavenly {
@@ -326,9 +273,6 @@ div.exp-table-2 {
 	}
 
 
-	
-	
-
 
 
 	/* SKILLS */
@@ -336,9 +280,6 @@ div.exp-table-2 {
 	/* SKILLS */
 
 
-
-
-	/* CONTAINER */
 
 
 
@@ -352,11 +293,6 @@ div.exp-table-2 {
 	margin-left: 36vw;
 }
 
-
-
-
-
-	/* TABLE TWEAKS */
 		
 		
 
@@ -373,10 +309,6 @@ div.exp-table-4 {
 }
 
 
-
-
-
-	/* SKILLS CAPTIONS */
 
 
 
@@ -423,21 +355,13 @@ div.exp-table-4 {
 	}
 		
 		
-
-		
-		
 		
 	/* GALLERY */
 	/* GALLERY */
 	/* GALLERY */
 		
 		
-
 		
-
-
-	/* GALLERY CAPTION */
-
 
 #about-caption-gallery {
 	margin-top: 25vw;
@@ -447,11 +371,6 @@ div.exp-table-4 {
 }
 
 
-
-
-
-
-	/* GALLERY IMAGES */
 
 
 .about-gallery-container{
@@ -528,11 +447,6 @@ div.exp-table-4 {
 		
 		
 
-
-
-
-
-
 	/* ONLY FOR MOBILE */
 		
 		
@@ -575,14 +489,21 @@ div.exp-table-4 {
 	/* ONLY FOR SAFARI */
 	
 @media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
-   
     @media {
-        
+	    
+	#about-caption-practicum {
 /*
-        #about-caption-deprogram { 
-            z-index: 20000 !important; 
-        }
+		position: absolute;
+		clear: both;
 */
+	}
+/*
+	content:"";
+	display:table;
+	clear:both;
+*/
+        
+
     }   
 }
 
@@ -617,7 +538,116 @@ div.exp-table-4 {
 
 
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
-}
+	
+	
+	#about-intro-caption,		
+	#about-contact-info,
+	#about-caption-education,
+	#about-caption-shinola,
+	#about-caption-deprogram,
+	#about-caption-practicum,
+	#about-caption-workshop,
+	#about-caption-freelance,
+	#about-caption-heavenly,
+	#about-caption-faceplay,
+	#about-caption-painting,
+	#about-caption-worked,
+	#about-caption-experienced,
+	#about-caption-terrific,
+	#about-caption-learn,
+	#about-caption-gallery {			/* why did i do all this? jesus... */
+		font-size: 11px !important;
+		line-height: 18px !important;
+		}
+	
+	
+	.about-title {
+		font-size: 12px !important;
+		}
+		
+		
+	.about-header {
+/* 		font-size: 18px !important; */
+		}
+	
+	
+	.move-down {
+/* 		padding-top: 50px !important; */
+		}
+		
+		
+	p.first-line {
+/* 		padding-top: 8px;	/* Space between titles and captions */ */
+		}
+	
+	
+	h5#resume-date {		/* project dates */		
+		font-size: 9px !important;
+/* 		letter-spacing: 1px; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+	
+	
+	#about-intro-caption {
+		margin-top: 2vw;
+		margin-left: 2vw !important;
+		}
+		
+	
+		
+			
+	
+	#about-image-selfie {
+		width: 196px;
+		height: 173px;
+		margin-top: 15vw;
+		margin-left: 22vw;
+		}
+			
+	
+	#about-contact-info {
+		margin-top: 20vw;
+		margin-left: 21vw !important;
+		}
+		
+	
+	#about-image-diploma {
+		width: 174px;
+		height: 94px;
+/* 		margin-top: 3vw; */
+/* 		margin-left: 50vw; */
+		}
+		
+					
+	#about-caption-education {
+/* 		margin-top: 10vw !important; */
+		margin-left: 47vw !important;
+		}
+		
+	
+	h3 > span {				
+		font-size: 12px !important;		/* used for education title */
+		}
+
+		
+	
+	
+	#about-image-deprogram {
+		width: 196px;
+		height: 105px;
+/* 		margin-top: 6vw; */
+/* 		margin-left: 4vw; */
+		}
+		
+		
+		
+	h5#resume-date {		/* project dates */		
+/* 		font-size: 11px !important; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+	}
 
 
 
