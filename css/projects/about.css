@@ -42,7 +42,7 @@ p.first-line {
 	}
 
 
-.hide-3, .about-1336-only {
+.hide-3, .about-1336-only, .about-800-only {
 	display: none;
 	}
 
@@ -522,7 +522,248 @@ div.exp-table-4 {
 
 
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
-}
+	
+	#about-intro-caption,		
+	#about-contact-info,
+	#about-caption-education,
+	#about-caption-shinola,
+	#about-caption-deprogram,
+	#about-caption-practicum,
+	#about-caption-workshop,
+	#about-caption-freelance,
+	#about-caption-heavenly,
+	#about-caption-faceplay,
+	#about-caption-painting,
+	#about-caption-worked,
+	#about-caption-experienced,
+	#about-caption-terrific,
+	#about-caption-learn,
+	#about-caption-gallery {			/* why did i do all this? jesus... */
+		font-size: 8px !important;
+		line-height: 13px !important;
+		}
+	
+	.about-title {
+		font-size: 9px !important;
+		}
+		
+	.about-header {
+/* 		font-size: 18px !important; */
+		}
+	
+	.move-down {
+/* 		padding-top: 50px !important; */
+		}
+		
+	p.first-line {
+/* 		padding-top: 8px;	/* Space between titles and captions */ */
+		}
+	
+		h5#resume-date {		/* project dates */		
+		font-size: 7px !important;
+/* 		letter-spacing: 1px; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+	
+	#about-intro-caption {
+		margin-top: 12vw;
+		margin-left: 2vw !important;
+		max-width: 175px !important;
+		}
+			
+	#about-image-selfie {
+		width: 127px;
+		height: 112px;
+		margin-top: 15vw;
+		margin-left: 22vw;
+		}
+			
+	#about-contact-info {
+		margin-top: 22vw;
+		margin-left: 20vw !important;
+		}
+		
+	#about-image-diploma {
+		width: 125px;
+		height: 66px;
+		margin-top: 1vw;
+/* 		margin-left: 50vw; */
+		}
+		
+	#about-caption-education {
+		margin-top: 12.5vw !important;
+		margin-left: 47vw !important;
+		}
+		
+	h3 > span {				
+		font-size: 9px !important;		/* used for education title */
+		}
+	
+	#about-image-deprogram {
+		width: 125px;
+		height: 66px;
+		margin-top: 7vw;
+/* 		margin-left: 4vw; */
+		}
+		
+	#about-experience-wrapper-1 {
+		width: 700px;
+/* 		padding: 1em; */
+		min-width: 420px;
+		max-width: 950px;
+/* 		margin-top: 17vw; */
+/* 		margin-left: 9vw; */
+		}
+	
+	div.exp-table {
+		min-width: 50px;
+		max-width: 350px;
+		}
+	
+	div.exp-table-2 {
+		min-width: 50px;
+		max-width: 300px;
+		}
+			
+	#about-caption-shinola {
+		padding-top: 3px !important;
+		width: 25%;
+		margin: 0;
+		}
+	
+	#about-caption-deprogram {
+		width: 42%;
+		min-width: 300px;
+		padding-left: 40px;
+		}
+		
+	#about-caption-practicum {
+		width: 30%;
+		margin-top: 3vw;
+/* 		margin-left: 0vw;	 */
+		}
+	
+	#about-caption-workshop {
+		margin-top: 3.1vw;
+		width: 45%;
+		padding-left: 5px;
+		}
+		
+		
+	#about-image-workshop-2 {
+		width: 125px !important;
+		height: 82px !important;
+		margin-top: 28vw;
+/* 		margin-left: 57vw; */
+		}
+		
+	#about-caption-freelance {
+		margin-top: -36vw;
+/* 		margin-left: 9.6vw; */
+		}
+			
+	#about-freelance-wrapper {
+		margin-top: -34vw;
+/* 		margin-left: 9.6vw; */
+		}
+				
+	#about-caption-heavenly {
+/* 		margin-top: vw; */
+		}
+		
+	#about-caption-faceplay {
+		margin-top: -14.9vw;
+		margin-left: 27vw;
+		padding-top: 9px;
+		}
+		
+	#about-caption-painting {
+		margin-top: 1.7vw !important;
+		}
+		
+		
+		
+	h5#resume-date {		/* project dates */		
+/* 		font-size: 11px !important; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+		
+	#about-skills-wrapper {
+		width: 500px;
+		overflow: none;
+		padding: 1em;
+		min-width: 400px;
+		max-width: 500px;
+		margin-top: 19vw;
+		margin-left: 36vw;
+	}
+		
+		
+	#about-caption-worked {
+		width: 30%;
+		padding-top: 5px;
+		}
+	
+	#about-caption-experienced {
+		width: 50%;
+		min-width: 300px;
+		padding-left: 30px;
+		}
+	
+	#about-caption-terrific {
+		width: 30%;
+		left: 0;
+		margin-top: 3.5vw;
+		margin-left: 0vw;	
+		}
+	
+	#about-caption-learn {
+		margin-top: 4.3vw;
+		width: 50%;
+		padding-left: 30px;
+		}
+		
+	#about-caption-gallery {
+		margin-top: 25vw;
+		margin-left: 2vw;
+		max-width: 10% !important;
+	/* 	padding-bottom: 200px; */
+		}
+		
+	.about-1336-only {
+		display: none !important;
+		}
+		
+	.about-800-only {
+		display: inline !important;
+	}
+		
+		
+	.about-gallery-container{
+	  	max-width:560px !important;
+	  	margin-top: 10vw !important;
+	  	margin-left: 6vw !important;
+	  	padding-bottom: 300px;
+		}
+	
+			.about-gallery-image{
+			  	height:50px !important;
+			  	width:50px !important;
+			  	margin:8px !important;
+				}
+			
+			.about-photo-image{
+			  	width:50px !important;
+				}	
+			
+			.about-photo-image:hover{
+			  	width:50px !important;
+				}
+			
+	}
+
 
 
 
