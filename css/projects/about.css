@@ -27,7 +27,8 @@
 	}
 	
 	
-p.first-line {
+p.first-line,
+h5.first-line {
 	padding-top: 8px;	/* Space between titles and captions */
 	}
 	
@@ -742,7 +743,7 @@ div.exp-table-4 {
 		
 		
 	.about-gallery-container{
-	  	max-width:560px !important;
+	  	max-width:350px !important;
 	  	margin-top: 10vw !important;
 	  	margin-left: 6vw !important;
 	  	padding-bottom: 300px;
