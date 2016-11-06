@@ -380,7 +380,7 @@ div.exp-table-4 {
 /*   	margin:0 auto; */
   	margin-top: 10vw !important;
   	margin-left: 7vw !important;
-  	padding-bottom: 400px;
+/*   	padding-bottom: 400px; */
 	}
 
 		#galley-overlay{
@@ -444,6 +444,14 @@ div.exp-table-4 {
 		  	left:-200px;
 			}
 		
+		
+		
+#about-caption-award {
+	margin-top: 10vw !important;
+	margin-left: 45vw !important;
+	width: 320px !important;
+	padding-bottom: 400px;
+}
 		
 		
 		
@@ -746,7 +754,7 @@ div.exp-table-4 {
 	  	max-width:350px !important;
 	  	margin-top: 10vw !important;
 	  	margin-left: 6vw !important;
-	  	padding-bottom: 300px;
+/* 	  	padding-bottom: 300px; */
 		}
 	
 			.about-gallery-image{
@@ -762,6 +770,14 @@ div.exp-table-4 {
 			.about-photo-image:hover{
 			  	width:50px !important;
 				}
+				
+				
+	#about-caption-award {
+		margin-top: 16vw !important;
+		margin-left: 50vw !important;
+		width: 160px !important;
+		padding-bottom: 300px;
+		}
 			
 	}
 
@@ -989,7 +1005,7 @@ div.exp-table-4 {
 	  	max-width:560px !important;
 	  	margin-top: 10vw !important;
 	  	margin-left: 6vw !important;
-	  	padding-bottom: 300px;
+/* 	  	padding-bottom: 300px; */
 		}
 	
 			.about-gallery-image{
@@ -1006,6 +1022,13 @@ div.exp-table-4 {
 			  	width:85px !important;
 				}
 			
+	#about-caption-award {
+		margin-top: 10vw !important;
+		margin-left: 45vw !important;
+		width: 320px !important;
+		padding-bottom: 300px;
+		}
+	
 	}
 
 
@@ -1106,7 +1129,16 @@ div.exp-table-4 {
 	#about-caption-painting {
 		margin-top: 2vw;
 		}
-}
+
+
+	#about-caption-award {
+		margin-top: 10vw !important;
+		margin-left: 45vw !important;
+		width: 370px !important;
+		padding-bottom: 400px;
+		}
+			
+	}
 
 
 
