@@ -222,7 +222,14 @@
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 951px) and (max-width: 1500px) {
+	
+	#lorraine-caption-1,
+	#lorraine-caption-2 {
+		font-size: 11px !important;
+		line-height: 18px !important;
+	}
+	
 	
 	#lorraine-image-string {
 		margin-top: -1vw;
@@ -334,7 +341,7 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2099px) {
+@media screen and (min-width: 1501px) and (max-width: 2099px) {
 	
 	#lorraine-br-hidden-1920 {
 		display: none !important;

@@ -159,7 +159,7 @@ acaption-is-active {
 
 
 /* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 1199px)  {
+@media screen and (min-width: 701px) and (max-width: 950px)  {
 	
 	#clearance-caption-0,
 	#clearance-caption-1,
@@ -274,7 +274,7 @@ acaption-is-active {
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 951px) and (max-width: 1500px) {
 	
 	#clearance-caption-0,
 	#clearance-caption-1,
@@ -392,7 +392,7 @@ acaption-is-active {
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2099px)	 {	
+@media screen and (min-width: 1501px) and (max-width: 2099px)	 {	
 	
 	textarea.display-preview {
 		font-size: 15em !important;
