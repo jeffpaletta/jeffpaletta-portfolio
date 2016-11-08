@@ -401,7 +401,7 @@ nav li {
 	left:55%;
 }
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1120px)  {
 			.link-4 {
 				top:29%;
 				left:53%;
@@ -422,7 +422,7 @@ nav li {
 }
 
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1120px)  {
 			.link-6 {
 				top:35%;
 				left:42%;
@@ -442,7 +442,7 @@ nav li {
 }
 
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1120px)  {
 			.link-8 {
 				top:60%;
 				left:72%;
@@ -462,7 +462,7 @@ nav li {
 }
 
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1120px)  {
 			.link-10 {
 				top:55%;
 				left:64%;
@@ -524,7 +524,7 @@ nav li {
 }
 
 /* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 950px)  {
+@media screen and (min-width: 701px) and (max-width: 1120px)  {
 	
 	/* What if you knew that your house paint could kill you? */
 	.link-7 {
@@ -1379,7 +1379,7 @@ footer {
 		}
 	}
 
-@media screen and (min-width: 951px) and (max-width: 1500px) {
+@media screen and (min-width: 1121px) and (max-width: 1500px) {
 	nav li a {
 		font-size:26px!important;
 		}
@@ -1463,23 +1463,37 @@ s {
 
 
 /* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 950px)  {
+@media screen and (min-width: 701px) and (max-width: 1150px)  {
 	
 	.link-underline {
 		color: #3233ff !important;
 		border-bottom: 0.5px solid #3233ff !important;
-	}
+		}
 	
 	.link-underline:hover {
 		color: #ccc !important;
 		border-bottom: 0.5px solid #ccc !important;
+		}
+	
+	.line:after {
+		font-size: 8px !important;
+		letter-spacing: 1px !important;
+		}
+	
+	.symbol {
+		font-size: small !important
+		}
+		
+	.title, .title-2 {
+		font-size: 8px !important;
+		}
 	}
-}
+
 
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 951px) and (max-width: 1500px) {
+@media screen and (min-width: 1151px) and (max-width: 1500px) {
 	
 	.link-underline {
 		color: #3233ff !important;

@@ -159,7 +159,7 @@ acaption-is-active {
 
 
 /* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 950px)  {
+@media screen and (min-width: 701px) and (max-width: 1120px)  {
 	
 	#clearance-caption-0,
 	#clearance-caption-1,
@@ -274,7 +274,7 @@ acaption-is-active {
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 951px) and (max-width: 1500px) {
+@media screen and (min-width: 1121px) and (max-width: 1500px) {
 	
 	#clearance-caption-0,
 	#clearance-caption-1,
