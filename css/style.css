@@ -401,7 +401,7 @@ nav li {
 	left:55%;
 }
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
 			.link-4 {
 				top:29%;
 				left:53%;
@@ -422,7 +422,7 @@ nav li {
 }
 
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
 			.link-6 {
 				top:35%;
 				left:42%;
@@ -442,7 +442,7 @@ nav li {
 }
 
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
 			.link-8 {
 				top:60%;
 				left:72%;
@@ -462,7 +462,7 @@ nav li {
 }
 
 		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 950px)  {
+		@media screen and (min-width: 701px) and (max-width: 1199px)  {
 			.link-10 {
 				top:55%;
 				left:64%;
@@ -524,7 +524,7 @@ nav li {
 }
 
 /* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 950px)  {
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
 	
 	/* What if you knew that your house paint could kill you? */
 	.link-7 {
@@ -1381,7 +1381,7 @@ footer {
 	}
 }
 
-@media screen and (min-width: 951px) and (max-width: 1500px) {
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
 	nav li a {
 		font-size:26px!important;
 	}
@@ -1468,7 +1468,7 @@ s {
 
 
 /* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 950px)  {
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
 	
 	.link-underline {
 		color: #3233ff !important;
@@ -1484,7 +1484,7 @@ s {
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 951px) and (max-width: 1500px) {
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
 	
 	.link-underline {
 		color: #3233ff !important;
@@ -1514,40 +1514,6 @@ s {
 		}
 	}
 }
-
-@media 
-(-webkit-max-device-pixel-ratio: 1), (max-resolution: 191dpi) {
-	@media screen and (min-width: 1337px) and (max-width: 1336px) { 
-	    /* Retina-specific stuff here */
-	    .line:after {
-		    font-size: 20px !important;
-		    letter-spacing: 1px !important;
-		}
-		.symbol {
-/* 			font-size: large !important */
-			font-size: x-large !important
-		}
-		.title, .title-2 {
-			font-size: 16px !important;
-		}
-	}
-}
-
-
-@media screen and (min-width: 1337px) and (max-width: 2099px) { 
-	    /* Retina-specific stuff here */
-	    .line:after {
-		    font-size: 12px !important;
-		    letter-spacing: 1px !important;
-		}
-		.symbol {
-/* 			font-size: large !important */
-			font-size: large !important
-		}
-		.title, .title-2 {
-			font-size: 12px !important;
-		}
-	}
 
 
 /* SHOW MORE 2 */
