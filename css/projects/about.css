@@ -530,7 +530,7 @@ div.exp-table-4 {
 		/* 800 x 600 */
 
 
-@media screen and (min-width: 701px) and (max-width: 1120px)  {
+@media screen and (min-width: 701px) and (max-width: 950px)  {
 	
 	#about-intro-caption,		
 	#about-contact-info,
@@ -795,7 +795,7 @@ div.exp-table-4 {
 		/* 1336 x 768 */
 
 
-@media screen and (min-width: 1121px) and (max-width: 1500px) {
+@media screen and (min-width: 951px) and (max-width: 1500px) {
 	
 	
 	#about-intro-caption,		
