@@ -4,13 +4,24 @@
 	margin-left: vw;
 	width: 800px !important;
 	height: 488px !important;
+	z-index: -9000 !important;
+}
+
+
+#pres-image-logo {
+	width: 220px;
+	height: 220px;
+/* 	position: absolute; */
+	margin-top: -3vw !important;
+	margin-left: 2vw;
+	z-index: 10000 !important;
 }
 
 
 .pres-gallery-container{
   	width: 700px !important;
   	position: relative;
-  	margin-top: 15vw !important;
+  	margin-top: 7vw !important;
   	margin-left: 50vw !important;
 }
 
@@ -18,20 +29,37 @@
 #pres-caption-1 {
 	margin-top: 6vw;
 	margin-left: 47vw;
+	max-width: 339px;
 }
 
 
-#pres-image-logo {
+#pres-image-ballot {
 	margin-top: 9vw;
-	margin-left: 2vw;
-	width: 240px !important;
-	height:240px !important;
+	margin-left: 5vw;
+	width: 350px !important;
+	height:350px !important;
 }
 
 
 #pres-caption-2 {
-	margin-top: 5vw;
-	margin-left: 10vw;
+	margin-top: 9vw;
+	margin-left: 16vw;
+	max-width: 350px;
+}
+
+
+#pres-image-eagles {
+	margin-top: 14vw;
+	margin-left: 43vw;
+	width: 400px !important;
+	height:520px !important;
+}
+
+
+#pres-caption-3 {
+	margin-top: 11vw;
+	margin-left: 24vw;
+	max-width: 350px;
 }
 
 /*
@@ -53,8 +81,9 @@
 #pres-video-1 {
 	width: 360px !important;
 	height: 600px !important;
-	margin-top: 8vw;
-	margin-left: 55vw;
+	margin-top: 12vw;
+	margin-left: 45vw;
+	padding-bottom: 300px;
 }
 
 #pres-process {
@@ -177,7 +206,7 @@
 	}
 	
 	
-	#pres-image-logo {
+	#pres-image-ballot {
 		margin-top: 9vw;
 		margin-left: 2vw;
 		width: 100px !important;
@@ -259,7 +288,7 @@
 	}
 	
 	
-	#pres-image-logo {
+	#pres-image-ballot {
 		margin-top: 9vw;
 		margin-left: 2vw;
 		width: 168px !important;
@@ -344,7 +373,7 @@
 	}
 	
 	
-	#pres-image-logo {
+	#pres-image-ballot {
 		margin-top: 9vw;
 		margin-left: 2vw;
 		width: 300px !important;
