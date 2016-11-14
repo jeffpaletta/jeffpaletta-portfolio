@@ -1,0 +1,180 @@
+		
+#pres-image-1 {
+	margin-top: vw;
+	margin-left: vw;
+	width: 800px !important;
+	height: 488px !important;
+	z-index: -9000 !important;
+}
+
+
+#pres-image-logo {
+	width: 220px;
+	height: 220px;
+/* 	position: absolute; */
+	margin-top: -3vw !important;
+	margin-left: 2vw;
+	z-index: 10000 !important;
+}
+
+
+.pres-gallery-container{
+  	width: 700px !important;
+  	position: relative;
+  	margin-top: 7vw !important;
+  	margin-left: 50vw !important;
+}
+
+	
+#pres-caption-1 {
+	margin-top: 6vw;
+	margin-left: 47vw;
+	max-width: 339px;
+}
+
+
+#pres-image-ballot {
+	margin-top: 9vw;
+	margin-left: 5vw;
+	width: 350px !important;
+	height:350px !important;
+}
+
+
+#pres-caption-2 {
+	margin-top: 9vw;
+	margin-left: 16vw;
+	max-width: 350px;
+}
+
+
+#pres-image-eagles {
+	margin-top: 14vw;
+	margin-left: 38vw;
+	width: 400px !important;
+	height:520px !important;
+}
+
+
+#pres-caption-3 {
+	margin-top: 11vw;
+	margin-left: 24vw;
+	max-width: 350px;
+}
+
+.800-only,
+.1336-only {
+	display: none !important;
+}
+
+br.1336-hide {
+		display: none !important;
+	}
+	
+		
+#pres-video-1 {
+	width: 360px !important;
+	height: 600px !important;
+	margin-top: 15vw;
+	margin-left: 50vw;
+	padding-bottom: 300px;
+}
+
+#pres-process {
+	margin-top: 43vw;
+	margin-left: 55vw;
+	padding-bottom: 300px;
+}	
+	
+
+
+		#galley-overlay{
+		  cursor: pointer;
+		  position:absolute;
+		  top:0;
+		  left:0;
+		  height:100%;
+		  width:100%;
+		  background:#000;
+		  opacity:.7;
+		  z-index:2000;
+		  display:none;
+		}
+		
+		.gallery-image{
+		  position:relative;
+		  float:left;
+		  height:100px !important;
+		  width:150px !important;
+		  background:#fff;
+		/*   border:1px solid #999; */
+		  margin:18px !important;
+		}
+		
+		.photo-image{
+		  cursor: pointer;
+		  position:relative;
+		  top:0px;
+		  left:0px;
+		  width:150px !important;
+		/*   border:1px solid #999;   */
+		  z-index:1000;
+		  opacity:1;
+		  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
+		}
+		
+		.photo-image:hover{
+		  width:150px !important;
+		  top:-15px;
+		  left: 0px;
+		  z-index:1001;
+		  opacity:1;
+		}
+		
+		.photo-selected{
+		  cursor:default;
+		  z-index:2001;
+		  width:500px;
+		  opacity:1;
+		  top:-20px;
+		  left:-200px;
+		  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+		}
+		
+		.photo-selected:hover{
+		  width:500px;
+		  top:-50px;
+		  left:-50px;
+		  z-index:2001;
+		  opacity:1;
+		  top:-20px;
+		  left:-200px;
+		}
+
+	
+		
+		
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+}
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+}
+
+
+
+	
