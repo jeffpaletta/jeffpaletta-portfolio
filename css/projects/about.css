@@ -450,9 +450,15 @@ div.exp-table-4 {
 	margin-top: 10vw !important;
 	margin-left: 45vw !important;
 	width: 320px !important;
-	padding-bottom: 400px;
+/* 	padding-bottom: 400px; */
 }
 		
+#about-caption-ref {
+	margin-top: 8vw !important;
+	margin-left: 45vw !important;
+	width: 320px !important;
+	padding-bottom: 400px;
+}
 		
 		
 
@@ -547,7 +553,9 @@ div.exp-table-4 {
 	#about-caption-experienced,
 	#about-caption-terrific,
 	#about-caption-learn,
-	#about-caption-gallery {			/* why did i do all this? jesus... */
+	#about-caption-gallery,
+	#about-caption-award,
+	#about-caption-ref {			/* why did i do all this? jesus... */
 		font-size: 8px !important;
 		line-height: 13px !important;
 		}
@@ -776,6 +784,15 @@ div.exp-table-4 {
 		margin-top: 16vw !important;
 		margin-left: 53vw !important;
 		width: 160px !important;
+/* 		padding-bottom: 200px; */
+		}
+			
+	
+	
+	#about-caption-ref {
+		margin-top: 10vw !important;
+		margin-left: 53vw !important;
+		width: 160px !important;
 		padding-bottom: 200px;
 		}
 			
@@ -813,7 +830,9 @@ div.exp-table-4 {
 	#about-caption-experienced,
 	#about-caption-terrific,
 	#about-caption-learn,
-	#about-caption-gallery {			/* why did i do all this? jesus... */
+	#about-caption-gallery,
+	#about-caption-award,
+	#about-caption-ref {			/* why did i do all this? jesus... */
 		font-size: 11px !important;
 		line-height: 18px !important;
 		}
@@ -1026,6 +1045,14 @@ div.exp-table-4 {
 		margin-top: 10vw !important;
 		margin-left: 45vw !important;
 		width: 320px !important;
+/* 		padding-bottom: 300px; */
+		}
+		
+		
+	#about-caption-ref {
+		margin-top: 8vw !important;
+		margin-left: 45vw !important;
+		width: 320px !important;
 		padding-bottom: 300px;
 		}
 	
@@ -1133,6 +1160,14 @@ div.exp-table-4 {
 
 	#about-caption-award {
 		margin-top: 10vw !important;
+		margin-left: 45vw !important;
+		width: 370px !important;
+/* 		padding-bottom: 400px; */
+		}
+		
+		
+	#about-caption-ref {
+		margin-top: 8vw !important;
 		margin-left: 45vw !important;
 		width: 370px !important;
 		padding-bottom: 400px;
