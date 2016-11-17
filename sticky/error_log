@@ -1,0 +1,2 @@
+[02-Nov-2016 23:39:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/jeffpaletta/public_html/sticky/index.php on line 19
+[02-Nov-2016 23:40:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/jeffpaletta/public_html/sticky/index.php on line 19
