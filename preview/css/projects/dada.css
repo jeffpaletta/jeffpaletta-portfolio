@@ -1,0 +1,304 @@
+/* dada.css by Jeffrey Paletta */
+
+#dada-caption-1 {
+	margin-top: 4vw;
+	margin-left: 2vw;
+/* 	max-width: 25%; */
+}
+
+
+#dada-flipbook-1 {
+	margin-top: 11vw;
+	margin-left: 27vw;
+	width: 850px !important;
+	height: 566px !important;
+}
+
+
+#dada-caption-2 {
+	margin-top: 48vw;
+	margin-left: 53vw;
+}
+
+#dada-caption-2-5 {
+	margin-top: -0.5vw;
+	margin-left: 55vw;
+}
+
+
+#dada-caption-3 {
+	margin-top: 27vw;
+	margin-left: -2vw;
+}
+
+
+#dada-flipbook-2 {
+	margin-top: 5vw;
+	margin-left: 2vw;
+	width: 920px !important;
+	height: 613px !important;
+}
+
+#dada-caption-4 {
+	margin-top: 45vw;
+	margin-left: 15vw;
+}
+
+
+#dada-caption-4 {
+	margin-top: 60vw;
+	margin-left: 59vw;
+}
+
+
+#dada-flipbook-3 {
+	margin-top: 10vw;
+	margin-left: 26vw;
+	width: 920px !important;
+	height: 613px !important;
+}
+
+
+#dada-video-1 {
+	margin-top: 63vw;
+	margin-left: vw;
+}
+
+
+#dada-video-2 {
+	margin-top: 87vw;
+	margin-left: vw;
+}
+
+#dada-process {
+	margin-top: 117vw;
+	margin-left: vw;
+	padding-bottom: 200px;
+}
+
+
+
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#dada-caption-1,
+	#dada-caption-2,
+	#dada-caption-2-5,
+	#dada-caption-3,
+	#dada-caption-4,
+	#dada-process {
+		font-size: 8px !important;
+		line-height: 13px !important;
+	}
+
+	#dada-caption-2 {
+/*
+		margin-top: 6vw !important;
+		margin-left: 50vw !important;
+*/
+	}
+	
+	#dada-flipbook-1 { 
+		height: 266px !important;
+		width: 475px !important;
+		margin-top: 8vw !important;
+		margin-left: 21vw !important;
+		margin-bottom: 3vw !important;
+	}
+	
+	#dada-caption-2 {
+		margin-top: 46vw !important;
+		margin-left: 35vw !important;
+	}
+	
+	#dada-caption-2-5 {
+		margin-top: -0.5vw;
+		margin-left: 39vw;
+	}
+	
+	#dada-caption-3 {
+	margin-top: 27vw;
+	margin-left: 0vw;
+}
+	
+	#dada-flipbook-2 {
+		height: 266px !important;
+		width: 475px !important;
+		margin-left: -2vw !important;
+		margin-top: 6vw !important;
+	}
+	
+	#dada-caption-4 {
+		margin-left: 50vw !important;
+	}	
+	
+	#dada-flipbook-3 {
+		height: 266px !important;
+		width: 475px !important;
+		margin-top: 7vw !important;
+		margin-left: 23vw !important;
+	}
+	
+	#dada-video-1 {
+		width: 330px !important;
+		height: 185px !important;
+		margin-top: 60vw !important;
+	}
+	
+	#dada-video-2 {
+		width: 330px !important;
+		height: 185px !important;
+		margin-top: 87vw !important;
+	}
+	
+	#dada-process {
+		margin-top: 118vw !important;
+	}
+}
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#dada-caption-1,
+	#dada-caption-2,
+	#dada-caption-2-5,
+	#dada-caption-3,
+	#dada-caption-4,
+	#dada-process {
+		font-size: 11px !important;
+		line-height: 18px !important;
+	}
+	
+	#dada-caption-1 {
+		margin-top: -1vw !important;
+	}
+	
+	#dada-flipbook-1 {
+		width: 700px !important;
+		height: 466px !important;
+	}
+	
+	#dada-caption-2 {
+		margin-top: 53vw;
+	}
+	
+	#dada-caption-3 {
+		margin-left: 1vw !important;
+	}
+	
+	#dada-flipbook-2 {
+		width: 700px !important;
+		height: 466px !important;
+		margin-left: 4vw !important;
+	}
+	
+	#dada-caption-4 {
+		margin-left: 53vw; 
+	}
+	
+	#dada-flipbook-3 {
+		width: 700px !important;
+		height: 433px !important;
+		margin-left: 28vw !important;
+	}
+	
+	#dada-video-1, #dada-video-2 {
+		width: 600px !important;
+		height: 336px !important;
+	}
+	
+	#dada-video-2 {
+		margin-top: 90vw !important;
+	}
+	
+	#dada-process {
+		margin-top: 121vw !important;
+	}
+	
+}
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+				
+	}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	#dada-flipbook-1 {
+		margin-top: 11vw;
+		margin-left: 31vw;
+		width: 850px !important;
+		height: 566px !important;
+	}
+	
+	#dada-caption-2 {
+		margin-top: 40vw;
+		margin-left: 56vw;
+	}
+	
+	#dada-caption-2-5 {
+	margin-top: -0.5vw;
+	margin-left: 57.5vw;
+}
+	
+	#dada-caption-3 {
+		margin-top: 20vw;
+		margin-left: 4vw;
+	}
+	
+	
+	#dada-flipbook-2 {
+		margin-top: 5vw;
+		margin-left: 8vw;
+		width: 920px !important;
+		height: 613px !important;
+	}
+	
+	#dada-caption-4 {
+		margin-top: 45vw;
+		margin-left: 15vw;
+	}
+	
+	
+	#dada-caption-4 {
+		margin-top: 50vw;
+		margin-left: 59vw;
+	}
+	
+	
+	#dada-flipbook-3 {
+		margin-top: 10vw;
+		margin-left: 38vw;
+		width: 920px !important;
+		height: 613px !important;
+	}
+	
+	
+	#dada-video-1 {
+		margin-top: 58vw;
+		margin-left: 8vw;
+	}
+	
+	
+	#dada-video-2 {
+		margin-top: 80vw;
+		margin-left: 8vw;
+	}
+	
+	#dada-process {
+		margin-top: 107vw;
+		margin-left: 8vw;
+		padding-bottom: 200px;
+	}
+}
+

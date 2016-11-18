@@ -1,0 +1,602 @@
+
+
+
+/* GALLERY STYLES */
+		#galley-overlay{
+			cursor: pointer;
+			position:absolute;
+			top:0;
+			left:0;
+			height:100%;
+			width:100%;
+			background:#000;
+			opacity:.7;
+			z-index:2000;
+			display:none;
+		} .gallery-image{
+			position:relative;
+			float:left;
+			background:#fff;
+		} .photo-image{
+			cursor: pointer;
+			position:relative;
+			top:0px;
+			left:0px;
+			z-index:1000;
+			opacity:1;
+			transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
+		} .photo-image:hover{
+			top:-15px;
+			left: 0px;
+			z-index:1001;
+			opacity:1;
+		} .photo-selected{
+			cursor:default;
+			z-index:2001;
+			width:500px;
+			opacity:1;
+			top:-20px;
+			left:-200px;
+			box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+		} .photo-selected:hover{
+			width:500px;
+			top:-50px;
+			left:-50px;
+			z-index:2001;
+			opacity:1;
+			top:-20px;
+			left:-200px;
+		}
+/* END GALLERY STYLES */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Universal Elements */
+
+.hide {
+	display: none !important;
+}
+	
+
+h2.preview-title {
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+preview-more {
+	padding-top: 12px;
+}
+
+.first-line {
+	padding-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Think Play Create */
+
+#pre-tpc-video-1 {
+	width: 900px;
+	height: 540px;
+	margin-top: 3vw;
+	margin-left: 6vw;
+}
+
+#pre-tpc-caption {
+	margin-top: 38vw;
+	margin-left: 4vw;
+	max-width: 300px;
+}
+
+
+
+
+
+
+/* Education Portal */
+
+#pre-education-video {
+	width: 800px !important;
+	height: 492px !important;
+	margin-top: 31vw; 
+	margin-left:36vw;
+}
+
+#pre-education-caption {
+	margin-top: 66vw;
+	margin-left: 33vw;
+	max-width: 290px;
+}
+
+
+
+
+
+
+/* Intergram */
+
+#pre-intergram-video {
+	width: 820px;
+	height: 492px;
+	margin-top: 36vw;
+	margin-left: 8vw;
+}
+
+#pre-intergram-caption {
+	margin-top: 72vw;
+	margin-left: 5vw;
+	max-width: 300px;
+}
+
+
+
+
+
+
+
+/* Hamtwon */
+
+/*
+#pre-hamtown-image-logos {
+	width: 400px;
+	height: 200px;
+	margin-top: 26vw;
+	margin-left: 55vw;
+	z-index: -9999 !important;
+}
+*/
+
+#pre-hamtown-flipbook {
+	margin-top: -14vw;
+	margin-left: 29vw;
+	width: 800px !important;
+	height: 600px !important;
+	z-index: 9999 !important;
+}
+
+#hamtown-notice {
+	margin-top: 43vw;	
+	margin-left: 44vw;
+	text-align: center;
+	color: #ccc;
+	font-style: italic;
+}
+
+#hamtown-notice > a {
+	color: #ccc;
+}
+
+#pre-hamtown-caption {
+	margin-top: 27vw;
+	margin-left: 26vw;
+	max-width: 300px;
+}
+
+/*
+.hamtown-gallery-container {
+  	width: 800px !important;
+  	position: relative;
+  	margin-top: 57vw !important;
+  	margin-left: 24vw !important;
+}
+		
+			.hamtown-gallery-image{
+			  	height:133px !important;
+			  	width:200px !important;
+			  	margin:20px !important;
+			  	padding-top: 1px !important;
+			} .hamtown-photo-image{
+				width:200px !important;
+			} .hamtown-photo-image:hover{
+				width:200px !important;
+			}
+*/
+
+
+
+		
+		
+		
+		
+		
+		
+		
+/* Presidential Supply Co. */		
+		
+#pre-826-image-logo {
+	margin-top: 35vw;
+	margin-left: 40vw;
+	width: 180px !important;
+	height: 180px !important;
+	z-index: -9999 !important;
+}
+
+div.psc-gallery-container {
+  	width: 700px !important;
+  	position: relative;
+  	margin-top: -3vw !important;
+  	margin-left: 45vw !important;
+}
+		
+			.psc-gallery-image {
+			  	height:100px !important;
+			  	width:150px !important;
+			  	margin:18px !important;
+			  	padding-top: 5px !important;
+			} .photo-image {
+				width:150px !important;
+			} .826-photo-image:hover,
+			.photo-image:hover {
+				width:150px !important;
+			}		
+		
+		
+#pre-psc-caption {
+	margin-top: 11vw;
+	margin-left: 41vw;
+	max-width: 300px;
+}		
+
+
+
+
+
+
+
+
+
+
+
+/* Kinect */
+
+#pre-kinect-video {
+	width: 820px;
+	height: 461px;
+	margin-top: 34vw;
+	margin-left: 10vw;
+}
+		
+#pre-kinect-caption-1 {
+	margin-top: 72vw;
+	margin-left: 5vw;
+	max-width: 310px !important;
+}			
+
+
+
+
+
+
+
+
+
+
+/* Paint Mixer */
+
+#pre-paint-video {
+	width: 850px !important;
+	height: 553px !important;
+	margin-top: 35vw;
+	margin-left: 30vw;
+}
+
+#pre-paint-caption {
+	margin-top: 11vw;
+	margin-left: 30vw;
+	max-width: 300px;
+}	
+
+
+
+
+
+
+
+
+
+/* Woo Emm Aii */
+
+#pre-wooemmaii-video {
+	margin-top: 34vw;
+	margin-left: 7vw;
+	width: 800px;
+	height: 480px;
+}
+
+#pre-wooemmaii-caption {
+	margin-top: 70vw;
+	margin-left: 7vw;
+	max-width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Argonaut Sans */
+
+#pre-argonaut-poster-1,
+#pre-argonaut-poster-2,
+#pre-argonaut-poster-3 {
+	width: 250px;
+	height: 400px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+#pre-argonaut-poster-1 {
+	margin-top: 33vw;
+	margin-left: 30vw;
+}
+
+#pre-argonaut-poster-2 {
+	margin-top: -18vw;
+	margin-left: 45vw;
+}
+
+#pre-argonaut-poster-3 {
+	margin-top: -23vw;
+	margin-left: 60vw;
+}
+
+#pre-argonaut-caption {
+	margin-top: 10vw;
+	margin-left: 57vw;
+	max-width: 294px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Duck Hunt */
+
+#pre-duck-image-1 {
+	margin-top: 36vw;
+	margin-left: 10vw;
+/* 	width: 325px !important; */
+/* 	height: 247px !important; */
+	width: 400px !important;
+	height: 159px !important;
+}
+
+#pre-duck-video {
+	width: 1000px !important;
+	height: 624px !important;
+	margin-top:37vw;
+	margin-left: 6vw;
+	padding-bottom: 200px;
+}
+
+#pre-duck-caption {
+	margin-top: 77vw;
+	margin-left: 16vw;
+	max-width: 270px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Lorraine */
+
+#lorraine-notice {
+	margin-top: 46vw;	
+	margin-left: 48vw;
+	text-align: center;
+	color: #ccc;
+	font-style: italic;
+}
+
+#lorraine-notice > a {
+	color: #ccc;
+}
+
+
+#pre-lorraine-flipbook {
+	margin-top: -13vw;
+	margin-left: 32vw;
+	width: 850px;
+	height: 605px;
+/* 	padding-bottom: 100px !important; */
+}
+
+
+
+
+/*
+.lorraine-gallery-container {
+
+  	width: 700px !important;
+  	position: relative;
+  	margin-top: 73vw !important;
+  	margin-left: 38vw !important;
+}
+		
+			.lorraine-gallery-image {
+			  	height:80px !important;
+			  	width:120px !important;
+			  	margin:20px !important;
+			  	padding-top: 5px !important;
+			} 
+			.lorraine-photo-image {
+				width:120px !important;
+			}
+			.lorraine-photo-image:hover {
+				width:120px !important;
+			}
+*/
+
+
+#pre-lorraine-caption {
+	margin-top: 28vw;
+	margin-left: 32.5vw;
+	max-width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Jazzfest */
+
+#pre-jazz-image {
+	margin-top: 38vw;
+	margin-left: 11vw;
+	width: 480px;
+	height: 800px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+#pre-jazz-caption {
+	margin-top: 12vw;
+	margin-left: 8vw;
+	max-width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Intro */
+
+#preview-intro {
+	margin-top: 35vw;
+	margin-left: 30vw;
+	text-align: center;
+}
+
+#preview-intro-link {
+	font-size: 12px;
+	text-align: center;
+	color: #ccc;
+	font-style: italic;
+}
+
+#preview-intro-link:hover {
+	color: #3233ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+}
+
+
+
+
+
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+
+
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+}
+
+		
+		
+		
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+}
+
+
+
+
+	

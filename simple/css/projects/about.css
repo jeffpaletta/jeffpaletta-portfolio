@@ -1,0 +1,1195 @@
+/*	about.css by Jeffrey Paletta	*/
+ 
+ /*
+	This code is absolutely appalling. 
+	I'm going to clean it up soon I promise. 
+	Don't jusdge me.  (:
+*/
+
+
+
+.about-title {
+	font-size: 14px !important;
+	}
+
+
+.about-header {
+	font-size: 18px !important;
+	}
+	
+
+.resume {
+	}
+
+
+.move-down {
+	padding-top: 50px !important;
+	}
+	
+	
+p.first-line,
+h5.first-line {
+	padding-top: 8px;	/* Space between titles and captions */
+	}
+	
+	
+.inline-block {
+	display: inline-block;
+	}
+	
+
+.hide, .hide2 {
+  display: none !important;
+	}
+
+
+.hide-3, .about-1336-only, .about-800-only {
+	display: none;
+	}
+
+
+h5#resume-date {		/* project dates */		
+	font-size: 11px !important;
+	font-weight: 200;
+	padding-top: -1px;
+	}
+	
+	
+.show-more-toggle:hover, .read-more-toggle:hover {		/* hovering over "show resume"  button */
+	color: #ccc !important;
+	}
+
+
+
+#about-intro-caption {
+	margin-left: 6vw !important;
+	}
+	
+	
+	
+		
+
+#about-image-selfie {
+	width: 280px;
+	height: 248px;
+	margin-top: 16vw;
+	margin-left: 24vw;
+	}
+		
+
+#about-contact-info {
+	margin-top: 19vw;
+	margin-left: 23vw !important;
+	}
+	
+	
+
+
+
+	/* EDUCATION */
+	/* EDUCATION */
+	/* EDUCATION */
+
+
+
+
+		
+
+#about-image-diploma {
+	width: 250px;
+	height: 136px;
+	margin-top: 3vw;
+	margin-left: 50vw;
+	}
+	
+				
+#about-caption-education {
+	margin-top: 10vw !important;
+	margin-left: 56vw !important;
+	}
+	
+
+h3 > span {				
+	font-size: 14px !important;		/* used for education title */
+	}
+
+
+
+	/* EXPERIENCE */
+	/* EXPERIENCE */
+	/* EXPERIENCE */
+		
+		
+
+#about-image-deprogram {
+	width: 280px;
+	height: 150px;
+	margin-top: 6vw;
+	margin-left: 4vw;
+	}
+	
+
+#about-title-experience {
+	margin-top: -3vw;
+	margin-left: 14vw;
+	display: none;
+	}
+		
+
+
+
+
+
+#about-experience-wrapper-1 {
+	width: 1020px;
+	overflow: none;
+	padding: 1em;
+	min-width: 600px;
+	max-width: 1000px;
+	margin-top: 17vw;
+	margin-left: 9vw;
+	}
+
+div.exp-table {
+	vertical-align: top;
+	min-width: 350px;
+	max-width: 420px;
+	}
+
+div.exp-table-2 {
+	vertical-align: top;
+	min-width: 350px;
+	max-width: 400px;
+	}
+	
+	
+	
+	
+	
+
+#about-caption-shinola {
+	float: left !important;
+	width: 25%;
+	box-sizing: border-box;
+	margin: 0;
+	overflow: hidden;
+	display: inline-block !important;
+	}
+
+
+#about-caption-deprogram {
+	float: left !important;
+	box-sizing: border-box;
+	margin: 0;
+	width: 42%;
+	min-width: 300px;
+	padding-left: 30px;
+	overflow: hidden;
+	display: inline-block !important;
+	clear: right;
+	}
+
+
+#about-caption-practicum {
+	float: left !important;
+	width: 30%;
+/* 	left: 0; */
+	box-sizing: border-box;
+	margin-top: 3vw;
+	margin-left: 0vw;	
+	overflow: hidden;
+	display: block !important;
+/* 	clear: both !important; */
+/* 	position: relative; */
+	clear: left;
+	}
+
+
+#about-caption-workshop {
+	margin-top: 2.7vw;
+	float: left !important;
+	box-sizing: border-box;
+/* 	margin: 0; */
+	width: 45%;
+	padding-left: 30px;
+	overflow: hidden;
+	display: inline-block !important;
+	}
+	
+	
+	
+
+	
+
+
+#about-image-workshop-2 {
+	width: 290px !important;
+	height: 192px !important;
+	margin-top: 22vw;
+	margin-left: 57vw;
+	z-index: 100000;
+	}
+
+
+
+
+
+	/* FREELANCE */
+	/* FREELANCE */
+	/* FREELANCE */
+
+
+
+		
+
+#about-caption-freelance {
+	margin-top: -29vw;
+	margin-left: 9.6vw;
+	}
+	
+	
+			
+
+#about-freelance-wrapper {
+	margin-top: -28vw;
+	margin-left: 9.6vw;
+	}
+	
+	
+	
+	
+	
+#about-caption-heavenly {
+	margin-top: vw;
+	}
+
+#about-caption-faceplay {
+	margin-top: -8.6vw;
+	margin-left: 19.7vw;
+	padding-top: 11px;
+	}
+
+#about-caption-painting {
+	margin-top: 3vw;
+	}
+
+
+
+
+	/* SKILLS */
+	/* SKILLS */
+	/* SKILLS */
+
+
+
+
+
+#about-skills-wrapper {
+	width: 800px;
+	overflow: none;
+	padding: 1em;
+	min-width: 600px;
+	max-width: 800px;
+	margin-top: 19vw;
+	margin-left: 36vw;
+}
+
+		
+		
+
+div.exp-table-3 {
+	vertical-align: top;
+	min-width: 150px;
+	max-width: 500px;
+}
+
+div.exp-table-4 {
+	vertical-align: top;
+	min-width: 150px;
+	max-width: 500px;
+}
+
+
+
+
+
+#about-caption-worked {
+	float: left !important;
+	width: 30%;
+	box-sizing: border-box;
+	margin: 0;
+	overflow: hidden;
+	display: inline-block !important;
+	padding-top: 5px;
+}
+
+#about-caption-experienced {
+	float: left !important;
+	box-sizing: border-box;
+	margin: 0;
+	width: 50%;
+	min-width: 300px;
+	padding-left: 100px;
+	overflow: hidden;
+	display: inline-block !important;
+}
+
+#about-caption-terrific {
+	float: left !important;
+	width: 30%;
+	left: 0;
+	box-sizing: border-box;
+	margin-top: 2.5vw;
+	margin-left: 0vw;	
+	overflow: hidden;
+	display: block !important;
+}
+
+#about-caption-learn {
+	margin-top: 3vw;
+	float: left !important;
+	box-sizing: border-box;
+	width: 50%;
+	padding-left: 100px;
+	overflow: hidden;
+	display: inline-block !important;
+	}
+		
+		
+		
+	/* GALLERY */
+	/* GALLERY */
+	/* GALLERY */
+		
+		
+		
+
+#about-caption-gallery {
+	margin-top: 25vw;
+	margin-left: 2vw;
+	width: 350px;
+/* 	padding-bottom: 200px; */
+}
+
+
+
+
+.about-gallery-container{
+  	max-width:800px !important;
+  	position:relative;
+/*   	margin:0 auto; */
+  	margin-top: 10vw !important;
+  	margin-left: 7vw !important;
+/*   	padding-bottom: 400px; */
+	}
+
+		#galley-overlay{
+		  	cursor: pointer;
+		  	position:absolute;
+		  	top:0;
+		  	left:0;
+		  	height:100%;
+		  	width:100%;
+		  	background:#000;
+		  	opacity:.7;
+		  	z-index:2000;
+		  	display:none;
+			}
+		
+		.about-gallery-image{
+		  	position:relative;
+		  	float:left;
+		  	height:120px !important;
+		  	width:120px !important;
+		  	background:#fff;
+		  	margin:15px !important;
+			}
+		
+		.about-photo-image{
+		  	cursor: pointer;
+		  	position:relative;
+		  	top:0px;
+		  	left:0px;
+		  	width:120px !important;
+		  	z-index:1000;
+		  	opacity:1;
+		  	transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
+			}	
+		
+		.about-photo-image:hover{
+		  	width:120px !important;
+		  	top:-15px;
+		  	left: 0px;
+		  	z-index:1001;
+		  	opacity:1;
+			}
+		
+		.photo-selected{
+		  	cursor:default;
+		  	z-index:2001;
+		  	width:500px !important;
+		  	opacity:1;
+		  	top:-20px;
+		  	left:-200px;
+		  	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+			}
+		
+		.photo-selected:hover{
+		  	width:500px;
+		  	top:-50px;
+		  	left:-50px;
+		  	z-index:2001;
+		  	opacity:1;
+		  	top:-20px;
+		  	left:-200px;
+			}
+		
+		
+		
+#about-caption-award {
+	margin-top: 10vw !important;
+	margin-left: 45vw !important;
+	width: 320px !important;
+/* 	padding-bottom: 400px; */
+}
+		
+#about-caption-ref {
+	margin-top: 8vw !important;
+	margin-left: 45vw !important;
+	width: 320px !important;
+	padding-bottom: 400px;
+}
+		
+		
+
+	/* ONLY FOR MOBILE */
+		
+		
+@media screen and (max-width: 749px) {
+	
+	.desktop-only {
+		display: none !important;
+		}
+	}
+
+
+
+
+
+
+
+
+
+	/* ONLY FOR DESKTOP */
+
+
+@media screen and (min-width: 750px) {
+	
+	#about-intro-caption {
+		margin-top: 
+		}
+	
+	p.mobile-only {
+		display: none !important;
+		}
+	}
+
+
+
+
+
+
+
+
+	/* ONLY FOR SAFARI */
+	
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
+    @media {
+	    
+	#about-caption-practicum {
+/*
+		position: absolute;
+		clear: both;
+*/
+	}
+/*
+	content:"";
+	display:table;
+	clear:both;
+*/
+        
+
+    }   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+		/* 800 x 600 */
+
+
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#about-intro-caption,		
+	#about-contact-info,
+	#about-caption-education,
+	#about-caption-shinola,
+	#about-caption-deprogram,
+	#about-caption-practicum,
+	#about-caption-workshop,
+	#about-caption-freelance,
+	#about-caption-heavenly,
+	#about-caption-faceplay,
+	#about-caption-painting,
+	#about-caption-worked,
+	#about-caption-experienced,
+	#about-caption-terrific,
+	#about-caption-learn,
+	#about-caption-gallery,
+	#about-caption-award,
+	#about-caption-ref {			/* why did i do all this? jesus... */
+		font-size: 8px !important;
+		line-height: 13px !important;
+		}
+	
+	.about-title {
+		font-size: 9px !important;
+		}
+		
+	.about-header {
+/* 		font-size: 18px !important; */
+		}
+	
+	.move-down {
+/* 		padding-top: 50px !important; */
+		}
+		
+	p.first-line {
+/* 		padding-top: 8px;	/* Space between titles and captions */ */
+		}
+	
+		h5#resume-date {		/* project dates */		
+		font-size: 7px !important;
+/* 		letter-spacing: 1px; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+	
+	#about-intro-caption {
+		margin-top: 12vw;
+		margin-left: 2vw !important;
+		max-width: 175px !important;
+		}
+			
+	#about-image-selfie {
+		width: 127px;
+		height: 112px;
+		margin-top: 15vw;
+		margin-left: 22vw;
+		}
+			
+	#about-contact-info {
+		margin-top: 22vw;
+		margin-left: 20vw !important;
+		}
+		
+	#about-image-diploma {
+		width: 125px;
+		height: 66px;
+		margin-top: 1vw;
+/* 		margin-left: 50vw; */
+		}
+		
+	#about-caption-education {
+		margin-top: 12.5vw !important;
+		margin-left: 47vw !important;
+		}
+		
+	h3 > span {				
+		font-size: 9px !important;		/* used for education title */
+		}
+	
+	#about-image-deprogram {
+		width: 125px;
+		height: 66px;
+		margin-top: 7vw;
+/* 		margin-left: 4vw; */
+		}
+		
+	#about-experience-wrapper-1 {
+		width: 700px;
+/* 		padding: 1em; */
+		min-width: 420px;
+		max-width: 950px;
+/* 		margin-top: 17vw; */
+/* 		margin-left: 9vw; */
+		}
+	
+	div.exp-table {
+		min-width: 50px;
+		max-width: 350px;
+		}
+	
+	div.exp-table-2 {
+		min-width: 50px;
+		max-width: 300px;
+		}
+			
+	#about-caption-shinola {
+		padding-top: 3px !important;
+		width: 25%;
+		margin: 0;
+		}
+	
+	#about-caption-deprogram {
+		width: 42%;
+		min-width: 300px;
+		padding-left: 40px;
+		}
+		
+	#about-caption-practicum {
+		width: 30%;
+		margin-top: 3vw;
+/* 		margin-left: 0vw;	 */
+		}
+	
+	#about-caption-workshop {
+		margin-top: 3.1vw;
+		width: 45%;
+		padding-left: 5px;
+		}
+		
+		
+	#about-image-workshop-2 {
+		width: 125px !important;
+		height: 82px !important;
+		margin-top: 28vw;
+/* 		margin-left: 57vw; */
+		}
+		
+	#about-caption-freelance {
+		margin-top: -36vw;
+/* 		margin-left: 9.6vw; */
+		}
+			
+	#about-freelance-wrapper {
+		margin-top: -34vw;
+/* 		margin-left: 9.6vw; */
+		}
+				
+	#about-caption-heavenly {
+/* 		margin-top: vw; */
+		}
+		
+	#about-caption-faceplay {
+		margin-top: -14.9vw;
+		margin-left: 27vw;
+		padding-top: 9px;
+		}
+		
+	#about-caption-painting {
+		margin-top: 1.7vw !important;
+		}
+		
+		
+		
+	h5#resume-date {		/* project dates */		
+/* 		font-size: 11px !important; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+		
+	#about-skills-wrapper {
+		width: 500px;
+		overflow: none;
+		padding: 1em;
+		min-width: 400px;
+		max-width: 500px;
+		margin-top: 19vw;
+		margin-left: 36vw;
+	}
+		
+		
+	#about-caption-worked {
+		width: 30%;
+		padding-top: 5px;
+		}
+	
+	#about-caption-experienced {
+		width: 50%;
+		min-width: 300px;
+		padding-left: 30px;
+		}
+	
+	#about-caption-terrific {
+		width: 30%;
+		left: 0;
+		margin-top: 3.5vw;
+		margin-left: 0vw;	
+		}
+	
+	#about-caption-learn {
+		margin-top: 4.3vw;
+		width: 50%;
+		padding-left: 30px;
+		}
+		
+	#about-caption-gallery {
+		margin-top: 25vw;
+		margin-left: 2vw;
+		max-width: 10% !important;
+	/* 	padding-bottom: 200px; */
+		}
+		
+	.about-1336-only {
+		display: none !important;
+		}
+		
+	.about-800-only {
+		display: inline !important;
+	}
+		
+		
+	.about-gallery-container{
+	  	max-width:350px !important;
+	  	margin-top: 10vw !important;
+	  	margin-left: 6vw !important;
+/* 	  	padding-bottom: 300px; */
+		}
+	
+			.about-gallery-image{
+			  	height:50px !important;
+			  	width:50px !important;
+			  	margin:8px !important;
+				}
+			
+			.about-photo-image{
+			  	width:50px !important;
+				}	
+			
+			.about-photo-image:hover{
+			  	width:50px !important;
+				}
+				
+				
+	#about-caption-award {
+		margin-top: 16vw !important;
+		margin-left: 53vw !important;
+		width: 160px !important;
+/* 		padding-bottom: 200px; */
+		}
+			
+	
+	
+	#about-caption-ref {
+		margin-top: 10vw !important;
+		margin-left: 53vw !important;
+		width: 160px !important;
+		padding-bottom: 200px;
+		}
+			
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+		/* 1336 x 768 */
+
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	
+	#about-intro-caption,		
+	#about-contact-info,
+	#about-caption-education,
+	#about-caption-shinola,
+	#about-caption-deprogram,
+	#about-caption-practicum,
+	#about-caption-workshop,
+	#about-caption-freelance,
+	#about-caption-heavenly,
+	#about-caption-faceplay,
+	#about-caption-painting,
+	#about-caption-worked,
+	#about-caption-experienced,
+	#about-caption-terrific,
+	#about-caption-learn,
+	#about-caption-gallery,
+	#about-caption-award,
+	#about-caption-ref {			/* why did i do all this? jesus... */
+		font-size: 11px !important;
+		line-height: 18px !important;
+		}
+	
+	
+	.about-title {
+		font-size: 12px !important;
+		}
+		
+		
+	.about-header {
+/* 		font-size: 18px !important; */
+		}
+	
+	
+	.move-down {
+/* 		padding-top: 50px !important; */
+		}
+		
+		
+	p.first-line {
+/* 		padding-top: 8px;	/* Space between titles and captions */ */
+		}
+	
+	
+	h5#resume-date {		/* project dates */		
+		font-size: 9px !important;
+/* 		letter-spacing: 1px; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+	
+	#about-intro-caption {
+		margin-top: 2vw;
+		margin-left: 2vw !important;
+		}
+			
+	#about-image-selfie {
+		width: 196px;
+		height: 173px;
+		margin-top: 15vw;
+		margin-left: 22vw;
+		}
+			
+	#about-contact-info {
+		margin-top: 20vw;
+		margin-left: 21vw !important;
+		}
+		
+	#about-image-diploma {
+		width: 174px;
+		height: 94px;
+/* 		margin-top: 3vw; */
+/* 		margin-left: 50vw; */
+		}
+		
+	#about-caption-education {
+/* 		margin-top: 10vw !important; */
+		margin-left: 47vw !important;
+		}
+		
+	h3 > span {				
+		font-size: 11px !important;		/* used for education title */
+		}
+	
+	#about-image-deprogram {
+		width: 196px;
+		height: 105px;
+		margin-top: 7vw;
+/* 		margin-left: 4vw; */
+		}
+		
+	#about-experience-wrapper-1 {
+		width: 900px;
+/* 		padding: 1em; */
+		min-width: 420px;
+		max-width: 95000px;
+/* 		margin-top: 17vw; */
+/* 		margin-left: 9vw; */
+		}
+	
+	div.exp-table {
+		min-width: 250px;
+		max-width: 380px;
+		}
+	
+	div.exp-table-2 {
+		min-width: 250px;
+		max-width: 380px;
+		}
+			
+	#about-caption-shinola {
+		width: 25%;
+		margin: 0;
+		}
+	
+	#about-caption-deprogram {
+		width: 42%;
+		min-width: 300px;
+		padding-left: 50px;
+		}
+		
+	#about-caption-practicum {
+		width: 30%;
+		margin-top: 3vw;
+/* 		margin-left: 0vw;	 */
+		}
+	
+	#about-caption-workshop {
+		margin-top: 2.9vw;
+		width: 45%;
+		padding-left: 30px;
+		}
+		
+		
+	#about-image-workshop-2 {
+		width: 200px !important;
+		height: 132px !important;
+		margin-top: 28vw;
+/* 		margin-left: 57vw; */
+		}
+		
+	#about-caption-freelance {
+		margin-top: -36vw;
+/* 		margin-left: 9.6vw; */
+		}
+			
+	#about-freelance-wrapper {
+		margin-top: -34vw;
+/* 		margin-left: 9.6vw; */
+		}
+				
+	#about-caption-heavenly {
+/* 		margin-top: vw; */
+		}
+		
+	#about-caption-faceplay {
+		margin-top: -10.5vw;
+		margin-left: 22vw;
+		padding-top: 11px;
+		}
+		
+		
+		
+	h5#resume-date {		/* project dates */		
+/* 		font-size: 11px !important; */
+/* 		font-weight: 200; */
+/* 		padding-top: -1px; */
+		}
+		
+		
+	#about-caption-worked {
+		width: 30%;
+		padding-top: 5px;
+		}
+	
+	#about-caption-experienced {
+		width: 50%;
+		min-width: 300px;
+		padding-left: 30px;
+		}
+	
+	#about-caption-terrific {
+		width: 30%;
+		left: 0;
+		margin-top: 3.5vw;
+		margin-left: 0vw;	
+		}
+	
+	#about-caption-learn {
+		margin-top: 4.3vw;
+		width: 50%;
+		padding-left: 30px;
+		}
+		
+	#about-caption-gallery {
+		margin-top: 25vw;
+		margin-left: 2vw;
+		width: 210px !important;
+	/* 	padding-bottom: 200px; */
+		}
+		
+	.about-1336-only {
+		display: inline !important;
+		}
+		
+		
+	.about-gallery-container{
+	  	max-width:560px !important;
+	  	margin-top: 10vw !important;
+	  	margin-left: 6vw !important;
+/* 	  	padding-bottom: 300px; */
+		}
+	
+			.about-gallery-image{
+			  	height:85px !important;
+			  	width:85px !important;
+			  	margin:12px !important;
+				}
+			
+			.about-photo-image{
+			  	width:85px !important;
+				}	
+			
+			.about-photo-image:hover{
+			  	width:85px !important;
+				}
+			
+	#about-caption-award {
+		margin-top: 10vw !important;
+		margin-left: 45vw !important;
+		width: 320px !important;
+/* 		padding-bottom: 300px; */
+		}
+		
+		
+	#about-caption-ref {
+		margin-top: 8vw !important;
+		margin-left: 45vw !important;
+		width: 320px !important;
+		padding-bottom: 300px;
+		}
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		/* 1920 x 1080 */
+
+
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+}
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+
+		/* 2100+ */
+
+
+@media screen and (min-width: 2100px)	 {
+	
+	#about-image-deprogram {
+		width: 340px;
+		height: 182px;
+		margin-top: 6vw;
+		margin-left: 4vw;
+		}
+		
+	
+	#about-experience-wrapper-1 {
+		width: 1224px;
+		overflow: none;
+		padding: 1em;
+		min-width: 720px;
+		max-width: 1300px;
+		margin-top: 17vw;
+		margin-left: 9vw;
+		}
+		
+		
+	#about-caption-deprogram {
+		width: 42%;
+		min-width: 300px;
+		padding-left: 45px;
+		}
+	
+	
+	#about-caption-practicum {
+		width: 30%;
+		margin-top: 3vw;
+/* 		margin-left: 0vw;	 */
+		}
+		
+		
+	#about-caption-freelance {
+		margin-top: -27vw;
+		margin-left: 9.6vw;
+		}
+			
+	
+	#about-freelance-wrapper {
+		margin-top: -26vw;
+		margin-left: 9.6vw;
+		}
+	
+	
+	#about-caption-workshop {
+		margin-top: 2.85vw !important;
+		width: 45%;
+/* 		padding-left: 30px; */
+		}
+		
+	
+	#about-caption-faceplay {
+		margin-top: -6vw;
+		margin-left: 15.5vw;
+/* 		padding-top: 11px; */
+		} 
+		
+	#about-caption-painting {
+		margin-top: 2vw;
+		}
+
+
+	#about-caption-award {
+		margin-top: 10vw !important;
+		margin-left: 45vw !important;
+		width: 370px !important;
+/* 		padding-bottom: 400px; */
+		}
+		
+		
+	#about-caption-ref {
+		margin-top: 8vw !important;
+		margin-left: 45vw !important;
+		width: 370px !important;
+		padding-bottom: 400px;
+		}
+			
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

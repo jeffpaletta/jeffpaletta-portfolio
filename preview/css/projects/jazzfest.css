@@ -1,0 +1,270 @@
+/* jazzfest.css by Jeffrey Paletta */
+
+#jazz-image-1 {
+	margin-top: -2vw;
+	margin-left: 15vw;
+	width: 480px;
+	height: 800px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+#jazz-caption-1 {
+	margin-top: 11vw;
+	margin-left: vw;
+}
+
+#jazz-image-scales {
+	margin-top: 12vw;
+	margin-left: 44vw;
+	width: 480px !important;
+	height: 682px !important;
+}
+
+#jazz-caption-2 {
+	margin-top: 10vw;
+	margin-left: 36vw;
+}
+
+/*
+#jazz-image-alt-poster {
+	margin-top: 19vw;
+	margin-left: 12vw;
+	width: 383px;
+	height: 600px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+*/
+
+#jazz-image-text {
+	width: 600px;
+	height: 282px;
+	margin-top: 21vw;
+	margin-left: 2vw;
+}
+
+#jazz-caption-3 {
+	margin-top: 10vw;
+	margin-left: 13vw;
+}
+
+#jazz-process {
+	margin-top: 2vw;
+	margin-left: 13vw;
+	padding-bottom: 200px;
+}
+
+
+
+
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#jazz-caption-1,
+	#jazz-caption-2,
+	#jazz-caption-3,
+	#jazz-process {
+		font-size: 8px !important;
+		line-height: 13px !important;
+	}
+	
+	#jazz-image-1 {
+		margin-top: -2vw !important;
+		margin-left: 11vw !important;
+		width: 270px !important;
+		height: 450px !important;
+		-webkit-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		-moz-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.20) !important;
+	}
+	
+	#jazz-caption-1 {
+		margin-top: 11vw !important;
+		margin-left: 1vw !important;
+	}
+	
+	.remove-br {
+		display: none !important;
+	}
+	
+/*
+	#jazz-image-alt-poster {
+		margin-top: 18vw !important;
+		margin-left: 41vw !important;
+		width: 213px !important;
+		height: 335px !important;
+		-webkit-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		-moz-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.20) !important;
+	}
+*/
+	
+	#jazz-image-scales {
+		margin-top: 14vw;
+		margin-left: 47vw;
+		width: 204px !important;
+		height: 291px !important;
+	}
+	
+	#jazz-caption-2 {
+		margin-top: 11vw;
+		margin-left: 36vw;
+	}
+	
+	#jazz-image-text {
+		width: 273px;
+		height: 128px;
+		margin-top: 21vw;
+		margin-left: 2vw;
+	}
+	
+	#jazz-caption-3 {
+		margin-top: 11vw;
+		margin-left: 13vw;
+	}
+	
+	#jazz-process {
+		margin-top: 2vw;
+		margin-left: 13vw;
+		padding-bottom: 200px;
+	}
+}
+
+
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#jazz-caption-1,
+	#jazz-caption-2,
+	#jazz-caption-3,
+	#jazz-process {
+		font-size: 11px !important;
+		line-height: 18px !important;
+	}
+	
+	#jazz-image-1 {
+		margin-top: -2vw !important;
+		margin-left: 13vw !important;
+		width: 330px !important;
+		height: 550px !important;
+	}
+	
+	#jazz-caption-1 {
+		margin-top: 11vw !important;
+		margin-left: 1vw !important;
+	}
+	
+	#jazz-image-scales {
+		margin-top: 14vw;
+		margin-left: 47vw;
+		width: 315px !important;
+		height: 448px !important;
+	}
+	
+	#jazz-caption-2 {
+		margin-top: 11vw;
+		margin-left: 36vw;
+	}
+	
+	/*
+	#jazz-image-alt-poster {
+		margin-top: 19vw;
+		margin-left: 12vw;
+		width: 383px;
+		height: 600px;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
+	*/
+	
+	#jazz-image-text {
+		width: 420px;
+		height: 197px;
+		margin-top: 21vw;
+		margin-left: 2vw;
+	}
+	
+	#jazz-caption-3 {
+		margin-top: 11vw;
+		margin-left: 13vw;
+	}
+	
+	#jazz-process {
+		margin-top: 2vw;
+		margin-left: 13vw;
+		padding-bottom: 200px;
+	}
+}
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+	
+}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	#jazz-image-1 {
+		margin-top: -6vw;
+		margin-left: 11vw;
+		width: 600px;
+		height: 1000px;
+	}
+	
+	#jazz-image-scales {
+		margin-top: 12vw;
+		margin-left: 44vw;
+		width: 575px !important;
+		height: 818px !important;
+	}
+	
+	#jazz-caption-2 {
+		margin-top: 7vw !important;
+		margin-left: 36vw;
+	}
+	
+	/*
+	#jazz-image-alt-poster {
+		margin-top: 19vw;
+		margin-left: 12vw;
+		width: 383px;
+		height: 600px;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
+	*/
+	
+	#jazz-image-text {
+		width: 720px;
+		height: 338px;
+		margin-top: 21vw;
+		margin-left: 2vw;
+	}
+	
+	#jazz-caption-3 {
+		margin-top: 10vw;
+		margin-left: 16vw;
+	}
+	
+	#jazz-process {
+		margin-top: 1vw;
+		margin-left: 16vw;
+		padding-bottom: 200px;
+	}
+}
+
+

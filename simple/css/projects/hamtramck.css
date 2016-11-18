@@ -1,0 +1,497 @@
+/* hamtramck.css by Jeffrey Paletta */
+
+#hamtown-flipbook-01 {
+	margin-top: 4vw;
+	margin-left: 24vw;
+	width: 850px !important;
+	height: 637px !important;
+}
+
+#hamtown-caption-01 {
+	margin-top: 44.3vw !important;
+	margin-left: 2vw !important;
+}
+
+#hamtown-image-posters-1 {
+	width: 763px !important;
+	height: 414px !important;
+	margin-top: 4vw;
+	margin-left: 6vw;
+}
+
+#hamtown-caption-02 {
+	margin-top: 17vw;
+	margin-left: 57vw !important;
+}
+
+#hamtown-image-posters-2 {
+	width: 560px !important;
+	height: 337px !important;
+	margin-top: 4vw;
+	margin-left: 44vw;
+}
+
+#hamtown-image-menu {
+	width: 488px !important;
+	height: 381px !important;
+	margin-top: 4vw;
+	margin-left: 28vw;
+}
+
+#hamtown-caption-03 {
+	margin-top: 15vw;
+	margin-left: vw;
+	z-index: 10000;
+}
+
+#hamtown-image-bizcards {
+	width: 723px !important;
+	height: 487px !important;
+	margin-top: 1vw;
+	margin-left: 6vw;
+}
+
+#hamtown-image-maps {
+	width: 510px !important;
+	height: 408px !important;
+	margin-top: 10vw;
+	margin-left: 40vw;
+}
+
+#hamtown-image-signs {
+	width: 519px !important;
+	height: 425px !important;
+	margin-top: 4vw;
+	margin-left: 50vw;
+}
+
+#hamtown-caption-04 {
+	margin-top: 12vw;
+	margin-left: vw;
+}
+
+#hamtown-image-7 {
+	width: 652px !important;
+	height: 337px !important;
+	margin-top: 6vw;
+	margin-left: 4vw;
+}
+
+#hamtown-image-8 {
+	width: 621px !important;
+	height: 399px !important;
+	margin-top: 7vw;
+	margin-left: 17vw;
+}
+
+#hamtown-process {
+	margin-top: 10vw;
+	margin-left: 19vw;
+}
+
+
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#hamtown-caption-01,
+	#hamtown-caption-02,
+	#hamtown-caption-03,
+	#hamtown-caption-04,
+	#hamtown-caption-05,
+	#hamtown-process {
+		font-size: 8px !important;
+		line-height: 13px !important;
+	}
+	
+	#hamtown-flipbook-01 {
+		margin-top: 18vw !important;
+		margin-left: 26vw;
+		width: 387px !important;
+		height: 289px !important;
+	}
+	
+	#hamtown-caption-01 {
+		margin-top: 59vw !important;
+		margin-left: 1vw !important;
+	}
+	
+	#hamtown-image-posters-1 {
+		width: 346px !important;
+		height: 187px !important;
+		margin-top: 4vw;
+		margin-left: 6vw;
+	}
+	
+	#hamtown-caption-02 {
+		margin-top: 19vw;
+		margin-left: 40vw !important;
+		padding-bottom: 80px;
+	}
+	
+	#hamtown-image-posters-2 {
+		width: 244px !important;
+		height: 146px !important;
+		margin-top: 4vw;
+		margin-left: 44vw;
+	}
+	
+	#hamtown-image-menu {
+		width: 240px !important;
+		height: 143px !important;
+		margin-top: 7vw !important;
+		margin-left: 33vw;
+	}
+	
+	#hamtown-caption-03 {
+		margin-top: 18vw;
+		margin-left: -1vw;
+		z-index: 10000;
+	}
+	
+	#hamtown-image-bizcards {
+		width: 322px !important;
+		height: 216px !important;
+		margin-top: -1vw;
+		margin-left: 9vw;
+	}
+	
+	#hamtown-image-maps {
+		width: 225px !important;
+		height: 179px !important;
+		margin-top: 4vw;
+		margin-left: 34vw;
+	}
+	
+	#hamtown-image-signs {
+		width: 227px !important;
+		height: 313px !important;
+		margin-top: 4vw;
+		margin-left: 41vw;
+	}
+	
+	#hamtown-caption-04 {
+		margin-top: -3vw;
+		margin-left: 12vw;
+	}
+	
+	#hamtown-image-7 {
+		width: 283px !important;
+		height: 145px !important;
+		margin-top: 8vw;
+		margin-left: 2vw;
+	}
+	
+	#hamtown-image-8 {
+		width: 266px !important;
+		height: 170px !important;
+		margin-top: 8vw;
+		margin-left: 17vw;
+	}
+	
+	#hamtown-process {
+		margin-top: 10vw;
+		margin-left: 19vw;
+	}
+}
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+	
+	#hamtown-caption-01,
+	#hamtown-caption-02,
+	#hamtown-caption-03,
+	#hamtown-caption-04,
+	#hamtown-caption-05,
+	#hamtown-process {
+		font-size: 11px !important;
+/* 		line-height: 13px !important; */
+	}
+	
+	#hamtown-flipbook-01 {
+		margin-top: 4vw;
+		margin-left: 26vw;
+		width: 595px !important;
+		height: 445px !important;
+	}
+	
+	#hamtown-caption-01 {
+		margin-top: 42.5vw !important;
+		margin-left: 1vw !important;
+	}
+	
+	#hamtown-image-posters-1 {
+		width: 533px !important;
+		height: 289px !important;
+		margin-top: 5vw;
+		margin-left: 7vw;
+	}
+	
+	#hamtown-caption-02 {
+		margin-top: 17vw;
+		margin-left: 56vw !important;
+	}
+	
+	#hamtown-image-posters-2 {
+		width: 390px !important;
+		height: 234px !important;
+		margin-top: 4vw;
+		margin-left: 44vw;
+	}
+	
+	#hamtown-image-menu {
+		width: 338px !important;
+		height: 263px !important;
+		margin-top: 4vw;
+		margin-left: 28vw;
+	}
+	
+	#hamtown-caption-03 {
+		margin-top: 15vw;
+		margin-left: -1vw;
+		z-index: 10000;
+	}
+	
+	#hamtown-image-bizcards {
+		width: 499px !important;
+		height: 336px !important;
+		margin-top: 1vw;
+		margin-left: 6vw;
+	}
+	
+	#hamtown-image-maps {
+		width: 351px !important;
+		height: 280px !important;
+		margin-top: 4vw;
+		margin-left: 30vw;
+	}
+	
+	#hamtown-image-signs {
+		width: 300px !important;
+		height: 414px !important;
+		margin-top: 7vw;
+		margin-left: 46vw;
+	}
+	
+	#hamtown-caption-04 {
+		margin-top: -4vw;
+		margin-left: 11vw;
+	}
+	
+	#hamtown-image-7 {
+		width: 446px !important;
+		height: 230px !important;
+		margin-top: 8vw;
+		margin-left: 27vw;
+	}
+	
+	#hamtown-image-8 {
+		width: 423px !important;
+		height: 271px !important;
+		margin-top: 7vw;
+		margin-left: 39vw;
+	}
+	
+	#hamtown-process {
+		margin-top: 10vw;
+		margin-left: 19vw;
+	}
+}
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+	
+	#hamtown-flipbook-01 {
+		margin-top: 4vw;
+		margin-left: 24vw;
+		width: 850px !important;
+		height: 637px !important;
+	}
+	
+	#hamtown-caption-01 {
+		margin-top: 44.3vw !important;
+		margin-left: 2vw !important;
+	}
+	
+	#hamtown-image-posters-1 {
+		width: 800px !important;
+		height: 434px !important;
+		margin-top: 6vw;
+		margin-left: 11vw;
+	}
+	
+	#hamtown-image-posters-2 {
+		width: 650px !important;
+		height: 391px !important;
+		margin-top: 6vw;
+		margin-left: 32vw;
+	}
+	
+	#hamtown-caption-02 {
+		margin-top: 15vw;
+		margin-left: 48vw !important;
+	}
+	
+	#hamtown-image-menu {
+		width: 560px !important;
+		height: 437px !important;
+		margin-top: 9vw;
+		margin-left: 31vw;
+	}
+	
+	#hamtown-caption-03 {
+		margin-top: 9vw;
+		margin-left: -2vw;
+		z-index: 10000;
+	}
+	
+	#hamtown-image-bizcards {
+		width: 723px !important;
+		height: 487px !important;
+		margin-top: 5vw;
+		margin-left: 12vw;
+	}
+	
+	#hamtown-image-maps {
+		width: 510px !important;
+		height: 408px !important;
+		margin-top: 5vw;
+		margin-left: 33vw;
+	}
+	
+	#hamtown-image-signs {
+		width: 420px !important;
+		height: 323px !important;
+		margin-top: 9vw;
+		margin-left: 36vw;
+	}
+	
+	#hamtown-caption-04 {
+		margin-top: 11vw;
+		margin-left: 4vw;
+	}
+	
+	#hamtown-image-7 {
+		width: 652px !important;
+		height: 337px !important;
+		margin-top: 9vw;
+		margin-left: 14vw;
+	}
+	
+	#hamtown-image-8 {
+		width: 720px !important;
+		height: 462px !important;
+		margin-top: 11vw;
+		margin-left: 24vw;
+	}
+	
+	#hamtown-process {
+		margin-top: 10vw;
+		margin-left: 19vw;
+	}
+}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	
+	#hamtown-flipbook-01 {
+		margin-top: 4vw;
+		margin-left: 24vw;
+		width: 1020px !important;
+		height: 764px !important;
+	}
+	
+	#hamtown-caption-01 {
+		margin-top: 40.2vw;
+		margin-left: 2vw !important;
+	}
+	
+	#hamtown-image-posters-1 {
+		width: 1000px !important;
+		height: 543px !important;
+		margin-top: 6vw;
+		margin-left: 11vw;
+	}
+	
+	#hamtown-image-posters-2 {
+		width: 800px !important;
+		height: 483px !important;
+		margin-top: 12vw;
+		margin-left: 42vw;
+	}
+	
+	#hamtown-caption-02 {
+		margin-top: 12vw;
+		margin-left: 30vw !important;
+	}
+	
+	#hamtown-image-menu {
+		width: 700px !important;
+		height: 547px !important;
+		margin-top: 11vw;
+		margin-left: 41vw;
+	}
+	
+	#hamtown-caption-03 {
+		margin-top: 8vw;
+		margin-left: 4vw;
+		z-index: 10000;
+	}
+	
+	#hamtown-image-bizcards {
+		width: 876px !important;
+		height: 591px !important;
+		margin-top: 3vw;
+		margin-left: 18vw;
+	}
+	
+	#hamtown-image-maps {
+		width: 620px !important;
+		height: 496px !important;
+		margin-top: 7vw;
+		margin-left: 43vw;
+	}
+	
+	#hamtown-image-signs {
+		width: 570px !important;
+		height: 467px !important;
+		margin-top: 10vw;
+		margin-left: 36vw;
+	}
+	
+	#hamtown-caption-04 {
+		margin-top: 6vw;
+		margin-left: 5vw;
+	}
+	
+	#hamtown-image-7 {
+		width: 795px !important;
+		height: 411px !important;
+		margin-top: 8vw;
+		margin-left: 13vw;
+	}
+	
+	#hamtown-image-8 {
+		width: 850px !important;
+		height: 547px !important;
+		margin-top: 10vw;
+		margin-left: 25vw;
+	}
+	
+	#hamtown-process {
+		margin-top: 10vw;
+		margin-left: 19vw;
+	}
+}
+
+
+
