@@ -87,7 +87,7 @@ i,em {
 @media print {
 	* {
 		background:transparent!important;
-		color:green!important;
+		color:black!important;
 		box-shadow:none!important;
 		text-shadow:none!important;
 	}
@@ -331,7 +331,7 @@ body {
 	-webkit-text-size-adjust:100%;
 	zoom:1;
 	background:#fff;
-	color:#33f;
+	color:#33f;	
 	font-family:"Neutral","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size:13px;
 	line-height:22px;
@@ -388,165 +388,145 @@ nav li {
 	visibility:visible;
 }
 
-/* Jeffrey Paletta -- About */
-.link-1 {
+
+.link-1 {			/* About */
 	top:5vw;
 	left:5vw;
 }
 
-/* What if Hamtramck was a giant, metaphorical quilt? */
-.link-2 {
+.link-2 {			/* Hamtown */
 	top:31%;
 	left:31%;
-/*   top: 22%; */
-/*   left: 32%;  */
 }
 
-/* What if there was a supply store for presidents? */
-.link-3 {
+.link-3 {			/* 826 Honolulu */
 	top:58%;
 	left:49%;
 }
 
-/* What if you rewrote a book by cutting up or crossing out the parts you didn’t like? */
-.link-4 {
+.link-4 {			/* 3D Models, formerly Experimental Typography */
 	top:30%;
 	left:55%;
 }
-		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 1199px)  {
-			.link-4 {
-				top:29%;
-				left:53%;
-			}
-		}
+@media screen and 
+(min-width: 701px) and 
+(max-width: 1199px)  {
+	.link-4 {
+		top:29%;
+		left:53%;
+	}
+}
 
-/* What if finding the best school for your child only took ten minutes? */
-.link-5 {
+.link-5 {			/* Education Portal */
 	top:66%;
 	left:29%;
 }
 
-/* What if Dadaism was still alive in 2015? */
-.link-6 {
+.link-6 {			/* Dada vs. Art */
 	top:34%;
 	left:42%;
-/*   left: 41%;  */
+}
+@media screen and 
+(min-width: 701px) and 
+(max-width: 1199px)  {
+	.link-6 {
+		top:35%;
+		left:42%;
+	}
 }
 
-		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 1199px)  {
-			.link-6 {
-				top:35%;
-				left:42%;
-			}
-		}
-
-/* What if you knew that your house paint could kill you? */
-.link-7 {
+.link-7 {			/* Paint Mixer */
 	top:70%;
 	left:71%;
 }
 
-/* What if our memories defined who we are? */
-.link-8 {
-	top:60%;
-	left:75%;
-}
-
-		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 1199px)  {
-			.link-8 {
-				top:60%;
-				left:72%;
-			}
-		}
-
-/* What if emojis actually meant something again? */
-.link-9 {
-	top:43%;
-	left:47%;
-}
-
-/* What if you needed a reminder to behave like an adult? */
-.link-10 {
-	top:54%;
-	left:65%;
-}
-
-		/* 800 x 600 */
-		@media screen and (min-width: 701px) and (max-width: 1199px)  {
-			.link-10 {
-				top:55%;
-				left:64%;
-			}
-		}
-
-/* What if a game encouraged you to stop playing? */
-.link-11 {
-	top:62%;
-	left:40%;
-}
-
-/* What if a typeface could tell a story? */
-.link-12 {
-	top:50%;
-	left:28%;
-}
-
-/* What if content reacted to how we moved our bodies? */
-.link-13 {
-	top:49%;
-	left:55%;
-}
-
-/* What if there was a better way of telling our story as design students? */
-.link-14 {
-	top:77%;
-	left:55%;
-}
-
-/* What if identity was defined by your browsing history? */
-.link-15 {
-	top:74%;
-	left:36%;
-}
-
-/* What if a sign painter designed a typeface? */
-.link-16 {
-	top:45%;
-	left:70%;
-}
-
-/* What if I wrote a manifesto of uncertainty? */
-.link-17 {
-	top:46%;
-	left:37%;
-}
-
-/* What if Jazz was a design methodology? */
-.link-18 {
-	top:40%;
-	left:61%;
-}
-
-/* What if rules were better off broken? */
-.link-19 {
-	top:70%;
-	left:47%;
-}
-
-/* 800 x 600 */
-@media screen and (min-width: 701px) and (max-width: 1199px)  {
-	
-	/* What if you knew that your house paint could kill you? */
+@media screen and 
+(min-width: 701px) and 
+(max-width: 1199px)  {
 	.link-7 {
 		top:73% !important;
 		left:66% !important;
 	}
 }
-	
 
+.link-8 {			/* Wooemmaii */
+	top:60%;
+	left:75%;
+}
+
+@media screen and 
+(min-width: 701px) and 
+(max-width: 1199px)  {
+	.link-8 {
+		top:60%;
+		left:72%;
+	}
+}
+
+.link-9 {			/* Sincerely */
+	top:43%;
+	left:47%;
+}
+
+.link-10 {			/* Red Emoji */
+	top:54%;
+	left:65%;
+}
+
+@media screen and 
+(min-width: 701px) and 
+(max-width: 1199px)  {
+	.link-10 {
+		top:55%;
+		left:64%;
+	}
+}
+
+.link-11 {			/* Duck Hunt */
+	top:62%;
+	left:40%;
+}
+
+.link-12 {			/* Argonaut Sans */
+	top:50%;
+	left:28%;
+}
+
+.link-13 {			/* Kinect */
+	top:49%;
+	left:55%;
+}
+
+.link-14 {			/* Think Play Create */
+	top:77%;
+	left:55%;
+}
+
+.link-15 {			/* Intergram */
+	top:74%;
+	left:36%;
+}
+
+.link-16 {			/* Clearance */
+	top:45%;
+	left:70%;
+}
+
+.link-17 {			/* Manifesto */
+	top:46%;
+	left:37%;
+}
+
+.link-18 {			/* Jazzfest */
+	top:40%;
+	left:61%;
+}
+
+.link-19 {			/* Lorraine Wild */
+	top:70%;
+	left:47%;
+}
+	
 /*
 .link-20 {
   top: 20%;
@@ -556,6 +536,8 @@ nav li {
   top: 20%;
   left: 80%; }
 */
+
+
 .fade-out {
 	visibility:hidden;
 	-ms-transform:scale(0);
@@ -573,37 +555,47 @@ nav li.fade-out.link-1 {
 	visibility:hidden;
 }
 
+/*
 .random-1 .link-1 {
 	top:25%;
 	left:35%;
 }
+*/
 
 .random-2 .link-1 {
 	top:65%;
 	left:60%;
 }
 
+/*
 .random-3 .link-1 {
 	top:55%;
 	left:25%;
 }
+*/
 
+/*
 .random-4 .link-1 {
 	top:25%;
 	left:75%;
 }
+*/
 
+/*
 .random-5 .link-1 {
 	top:72%;
 	left:70%;
 }
+*/
 
+/*
 .random-6 .link-1 {
 	top:52%;
 	left:10%;
 }
+*/
 
-nav li a {
+nav li a {										/* Nav Symbols */
 	font-family:Arial,sans-serif;
 	font-size:24px;
 	width:40px;
@@ -621,20 +613,24 @@ nav li a {
 }
 
 body:not(.loading) nav li a:hover {
-	color:red;
+	color:#33f;
 }
 
+/*
 body.colour-1:not(.loading) nav li a:hover {
 	color:red;
 }
+*/
 
 body.colour-2:not(.loading) nav li a:hover {
-	color:#3233ff;
+	color:#33f;
 }
 
+/*
 body.colour-3:not(.loading) nav li a:hover {
 	color:#31d321;
 }
+*/
 
 body:not(.loading) nav li.history a:hover {
 	color:#ccc;
@@ -643,7 +639,6 @@ body:not(.loading) nav li.history a:hover {
 .symbol {
 	display:block;
 	font-size:x-large;
-/* 	color:#33f; */
 }
 
 .symbol #header {
@@ -778,7 +773,7 @@ nav li .title {
 	left:40px;
 	top:-5px;
 	line-height:40px;
-	color:red;
+	color:#33f;
 	-moz-transition:color 200ms,opacity 100ms,visibility 100ms;
 	-ms-transition:color 200ms,opacity 100ms,visibility 100ms;
 	-webkit-transition:color 200ms,opacity 100ms,visibility 100ms;
@@ -802,7 +797,7 @@ nav li .title-2 {
 	left:40px;
 	top:-5px;
 	line-height:40px;
-	color:red;
+	color:#33f;
 	-moz-transition:color 200ms,opacity 100ms,visibility 100ms;
 	-ms-transition:color 200ms,opacity 100ms,visibility 100ms;
 	-webkit-transition:color 200ms,opacity 100ms,visibility 100ms;
@@ -823,29 +818,37 @@ nav li .title-2 {
 	visibility:visible;
 }
 
+/*
 .colour-1 nav li .title {
 	color:red;
 }
+*/
 
 .colour-2 nav li .title {
 	color:#33f;
 }
 
+/*
 .colour-3 nav li .title {
 	color:#31d321;
 }
+*/
 
+/*
 .colour-1 .link-1,.colour-1 .link-1 a,.colour-1 .link-1 .title,.colour-1 .link-1 .title-2 {
 	color:red!important;
 }
+*/
 
 .colour-2 .link-1,.colour-2 .link-1 a,.colour-2 .link-1 .title,.colour-2 .link-1 .title-2 {
 	color:#33f!important;
 }
 
+/*
 .colour-3 .link-1,.colour-3 .link-1 a,.colour-3 .link-1 .title,.colour-3 .link-1 .title-2 {
 	color:#31d321!important;
 }
+*/
 
 nav li a:hover + .title,nav li.active a + .title {
 	visibility:visible;
@@ -862,20 +865,24 @@ nav li.history,nav li.history a,nav li.history .title {
 }
 
 nav li.active,nav li.active a,nav li.active .title {
-	color:red;
+	color:#33f;
 }
 
+/*
 .colour-1 nav li.active,.colour-1 nav li.active a,.colour-1 nav li.active .title {
 	color:red;
 }
+*/
 
 .colour-2 nav li.active,.colour-2 nav li.active a,.colour-2 nav li.active .title {
 	color:#33f;
 }
 
+/*
 .colour-3 nav li.active,.colour-3 nav li.active a,.colour-3 nav li.active .title {
 	color:#31d321;
 }
+*/
 
 .line {
 	width:0;
@@ -981,12 +988,11 @@ p + p {
 }
 
 p a {
-	color:red;
+	color:#33f;
 }
 
 p a:hover,.p.credit a:hover {
 	color:#ccc!important;
-/* 	border-bottom: 1px solid #3233ff; */
 }
 
 .colour-1 p a {
@@ -998,10 +1004,10 @@ p a:hover,.p.credit a:hover {
 }
 
 .colour-3 p a {
-	color:#31d321;
+	color:#000;
 }
 
-.colour-1 p.credit a,.colour-2 p.credit a {
+.colour-1 p.credit a,.colour-2 p.credit a,.colour-3 p.credit a {
 	color:#ccc;
 }
 
@@ -1108,7 +1114,7 @@ section.fixed {
 }
 
 .colour-3 .triangle {
-	border-left:25px solid #31d321;
+	border-left:25px solid #000;
 }
 
 .play:hover .triangle {
@@ -1310,8 +1316,6 @@ footer {
 	}
 	
 	body {
-	/*     font-size: 14px; */
-	/*     line-height: 22px; } */
 		font-size:12px;
 		line-height:18px;
 	}
@@ -1385,12 +1389,10 @@ footer {
 	
 	.title,.title-2,.symbol {
 		font-size:99%!important;
-	/* 		color: fuchsia !important;  */
 	}
 	
 	.symbol {
 		font-size:65%!important;
-	/* 		color: black !important; */
 	}
 }
 
@@ -1410,12 +1412,10 @@ footer {
 	
 	.title,.title-2,.symbol {
 		font-size:99%!important;
-	/* 		color: red !important;  */
 	}
 	
 	.symbol {
 		font-size:85%!important;
-	/* 		color: red !important; */
 	}
 }
 
@@ -1435,7 +1435,6 @@ footer {
 	
 	.title,.title-2,.symbol {
 	/* 		font-size: 100% !important; */
-	/* 		color: green !important;  */
 	}
 }
 
@@ -1443,7 +1442,6 @@ footer {
 	display:block;
 	width:100%;
 	height:200px;
-/* 	padding: 400px; */
 	background-color:#fff;
 }
 
@@ -1457,8 +1455,8 @@ footer {
 }
 
 .link-underline {
-	color: #3233ff !important;
-	border-bottom: 1px solid #3233ff;
+	color: #33f !important;
+	border-bottom: 1px solid #33f;
 }
 
 .link-underline:hover {
@@ -1484,8 +1482,8 @@ s {
 @media screen and (min-width: 701px) and (max-width: 1199px)  {
 	
 	.link-underline {
-		color: #3233ff !important;
-		border-bottom: 0.5px solid #3233ff !important;
+		color: #33f !important;
+		border-bottom: 0.5px solid #33f !important;
 	}
 	
 	.link-underline:hover {
@@ -1500,8 +1498,8 @@ s {
 @media screen and (min-width: 1200px) and (max-width: 1399px) {
 	
 	.link-underline {
-		color: #3233ff !important;
-		border-bottom: 0.5px solid #3233ff !important;
+		color: #33f !important;
+		border-bottom: 0.5px solid #33f !important;
 	}
 	
 	.link-underline:hover {
