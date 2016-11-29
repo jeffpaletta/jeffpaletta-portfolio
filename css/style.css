@@ -1389,6 +1389,7 @@ footer {
 	
 	.title,.title-2,.symbol {
 		font-size:99%!important;
+/* 		color: green !important; */
 	}
 	
 	.symbol {
@@ -1396,13 +1397,13 @@ footer {
 	}
 }
 
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	nav li a {
 		font-size:26px!important;
 	}
 	
 	body {
-		font-size:12px;
+		font-size:11px;
 		line-height:18px;
 	}
 	
@@ -1411,15 +1412,16 @@ footer {
 	}
 	
 	.title,.title-2,.symbol {
-		font-size:99%!important;
+		font-size:12px !important;
+/* 		color: red !important; */
 	}
 	
 	.symbol {
-		font-size:85%!important;
+		font-size: 18px !important;
 	}
 }
 
-@media screen and (min-width: 1400px) and (max-width: 2600px) {
+@media screen and (min-width: 1600px) and (max-width: 2600px) {
 	nav li a {
 		font-size:26px!important;
 	}
@@ -1435,6 +1437,7 @@ footer {
 	
 	.title,.title-2,.symbol {
 	/* 		font-size: 100% !important; */
+/* 	color: aqua !important; */
 	}
 }
 
@@ -1495,7 +1498,7 @@ s {
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
 	.link-underline {
 		color: #3233ff !important;
@@ -1508,23 +1511,7 @@ s {
 	}
 }
 
-@media 
-(-webkit-max-device-pixel-ratio: 1), (max-resolution: 191dpi) {
-	@media screen and (min-width: 1337px) and (max-width: 2099px) { 
-	    /* Retina-specific stuff here */
-	    .line:after {
-		    font-size: 20px !important;
-		    letter-spacing: 1px !important;
-		}
-		.symbol {
-/* 			font-size: large !important */
-			font-size: x-large !important
-		}
-		.title, .title-2 {
-			font-size: 16px !important;
-		}
-	}
-}
+
 
 
 /* Lazy Temp Color Override */

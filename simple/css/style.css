@@ -1394,7 +1394,7 @@ footer {
 	}
 }
 
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	nav li a {
 		font-size:26px!important;
 	}
@@ -1497,7 +1497,7 @@ s {
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
 	.link-underline {
 		color: #3233ff !important;

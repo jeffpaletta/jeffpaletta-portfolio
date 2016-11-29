@@ -154,7 +154,7 @@
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
 	#emoji-caption-1,
 	#emoji-caption-2,
@@ -231,7 +231,7 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
 	
 	#emoji-video-1 {
 		width: 1024px !important;

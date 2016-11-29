@@ -26,8 +26,8 @@
 }
 
 #duck-video-1 {
-	width: 1000px !important;
-	height: 625px !important;
+	width: 850px !important;
+	height: 478px !important;
 	margin-top:45vw;
 	margin-left: 25vw;
 	padding-bottom: 200px;
@@ -87,8 +87,8 @@
 	}
 	
 	#duck-video-1 {
-		width: 455px !important;
-		height: 284px !important;
+		width: 387px !important;
+		height: 217px !important;
 		margin-top:62vw;
 		margin-left: 23vw;
 		padding-bottom: 200px;
@@ -104,7 +104,7 @@
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
 	#duck-caption-1,
 	#duck-caption-2,
@@ -121,34 +121,34 @@
 	}
 	
 	#duck-caption-1 {
-		margin-top: 17vw;
-		margin-left: vw;
+		margin-top: 19vw;
+		margin-left: 7vw;
 	}
 	
 	#duck-image-2 {
-		margin-top: 5vw;
-		margin-left: 8vw;
+		margin-top: 17vw;
+		margin-left: 17vw;
 		width: 490px !important;
 		height: 195px !important;
 	}
 		
 	#duck-caption-2 {
-		margin-top: 17vw;
-		margin-left: 54vw;
+		margin-top: 24vw;
+		margin-left: 48vw;
 	/* 	padding-bottom: 200px; */
 	}
 	
 	#duck-video-1 {
-		width: 700px !important;
-		height: 437px !important;
-		margin-top:54vw;
+		width: 595px !important;
+		height: 334px !important;
+		margin-top:72vw;
 		margin-left: 25vw;
 		padding-bottom: 200px;
 	}
 	
 	#duck-process {
-		margin-top: 50vw;
-		margin-left: 27vw;
+		margin-top: 60vw;
+		margin-left: 24vw;
 		padding-bottom: 230px;
 	}
 }
@@ -156,7 +156,7 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
 	
 	
 	#duck-image-1 {
@@ -189,8 +189,8 @@
 	}
 	
 	#duck-video-1 {
-		width: 890px !important;
-		height: 500px !important;
+		width: 850px !important;
+		height: 478px !important;
 		margin-top:47vw;
 		margin-left: 27vw;
 		padding-bottom: 200px;
@@ -243,8 +243,8 @@
 	}
 	
 	#duck-video-1 {
-		width: 1200px !important;
-		height: 750px !important;
+		width: 1020px !important;
+		height: 573px !important;
 		margin-top:48vw;
 		margin-left: 27vw;
 		padding-bottom: 200px;

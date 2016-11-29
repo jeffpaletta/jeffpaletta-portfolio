@@ -109,7 +109,7 @@
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
 	#man-image-1, #man-image-2, #man-image-3, 
 	#man-image-4, #man-image-5, #man-image-6,
@@ -137,7 +137,7 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 2099px)	 {
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
 }
 		
 		
