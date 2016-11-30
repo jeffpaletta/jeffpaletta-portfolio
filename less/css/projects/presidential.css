@@ -9,10 +9,10 @@
 
 
 #pres-image-logo {
-	width: 220px;
-	height: 220px;
+	width: 170px;
+	height: 170px;
 /* 	position: absolute; */
-	margin-top: -3vw !important;
+	margin-top: -2vw !important;
 	margin-left: 2vw;
 	z-index: 10000 !important;
 }
@@ -21,77 +21,53 @@
 .pres-gallery-container{
   	width: 700px !important;
   	position: relative;
-  	margin-top: 7vw !important;
+  	margin-top: 18vw !important;
   	margin-left: 50vw !important;
 }
 
 	
 #pres-caption-1 {
-	margin-top: 6vw;
-	margin-left: 47vw;
+	margin-top: 12vw;
+	margin-left: 44vw;
 	max-width: 339px;
 }
 
 
 #pres-image-ballot {
-	margin-top: 9vw;
-	margin-left: 5vw;
+	margin-top: 15vw;
+	margin-left: 7vw;
 	width: 350px !important;
 	height:350px !important;
 }
 
 
 #pres-caption-2 {
-	margin-top: 9vw;
-	margin-left: 16vw;
+	margin-top: 12vw;
+	margin-left: 17vw;
 	max-width: 350px;
 }
 
 
 #pres-image-eagles {
-	margin-top: 14vw;
-	margin-left: 38vw;
+	margin-top: 16vw;
+	margin-left: 44vw;
 	width: 400px !important;
 	height:520px !important;
 }
 
 
 #pres-caption-3 {
-	margin-top: 11vw;
+	margin-top: 13vw;
 	margin-left: 24vw;
-	max-width: 350px;
+	max-width: 330px;
 }
-
-.800-only,
-.1336-only {
-	display: none !important;
-}
-
-br.1336-hide {
-		display: none !important;
-	}
-
-/*
-.br-hidden {
-	display: none !important;
-}
-*/
 	
-/*
-#pres-image-2 {
-	margin-top: 30vw !important;
-	margin-left: 1vw;
-	position: absolute !important;
-	float: none !important;
-}	
-*/	
-		
 		
 #pres-video-1 {
 	width: 360px !important;
 	height: 600px !important;
-	margin-top: 15vw;
-	margin-left: 50vw;
+	margin-top: 23vw;
+	margin-left: 10vw;
 	padding-bottom: 300px;
 }
 
@@ -289,30 +265,27 @@ br.1336-hide {
 	#pres-caption-3,
 	#pres-process {
 		font-size: 11px !important;
-/* 		line-height: 13px !important; */
+		line-height: 18px !important;
 	}
 	
 	#pres-image-1 {
-		margin-top: vw;
-		margin-left: vw;
+		margin-top: 2vw;
+		margin-left: 2.5vw;
 		width: 560px !important;
 		height: 341px !important;
 	}
 	
 	#pres-image-logo {
-		width: 140px;
-		height: 140px;
-	/* 	position: absolute; */
-		margin-top: -3vw !important;
-		margin-left: 4vw;
-		z-index: 10000 !important;
+		width: 120px;
+		height: 120px;
+		margin-top: -2vw !important;
+		margin-left: 4.5vw;
 	}
-	
 	
 	.pres-gallery-container{
 	  	width: 500px !important;
-	  	margin-top: 10vw !important;
-	  	margin-left: 50vw !important;
+/* 	  	margin-top: 18vw !important; */
+/* 	  	margin-left: 50vw !important; */
 	}
 	
 			.gallery-image{
@@ -329,86 +302,55 @@ br.1336-hide {
 			  width:105px !important;
 			}
 		
-			
 	#pres-caption-1 {
-		margin-top: 6vw;
-		margin-left: 46vw;
-		max-width: 260px;
+/* 		margin-top: 12vw; */
+		margin-left: 42vw;
 	}
 	
-	
 	#pres-image-ballot {
-		margin-top: 9vw;
-		margin-left: 5vw;
+/* 		margin-top: 15vw; */
+/* 		margin-left: 7vw; */
 		width: 245px !important;
 		height: 245px !important;
 	}
 	
-	
 	#pres-caption-2 {
-		margin-top: 9vw;
-		margin-left: 16vw;
-		max-width: 280px;
+/* 		margin-top: 12vw; */
+/* 		margin-left: 17vw; */
 	}
 	
-	
 	#pres-image-eagles {
-		margin-top: 14vw;
-		margin-left: 38vw;
+/* 		margin-top: 16vw; */
+/* 		margin-left: 44vw; */
 		width: 280px !important;
 		height:364px !important;
 	}
 	
-	
 	#pres-caption-3 {
-		margin-top: 13vw;
-		margin-left: 30vw;
-		max-width: 250px;
+/* 		margin-top: 13vw; */
+/* 		margin-left: 24vw; */
 	}
-	
-	
-	.800-only {
-		display: none;
-	}
-	
-	
-	.br-hidden {
-		display: none !important;
-	}
-	
-	
+		
 	#pres-video-1 {
 		width: 252px !important;
 		height: 420px !important;
-		margin-top: 15vw;
-		margin-left: 56vw;
+/* 		margin-top: 23vw; */
+/* 		margin-left: 10vw; */
 	}
 	
+/*
 	#pres-process {
 		margin-top: 50vw;
 		margin-left: 57vw;
 		padding-bottom: 260px;
 	}
+*/
 	
 }
 
 
 /* 1920 x 1080 */
 @media screen and (min-width: 1600px) and (max-width: 2099px)	 {
-	
-	.br-hidden {
-		display: none !important;
-	}
-	
-	.800-only,
-	.1336-only {
-		display: none;
-	}
-	
-	br.1336-hide {
-		display: none !important;
-	}
-				
 }
 		
 		
