@@ -153,29 +153,27 @@
 	#pres-caption-3,
 	#pres-process {
 		font-size: 8px !important;
-		line-height: 13px !important;
+		line-height: 12px !important;
 	}
 	
 	#pres-image-1 {
-		margin-top: 10vw;
+		margin-top: 12vw;
 		margin-left: 1vw;
 		width: 336px !important;
 		height: 204px !important;
 	}
 	
 	#pres-image-logo {
-		width: 80px;
-		height: 80px;
-	/* 	position: absolute; */
+		width: 75px;
+		height: 75px;
 		margin-top: -2vw !important;
 		margin-left: 3vw;
-		z-index: 10000 !important;
 	}
 	
 	
 	.pres-gallery-container{
 	  	width: 300px !important;
-	  	margin-top: 15vw !important;
+	  	margin-top: 22vw !important;
 	  	margin-left: 50vw !important;
 	}
 	
@@ -195,63 +193,51 @@
 		
 			
 	#pres-caption-1 {
-		margin-top: 14vw;
-		margin-left: 42vw;
-/* 		max-width: 20% !important; */
+/* 		margin-top: 12vw; */
+/* 		margin-left: 44vw; */
 	}
 	
 	
 	#pres-image-ballot {
-		margin-top: 12vw;
-		margin-left: 8vw;
+/* 		margin-top: 15vw; */
+/* 		margin-left: 7vw; */
 		width: 160px !important;
 		height: 160px !important;
 	}
 	
 	
 	#pres-caption-2 {
-		margin-top: 12vw;
-		margin-left: 16vw;
-		max-width: 200px;
+/* 		margin-top: 12vw; */
+/* 		margin-left: 17vw; */
 	}
 	
 	#pres-image-eagles {
-		margin-top: 14vw;
-		margin-left: 38vw;
+/* 		margin-top: 16vw; */
+/* 		margin-left: 44vw; */
 		width: 180px !important;
 		height: 235px !important;
 	}
 	
 	
 	#pres-caption-3 {
-		margin-top: 13vw;
-		margin-left: 20vw;
-		max-width: 200px;
+/* 		margin-top: 13vw; */
+/* 		margin-left: 24vw; */
 	}
-	
-	
-	br.1336-hide {
-		display: none !important;
-	}
-	
-	
-	.br-hidden-2 {
-		display: none !important;
-	}
-	
 	
 	#pres-video-1 {
 		width: 151px !important;
 		height: 252px !important;
-		margin-top: 15vw;
-		margin-left: 50vw;
+/* 		margin-top: 23vw; */
+/* 		margin-left: 10vw; */
 	}
 	
+/*
 	#pres-process {
 		margin-top: 52vw;
 		margin-left: 57vw;
 		padding-bottom: 210px;
 	}
+*/
 	
 }
 
@@ -360,26 +346,26 @@
 	
 	
 	#pres-image-1 {
-		margin-top: -1vw;
-		margin-left: 2vw;
+/* 		margin-top: -1vw; */
+/* 		margin-left: 2vw; */
 		width: 1000px !important;
 		height: 666px !important;
 	}
 	
 	#pres-image-logo {
-		width: 230px;
-		height: 230px;
-	/* 	position: absolute; */
+		width: 205px;
+		height: 205px;
 		margin-top: -3vw !important;
-		margin-left: 5vw;
+		margin-left: 2vw;
 		z-index: 10000 !important;
 	}
 	
-	
 	.pres-gallery-container{
 	  	width: 700px !important;
-	  	margin-top: 9vw !important;
-	  	margin-left: 54vw !important;
+/*
+	  	margin-top: 18vw !important;
+	  	margin-left: 50vw !important;
+*/
 	}
 	
 			.gallery-image{
@@ -395,67 +381,52 @@
 			.photo-image:hover{
 			  width:188px !important;
 			}
-		
 			
 	#pres-caption-1 {
-		margin-top: 8vw;
-		margin-left: 51vw;
+/* 		margin-top: 8vw; */
+/* 		margin-left: 51vw; */
 	}
 	
-	
 	#pres-image-ballot {
-		margin-top: 9vw;
-		margin-left: 4vw;
+/* 		margin-top: 9vw; */
+/* 		margin-left: 4vw; */
 		width: 350px !important;
 		height:350px !important;
 	}
 	
-	
 	#pres-caption-2 {
-		margin-top: 7vw;
-		margin-left: 16vw;
+/* 		margin-top: 7vw; */
+/* 		margin-left: 16vw; */
 	}
 	
 	#pres-image-eagles {
-		margin-top: 11vw;
-		margin-left: 38vw;
+/* 		margin-top: 11vw; */
+/* 		margin-left: 38vw; */
 		width: 500px !important;
 		height:650px !important;
 	}
 	
 	#pres-caption-3 {
-		margin-top: 11vw;
-		margin-left: 29vw;
-		max-width: 350px;
-	}
-	
-	.800-only,
-	.1336-only {
-		display: none;
-	}
-	
-	.br-hidden {
-		display: none !important;
-	}
-	
+/* 		margin-top: 11vw; */
+/* 		margin-left: 29vw; */
+/* 		max-width: 350px; */
+	}	
 	
 	#pres-video-1 {
 		width: 400px !important;
 		height: 666px !important;
-		margin-top: 16vw;
-		margin-left: 55vw;
+/* 		margin-top: 16vw; */
+/* 		margin-left: 55vw; */
 	}
 	
+/*
 	#pres-process {
 		margin-top: 45vw;
 		margin-left: 55vw;
 		padding-bottom: 400px;
 	}
-	
-	br.1336-hide {
-		display: none !important;
-	}
-			
+*/
+				
 }
 
 

@@ -98,7 +98,7 @@
 	width: 400px;
 	height: 800px;
 	margin-top: 22vw;
-	margin-left: 12vw;
+	margin-left: 3vw;
 }
 
 #hamtown-process {
@@ -205,6 +205,13 @@
 		height: 170px !important;
 		margin-top: 8vw;
 		margin-left: 17vw;
+	}
+	
+	#hamtown-image-logos {
+		width: 178px;
+		height: 356px;
+/* 		margin-top: 22vw; */
+/* 		margin-left: 12vw; */
 	}
 	
 	#hamtown-process {
