@@ -1,6 +1,6 @@
 
 #lorraine-caption-1 {	
-	margin-left: 10vw; 
+	margin-left: 5vw; 
 	margin-top: -4vw;
 }
 	
@@ -10,8 +10,8 @@
 }
 
 #lorraine-caption-2 {	
-	margin-left: 46vw; 
-	margin-top: 2vw;
+	margin-left: 42vw; 
+	margin-top: 10vw;
 	margin-bottom: 12vw;
 }	
 
@@ -350,3 +350,64 @@
 		margin-top: 12vw;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Flipbook Disclaimer */
+
+
+
+
+#flipbook-disclaimer {
+/* 	width: 720px; */
+	margin-top: 51vw !important;
+	margin-left: -3vw;
+/* 	text-align: center; */
+	font-size: 11px;
+	color: #fff;
+/* 	display: none !important; */
+	font-style: italic;
+}
+
+#flipbook-disclaimer:hover {
+	color: #ddd;
+}	
+
+
+/* Safari Browser Hack */
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
+    @media {
+        
+        #flipbook-disclaimer > a { 
+	        color: #ccc !important;
+        }
+    }   
+}
+	
+	
+	
+	

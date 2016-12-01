@@ -1,8 +1,8 @@
 /* jazzfest.css by Jeffrey Paletta */
 
 #jazz-image-1 {
-	margin-top: -2vw;
-	margin-left: 15vw;
+	margin-top: 30vw;
+	margin-left: 12vw;
 	width: 480px;
 	height: 800px;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
@@ -11,19 +11,19 @@
 }
 
 #jazz-caption-1 {
-	margin-top: 11vw;
+	margin-top: 14vw;
 	margin-left: vw;
 }
 
 #jazz-image-scales {
-	margin-top: 12vw;
+	margin-top: 18vw;
 	margin-left: 44vw;
 	width: 480px !important;
 	height: 682px !important;
 }
 
 #jazz-caption-2 {
-	margin-top: 10vw;
+	margin-top: 13vw;
 	margin-left: 36vw;
 }
 
@@ -42,18 +42,18 @@
 #jazz-image-text {
 	width: 600px;
 	height: 282px;
-	margin-top: 21vw;
+	margin-top: 25vw;
 	margin-left: 2vw;
 }
 
 #jazz-caption-3 {
-	margin-top: 10vw;
-	margin-left: 13vw;
+	margin-top: 13vw;
+	margin-left: 16vw;
 }
 
 #jazz-process {
 	margin-top: 2vw;
-	margin-left: 13vw;
+	margin-left: 16vw;
 	padding-bottom: 200px;
 }
 
@@ -151,27 +151,27 @@
 	}
 	
 	#jazz-image-1 {
-		margin-top: -2vw !important;
+		margin-top: 30vw !important;
 		margin-left: 13vw !important;
 		width: 330px !important;
 		height: 550px !important;
 	}
 	
 	#jazz-caption-1 {
-		margin-top: 11vw !important;
-		margin-left: 1vw !important;
+/* 		margin-top: 11vw !important; */
+		margin-left: 2vw !important;
 	}
 	
 	#jazz-image-scales {
-		margin-top: 14vw;
-		margin-left: 47vw;
+/* 		margin-top: 14vw; */
+/* 		margin-left: 47vw; */
 		width: 315px !important;
 		height: 448px !important;
 	}
 	
 	#jazz-caption-2 {
-		margin-top: 11vw;
-		margin-left: 36vw;
+/* 		margin-top: 11vw; */
+/* 		margin-left: 36vw; */
 	}
 	
 	/*
@@ -189,18 +189,18 @@
 	#jazz-image-text {
 		width: 420px;
 		height: 197px;
-		margin-top: 21vw;
-		margin-left: 2vw;
+/* 		margin-top: 21vw; */
+/* 		margin-left: 2vw; */
 	}
 	
 	#jazz-caption-3 {
-		margin-top: 11vw;
-		margin-left: 13vw;
+/* 		margin-top: 11vw; */
+/* 		margin-left: 13vw; */
 	}
 	
 	#jazz-process {
-		margin-top: 2vw;
-		margin-left: 13vw;
+/* 		margin-top: 2vw; */
+/* 		margin-left: 13vw; */
 		padding-bottom: 200px;
 	}
 }
