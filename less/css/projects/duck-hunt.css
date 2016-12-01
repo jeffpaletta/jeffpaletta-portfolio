@@ -1,0 +1,219 @@
+/* duck-hunt.css by Jeffrey Paletta */
+
+#duck-image-1 {
+	margin-top: 28vw;
+	margin-left: 32vw;
+	width: 800px !important;
+	height: 488px !important;
+}
+
+#duck-caption-1 {
+	margin-top: 17vw;
+	margin-left: 3vw;
+	max-width: 390px;
+}
+
+#duck-image-prompt {
+	width: 350px !important;
+	height: 204px !important;
+	margin-top: 12vw;
+	margin-left: 15vw;
+}
+
+#duck-caption-1b {
+	margin-top: 22vw;
+	margin-left: 49vw;
+	max-width: 390px;
+}
+
+#duck-image-gun {
+	margin-top: 9vw;
+	margin-left: 15vw;
+	width: 600px !important;
+	height: 239px !important;
+}
+	
+#duck-caption-2 {
+	margin-top: 22vw;
+	margin-left: 36vw;
+	max-width: 350px;
+}
+
+#duck-image-sprite {
+	margin-top: 11vw;
+	margin-left: 10vw;
+	width: 300px !important;
+	height: 258px !important;
+}
+
+#duck-caption-2b {
+	margin-top: 15vw;
+	margin-left: 57vw;
+	max-width: 380px;
+}
+
+#duck-video-1 {
+	width: 850px !important;
+	height: 478px !important;
+	margin-top:17vw;
+	margin-left: 21vw;
+	padding-bottom: 200px;
+}
+
+	
+#duck-process {
+	margin-top: 48vw;
+	margin-left: 21vw;
+}
+
+
+#duck-code {
+	border:none;
+	width:600px;
+	height: 800px !important;
+	margin-top: 24vw;
+	margin-left: 4vw;
+	padding-bottom: 300px !important;
+}
+	
+	
+	
+	
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#duck-caption-1,
+	#duck-caption-1b,
+	#duck-caption-2,
+	#duck-caption-2b,
+	#duck-process {
+		font-size: 8px !important;
+		line-height: 13px !important;
+	}
+	
+	#duck-image-1 {
+		margin-top: 40vw;
+		width: 364px !important;
+		height: 221px !important;
+	}
+	
+	#duck-image-prompt {
+		width: 158px !important;
+		height: 91px !important;
+	}
+	
+	#duck-image-gun {
+		width: 269px !important;
+		height: 106px !important;
+	}
+
+	#duck-image-sprite {
+		width: 133px !important;
+		height: 114px !important;
+	}
+	
+	#duck-caption-2b {
+		margin-left: 53vw;
+	}
+	
+	#duck-video-1 {
+		width: 376px !important;
+		height: 211px !important;
+	}
+	
+	#duck-process {
+	}
+	
+	#duck-code {
+		width:300px;
+		height: 600px !important;
+	}
+}
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
+	
+	#duck-caption-1,
+	#duck-caption-1b,
+	#duck-caption-2,
+	#duck-caption-2b,
+	#duck-process {
+		font-size: 11px !important;
+		line-height: 18px !important;
+	}
+	
+	#duck-image-1 {
+		width: 560px !important;
+		height: 341px !important;
+	}
+	
+	#duck-image-prompt {
+		width: 245px !important;
+		height: 142px !important;
+	}
+		
+	#duck-image-gun {
+		width: 420px !important;
+		height: 167px !important;
+	}
+		
+	#duck-image-sprite {
+		width: 210px !important;
+		height: 180px !important;
+	}
+	
+	#duck-video-1 {
+		width: 595px !important;
+		height: 334px !important;
+	}
+	
+	#duck-code {
+		width:400px;
+		height: 700px !important;
+	}
+}
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
+	
+	
+			
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	#duck-image-1 {
+		width: 960px !important;
+		height: 585px !important;
+	}
+	
+	#duck-image-prompt {
+		width: 420px !important;
+		height: 244px !important;
+	}
+	
+	#duck-image-gun {
+		width: 720px !important;
+		height: 286px !important;
+	}
+		
+	#duck-image-sprite {
+		width: 350px !important;
+		height: 301px !important;
+	}
+	
+	#duck-video-1 {
+		width: 1020px !important;
+		height: 573px !important;
+	}
+	
+	#duck-code {
+		width:700px;
+		height: 800px !important;
+	}
+}

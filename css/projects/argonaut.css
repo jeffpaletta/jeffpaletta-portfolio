@@ -188,7 +188,7 @@
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1399px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
 /*
 	#argonaut-caption-3 {
@@ -208,12 +208,12 @@
 		width: 385px !important;
 		height: 200px !important;
 		margin-top: -4vw;
-		margin-left: -2vw;
+		margin-left: -1vw;
 	}
 	
 	#argonaut-caption-1 {
-		margin-top: 10vw;
-		margin-left: 20vw;
+		margin-top: 11vw;
+		margin-left: 21vw;
 	}
 			
 	#argonaut-image-2 {
@@ -224,8 +224,8 @@
 	}	
 	
 	#argonaut-caption-2 {
-		margin-top: 9vw;
-		margin-left: 53vw;
+		margin-top: 12vw;
+		margin-left: 51vw;
 	}
 	
 	#argonaut-image-glyphs {
@@ -236,8 +236,8 @@
 	}
 		
 	#argonaut-caption-3 {
-		margin-top: 10vw;
-		margin-left: -1vw;
+		margin-top: 13vw;
+		margin-left: 4vw;
 	}
 	
 	#argonaut-poster-1,
@@ -251,7 +251,7 @@
 	}
 		
 	#argonaut-poster-1 {
-		margin-top: 15vw;
+		margin-top: 18vw;
 		margin-left: 28vw !important;
 	}
 	
@@ -280,7 +280,7 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1400px) and (max-width: 1921px) {
+@media screen and (min-width: 1600px) and (max-width: 2099px) {
 	
 	#argonaut-caption-1,
 	#argonaut-caption-2,

@@ -1,0 +1,361 @@
+
+		
+
+	
+#wooemmaii-video-1 {
+	margin-top: vw;
+	margin-left: 8.8vw;
+	width: 1100px;
+	height: 660px;
+}
+
+#wooemmaii-caption-1 {
+	margin-top: 48vw;
+	margin-left: -1vw;
+}
+
+#wooemmaii-image-1 {
+	margin-top: 14vw;
+	margin-left: 14vw;
+	width: 315px;
+	height: 425px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+		
+#wooemmaii-caption-2 {
+	margin-top: 22vw;
+	margin-left: 53vw;
+}
+
+#wooemmaii-caption-3 {
+	margin-top: 18vw;
+	margin-left: 6vw;
+}
+		
+#wooemmaii-process {
+	margin-top: 3vw;
+	margin-left: 6vw;
+}
+
+#wooemmaii-spacer {
+	height: 150px !important;
+}
+
+#wooemmaii-gallery-1{
+/* 	margin-left: 12vw !important; */
+}
+
+.wooemmaii-gallery-container{
+  max-width:600px !important;
+  position:relative;
+/*   margin:0 auto; */
+  margin-top:6vw !important;
+  margin-left: 37vw !important;
+}
+
+		#galley-overlay{
+		  cursor: pointer;
+		  position:absolute;
+		  top:0;
+		  left:0;
+		  height:100%;
+		  width:100%;
+		  background:#000;
+		  opacity:.7;
+		  z-index:2000;
+		  display:none;
+		}
+		
+		.wooemmaii-gallery-image{
+		  position:relative;
+		  float:left;
+		  height:120px !important;
+		  width:90px !important;
+		  background:#fff;
+		  margin:20px !important;
+		}
+		
+		.wooemmaii-photo-image{
+		  cursor: pointer;
+		  position:relative;
+		  top:0px;
+		  left:0px;
+		  width:90px !important;
+		  z-index:1000;
+		  opacity:1;
+		  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
+		}
+		
+		.wooemmaii-photo-image:hover{
+		  width:90px !important;
+		  top:-15px;
+		  left: 0px;
+		  z-index:1001;
+		  opacity:1;
+		}
+		
+		.photo-selected{
+		  cursor:default;
+		  z-index:2001;
+		  width:500px !important;
+		  opacity:1;
+		  top:-20px;
+		  left:-200px;
+		  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+		}
+		
+		.photo-selected:hover{
+		  width:500px;
+		  top:-50px;
+		  left:-50px;
+		  z-index:2001;
+		  opacity:1;
+		  top:-20px;
+		  left:-200px;
+		}
+
+
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	#wooemmaii-caption-1,
+	#wooemmaii-caption-2,
+	#wooemmaii-caption-3,
+	#wooemmaii-process {
+		font-size: 8px !important;
+		line-height: 13px !important;
+	}
+	
+	#wooemmaii-video-1 {
+		margin-top: 6vw;
+		margin-left: 10vw;
+		width: 500px !important;
+		height: 300px !important;
+	}
+	
+	#wooemmaii-caption-1 {
+		margin-top: 56vw;
+		margin-left: -1vw;
+	}
+	
+	#wooemmaii-image-1 {
+		margin-top: 8vw;
+		margin-left: 15vw;
+		width: 142px !important;
+		height: 191px !important;
+		-webkit-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		-moz-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.20) !important;
+	}
+			
+	#wooemmaii-caption-2 {
+		margin-top: 17vw;
+		margin-left: 50vw;
+	}
+	
+	#wooemmaii-caption-3 {
+		margin-top: 16vw;
+		margin-left: 6vw;
+	}
+			
+	#wooemmaii-process {
+		margin-top: 3vw;
+		margin-left: 6vw;
+		padding-bottom: 150px !important;
+	}
+	
+	#wooemmaii-spacer {
+		height: 80px !important;
+	}
+	
+	.wooemmaii-gallery-container{
+	  max-width:250px !important;
+	  margin-top:2vw !important;
+	  margin-left: 37vw !important;
+	}
+			
+			.wooemmaii-gallery-image{
+			  height:54px !important;
+			  width:40px !important;
+			  margin:9px !important;
+			}
+			
+			.wooemmaii-photo-image{
+			  width: 40px !important;
+			}
+			
+			.wooemmaii-photo-image:hover{
+			  width: 40px !important;
+			}
+	
+}
+
+
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
+	
+	#wooemmaii-caption-1,
+	#wooemmaii-caption-2,
+	#wooemmaii-caption-3,
+	#wooemmaii-process {
+		font-size: 11px !important;
+/* 		line-height: 11px !important; */
+	}
+	
+	#wooemmaii-video-1 {
+		margin-top: -1vw;
+		margin-left: 7vw;
+		width: 770px !important;
+		height: 462px !important;
+	}
+	
+	#wooemmaii-caption-1 {
+		margin-top: 54vw;
+		margin-left: 1vw;
+	}
+	
+	#wooemmaii-image-1 {
+		margin-top: 13vw;
+		margin-left: 14vw;
+		width: 220px !important;
+		height: 296px !important;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
+			
+	#wooemmaii-caption-2 {
+		margin-top: 21vw;
+		margin-left: 50vw;
+	}
+	
+	#wooemmaii-caption-3 {
+		margin-top: 19vw;
+		margin-left: 6vw;
+	}
+			
+	#wooemmaii-process {
+		margin-top: 3vw;
+		margin-left: 6vw;
+		padding-bottom: 150px !important;
+	}
+	
+	#wooemmaii-spacer {
+		height: 100px !important;
+	}
+	
+	.wooemmaii-gallery-container{
+	  max-width:450px !important;
+	  margin-top:6vw !important;
+	  margin-left: 34vw !important;
+	}
+			
+			.wooemmaii-gallery-image{
+			  height:84px !important;
+			  width:63px !important;
+			  margin:14px !important;
+			}
+			
+			.wooemmaii-photo-image{
+			  width: 63px !important;
+			}
+			
+			.wooemmaii-photo-image:hover{
+			  width: 63px !important;
+			}
+	
+}
+
+
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
+				
+	}
+		
+		
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	#wooemmaii-video-1 {
+		margin-top: -1vw !important;
+		margin-left: 9vw !important;
+		width: 1320px !important;
+		height: 792px !important;
+	}
+	
+	#wooemmaii-caption-1 {
+		margin-top: 45vw;
+		margin-left: -1vw;
+	}
+	
+	#wooemmaii-image-1 {
+		width: 378px !important;
+		height: 510px !important;
+		margin-top: 12vw;
+		margin-left: 14vw;
+		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	}
+			
+	#wooemmaii-caption-2 {
+		margin-top: 18vw;
+		margin-left: 56vw;
+	}
+	
+	#wooemmaii-caption-3 {
+		margin-top: 14vw;
+		margin-left: 6vw;
+	}
+			
+	#wooemmaii-process {
+		margin-top: 3vw;
+		margin-left: 6vw;
+	}
+	
+	#wooemmaii-spacer {
+		height: 150px !important;
+	}
+	
+	.wooemmaii-gallery-container{
+	  max-width:600px !important;
+	  margin-top:6vw !important;
+	  margin-left: 40vw !important;
+	}
+			
+			.wooemmaii-gallery-image{
+			  height:144px !important;
+			  width:108px !important;
+			  margin:20px !important;
+			}
+			
+			.wooemmaii-photo-image{
+			  width:108px !important;
+			}
+			
+			.wooemmaii-photo-image:hover{
+			  width:108px !important;
+			}
+		
+}
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
