@@ -15,7 +15,7 @@
 #intergram-image-1 {
 	width: 500px;
 	height: 199px;
-	margin-top: 10vw;
+	margin-top: 12vw;
 	margin-left: 42vw;
 }
 		
@@ -32,13 +32,13 @@
 }
 		
 #intergram-caption-3 {
-	margin-top: 19vw;
-	margin-left: 29vw;
+	margin-top: 21vw;
+	margin-left: 49vw;
 }
 		
 #intergram-process {
 	margin-top: 3vw;
-	margin-left: 29vw;
+	margin-left: 49vw;
 	padding-bottom: 200px;
 }
 
@@ -134,7 +134,7 @@
 	}
 			
 	#intergram-caption-2 {
-/* 		margin-top: 9vw; */
+		margin-top: 21vw;
 /* 		margin-left: 12vw; */
 	}
 			
@@ -146,13 +146,13 @@
 	}
 			
 	#intergram-caption-3 {
-/* 		margin-top: 9vw; */
-/* 		margin-left: 43vw; */
+		margin-top: 21vw;
+		margin-left: 26vw;
 	}
 			
 	#intergram-process {
 /* 		margin-top: 3vw; */
-/* 		margin-left: 43vw; */
+		margin-left: 26vw;
 		padding-bottom: 200px;
 	}
 }
