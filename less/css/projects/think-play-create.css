@@ -9,8 +9,8 @@
 }
 
 #tpc-caption-1 {
-	margin-top: 11vw;
-	margin-left: 57vw;
+	margin-top: 18vw;
+	margin-left: 53vw;
 }
 
 #tpc-image-tiles {
@@ -18,27 +18,27 @@
 /* 	height: 87px; */
 	width: 440px;
 	height: 113px;
-	margin-top: 10vw;
-	margin-left: 11vw;
+	margin-top: 15vw;
+	margin-left: 5vw;
 }
 
 #tpc-caption-2 {
-	margin-top: 8vw;
-	margin-left: 17vw;
+	margin-top: 11vw;
+	margin-left: 11vw;
 }
 
 #tpc-video-2 {
 	width: 820px;
 	height: 461px;
-	margin-top: 14vw;
-	margin-left: 37vw;
+	margin-top: 24vw;
+	margin-left: 31vw;
 }
 
 #tpc-caption-3 {
 /* 	margin-top: 48vw; */
 /* 	margin-left: 39vw; */
-	margin-top: 50vw;
-	margin-left: 29vw;
+	margin-top: 62vw;
+	margin-left: 27vw;
 }
 
 #tpc-caption-3-small {
@@ -48,18 +48,18 @@
 #tpc-video-3 {
 	width: 440px;
 	height: 440px;
-	margin-top: 15vw;
+	margin-top: 22vw;
 	margin-left: 7vw;
 }
 
 #tpc-caption-4 {
-	margin-top: 48vw;
-	margin-left: vw;
+	margin-top: 59vw;
+	margin-left: 15vw;
 }
 
 #tpc-process-link {
 	margin-top: 2vw;
-	margin-left: vw;
+	margin-left: 15vw;
 	padding-bottom: 200px !important;
 }
 
@@ -159,13 +159,13 @@
 	#tpc-video-1 {
 		width: 840px !important;
 		height: 504px !important;
-		margin-top: -4vw !important;
-		margin-left: -4vw;
+		margin-top: 1vw !important;
+		margin-left: -2vw;
 	}
 	
 	#tpc-caption-1 {
-		margin-top: 5.2vw !important;
-		margin-left: 56vw;
+		margin-top: 18vw !important;
+		margin-left: 50vw;
 	}
 	
 	#tpc-image-tiles {
@@ -195,14 +195,16 @@
 */
 	
 	#tpc-caption-3 {
-		display: none !important;
+/* 		display: none !important; */
 	}
 	
+/*
 	#tpc-caption-3-small {
 		display: block !important;
-		margin-top: 50vw !important;
+		margin-top: 62vw !important;
 		margin-left: 29vw !important;
 	}
+*/
 	
 	#tpc-video-3 {
 		width: 302px !important;
@@ -290,12 +292,12 @@
 	#tpc-video-1 {
 		width: 1200px;
 		height: 720px;
-		margin-top: -2vw;
-		margin-left: 2vw;
+/* 		margin-top: -2vw; */
+/* 		margin-left: 2vw; */
 	}
 	
 	#tpc-caption-1 {
-		margin-top: 11.2vw;
+/* 		margin-top: 11.2vw; */
 /* 		margin-left: 57vw; */
 	}
 	
@@ -305,24 +307,24 @@
 		width: 500px;
 		height: 128px;
 /* 		margin-top: 10vw; */
-		margin-left: 14vw;
+/* 		margin-left: 14vw; */
 	}
 	
 	#tpc-caption-2 {
-		margin-top: 8vw;
-		margin-left: 20vw;
+/* 		margin-top: 8vw; */
+		margin-left: 23vw;
 	}
 	
 	#tpc-video-2 {
 		width: 910px;
 		height: 512px;
-		margin-top: 14vw;
+/* 		margin-top: 14vw; */
 /* 		margin-left: 37vw; */
 	}
 	
 	#tpc-caption-3 {
-		margin-top: 45vw;
-		margin-left: 31vw;
+/* 		margin-top: 45vw; */
+/* 		margin-left: 31vw; */
 	}
 	
 	#tpc-caption-3-small {
@@ -332,12 +334,12 @@
 	#tpc-video-3 {
 		width: 500px;
 		height: 500px;
-		margin-top: 13vw;
+/* 		margin-top: 13vw; */
 /* 		margin-left: 7vw; */
 	}
 	
 	#tpc-caption-4 {
-		margin-top: 42vw;
+/* 		margin-top: 42vw; */
 /* 		margin-left: vw; */
 	}
 	

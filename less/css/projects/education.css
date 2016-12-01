@@ -3,19 +3,19 @@
 #education-video-1 {
 	width: 1149px;
 	height: 710px;
-	margin-top:-10vw; 
+	margin-top:-2vw; 
 	margin-left:24vw;
 }
 
 #education-caption-1 {
 	margin-left:2vw; 
-	margin-top: 37vw;
+	margin-top: 48vw;
 }
 
 #education-image-1 {
 	width: 410px;
 	height: 298px;
-	margin-top: 5vw;
+	margin-top: 12vw;
 	margin-left: 14vw;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
@@ -24,13 +24,13 @@
 
 #education-caption-2 {
 	margin-left: 52vw; 
-	margin-top: 18vw;
+	margin-top: 20vw;
 }
 
 .education-gallery-container{
   max-width:600px !important;
   position:relative;
-  margin-top:8vw !important;
+  margin-top:11vw !important;
   margin-left: 34vw !important;
 }
 
@@ -218,40 +218,40 @@
 	#education-caption-3,
 	#education-process {
 		font-size: 11px !important;
-		line-height: 18px !important;
+/* 		line-height: 18px !important; */
 	}
 	
 	#education-video-1 {
-		width: 803px !important;
+		width: 802px !important;
 		height: 496px !important;
-		margin-top:-10vw; 
+		margin-top: 3vw; 
 		margin-left:24vw;
 	}
 	
 	#education-caption-1 {
-		margin-left:2vw; 
-		margin-top: 37vw;
+/* 		margin-left:2vw;  */
+		margin-top: 53vw;
 	}
 	
 	#education-image-1 {
 		width: 325px !important;
 		height: 236px !important;
-		margin-top: 7vw;
-		margin-left: 12vw;
+/* 		margin-top: 7vw; */
+/* 		margin-left: 12vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 	
 	#education-caption-2 {
-		margin-left: 52vw; 
-		margin-top: 15vw !important;
+/* 		margin-left: 52vw;  */
+/* 		margin-top: 15vw !important; */
 	}
 	
 	.education-gallery-container{
 	  max-width:450px !important;
-	  margin-top:7vw !important;
-	  margin-left: 40vw !important;
+/* 	  margin-top:7vw !important; */
+/* 	  margin-left: 40vw !important; */
 	}
 	
 			.education-gallery-image{
@@ -269,13 +269,13 @@
 			}
 			
 	#education-caption-3 {
-		margin-left:5vw; 
-		margin-top: 18vw;
+/* 		margin-left:5vw;  */
+/* 		margin-top: 18vw; */
 	}
 	
 	#education-process {
-		margin-top: 1vw;
-		margin-left: 5vw;
+/* 		margin-top: 1vw; */
+/* 		margin-left: 5vw; */
 		padding-bottom: 100px;
 	}
 	
@@ -283,8 +283,8 @@
 /* 		display: none; */
 		width: 238px !important;
 		height: 344px !important;
-		margin-top: 4vw;
-		margin-left: 20vw;
+/* 		margin-top: 4vw; */
+/* 		margin-left: 20vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -301,20 +301,24 @@
 	#education-video-1 {
 		width: 1149px;
 		height: 710px;
-		margin-top:-10vw; 
-		margin-left:24vw;
+/* 		margin-top:-10vw;  */
+/* 		margin-left:24vw; */
 	}
 	
 	#education-caption-1 {
+/*
 		margin-left:2vw; 
 		margin-top: 37vw;
+*/
 	}
 	
 	#education-image-1 {
 		width: 400px;
 		height: 290px;
+/*
 		margin-top: 5vw;
 		margin-left: 14vw;
+*/
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -327,7 +331,7 @@
 	
 	.education-gallery-container{
 	  max-width:600px !important;
-	  margin-top:8vw !important;
+/* 	  margin-top:8vw !important; */
 	  margin-left: 34vw !important;
 	}
 	
@@ -346,13 +350,13 @@
 			}
 			
 	#education-caption-3 {
-		margin-left:5vw; 
-		margin-top: 18vw;
+/* 		margin-left:5vw;  */
+/* 		margin-top: 18vw; */
 	}
 	
 	#education-process {
-		margin-top: 1vw;
-		margin-left: 5vw;
+/* 		margin-top: 1vw; */
+/* 		margin-left: 5vw; */
 		padding-bottom: 150px;
 	}
 	
@@ -360,8 +364,8 @@
 /* 		display: none; */
 		width: 345px;
 		height: 500px;
-		margin-top: 4vw;
-		margin-left: 20vw;
+/* 		margin-top: 4vw; */
+/* 		margin-left: 20vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -382,34 +386,34 @@
 	#education-video-1 {
 		width: 1380px !important;
 		height: 852px !important;
-		margin-top:-10vw; 
-		margin-left:24vw;
+/* 		margin-top:-10vw;  */
+/* 		margin-left:24vw; */
 	}
 	
 	#education-caption-1 {
-		margin-left:2vw; 
-		margin-top: 35vw;
+/* 		margin-left:2vw;  */
+/* 		margin-top: 35vw; */
 	}
 	
 	#education-image-1 {
 		width: 550px !important;
 		height: 399px !important;
-		margin-top: 6vw;
-		margin-left: 14vw;
+/* 		margin-top: 6vw; */
+/* 		margin-left: 14vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 	
 	#education-caption-2 {
-		margin-left: 52vw; 
-		margin-top: 14vw;
+/* 		margin-left: 52vw;  */
+/* 		margin-top: 14vw; */
 	}
 	
 	.education-gallery-container{
 	  max-width:750px !important;
-	  margin-top:9vw !important;
-	  margin-left: 40vw !important;
+/* 	  margin-top:9vw !important; */
+/* 	  margin-left: 40vw !important; */
 	}
 	
 			.education-gallery-image{
@@ -427,8 +431,8 @@
 			}
 			
 	#education-caption-3 { 
-		margin-top: 18vw;
-		margin-left: 5vw;
+/* 		margin-top: 18vw; */
+/* 		margin-left: 5vw; */
 	}
 	
 	#education-process {
@@ -441,8 +445,8 @@
 		display: block !important;
 		width: 414px !important;
 		height: 600px !important;
-		margin-top: 3vw;
-		margin-left: 20vw;
+/* 		margin-top: 3vw; */
+/* 		margin-left: 20vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);

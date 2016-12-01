@@ -8,14 +8,14 @@
 }	
 	
 #intergram-caption-1 {
-	margin-top: 43vw;
+	margin-top: 49vw;
 	margin-left: 56vw;
 }
 		
 #intergram-image-1 {
 	width: 500px;
 	height: 199px;
-	margin-top: 8vw;
+	margin-top: 10vw;
 	margin-left: 42vw;
 }
 		
@@ -27,12 +27,12 @@
 #intergram-image-2 {
 	width: 600px;
 	height: 349px;
-	margin-top: 10vw;
+	margin-top: 15vw;
 	margin-left: 40vw;
 }
 		
 #intergram-caption-3 {
-	margin-top: 14vw;
+	margin-top: 19vw;
 	margin-left: 29vw;
 }
 		
@@ -117,12 +117,12 @@
 	#intergram-video-1 {
 		width: 756px !important;
 		height: 454px !important;
-		margin-top: -7vw;
-		margin-left: -3vw;
+		margin-top: -4vw;
+		margin-left: -2vw;
 	}	
 		
 	#intergram-caption-1 {
-/* 		margin-top: 39vw; */
+		margin-top: 53vw;
 /* 		margin-left: 56vw; */
 	}
 			
@@ -141,8 +141,8 @@
 	#intergram-image-2 {
 		width: 420px !important;
 		height: 275px !important;
-		margin-top: 14vw;
-		margin-left: 44vw;
+/* 		margin-top: 14vw; */
+		margin-left: 38vw;
 	}
 			
 	#intergram-caption-3 {
@@ -168,6 +168,13 @@
 
 /* 2100+ */
 @media screen and (min-width: 2100px)	 {
+	
+	#intergram-video-1 {
+		width: 1080px;
+		height: 648px;
+		margin-top: -7vw;
+		margin-left: -1vw;
+	}
 	
 	#intergram-caption-3 {
 		margin-top: 14vw;
