@@ -1,22 +1,22 @@
 
 #lorraine-caption-1 {	
-	margin-left: 10vw; 
+	margin-left: 5vw; 
 	margin-top: -4vw;
 }
 	
 #lorraine-image-1 {
-	margin-top:9vw;
+	margin-top:15vw;
 	margin-left:-6vw;
 }
 
 #lorraine-caption-2 {	
-	margin-left: 46vw; 
-	margin-top: 2vw;
+	margin-left: 42vw; 
+	margin-top: 10vw;
 	margin-bottom: 12vw;
 }	
 
 #lorraine-flipbook {
-	margin-top: 10vw;
+	margin-top: 14vw;
 	margin-left: -3vw;
 	padding-bottom: 100px !important;
 }
@@ -28,13 +28,13 @@
 .gallery-container{
   max-width:700px !important;
   position:relative;
-  margin-top:17vw !important;
-  margin-left: 49vw !important;
+  margin-top:21vw !important;
+  margin-left: 44vw !important;
 }
 
 #lorraine-process {
 	margin-top: 3vw;
-	margin-left: 50vw;
+	margin-left: 44vw;
 	padding-bottom: 300px;
 }
 
@@ -167,7 +167,6 @@
 			  height:60px !important;
 			  width:90px !important;
 			  background:#fff;
-			/*   border:1px solid #999; */
 			  margin:10px !important;
 			}
 			
@@ -177,7 +176,6 @@
 			  top:0px;
 			  left:0px;
 			  width:90px !important;
-			/*   border:1px solid #999;   */
 			  z-index:1000;
 			  opacity:1;
 			  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
@@ -229,7 +227,7 @@
 	}
 
 	#lorraine-image-1 {
-		margin-top: 5vw;
+		margin-top: 15vw;
 		width: 320px !important;
 		}
 		
@@ -258,7 +256,6 @@
 	.gallery-container{
 	  max-width:700px !important;
 	  position:relative;
-	/*   margin:0 auto; */
 	  margin-top:21vw !important;
 	  margin-left: 9vw !important;
 	}
@@ -282,7 +279,6 @@
 			  height:80px !important;
 			  width:120px !important;
 			  background:#fff;
-			/*   border:1px solid #999; */
 			  margin:10px !important;
 			}
 			
@@ -292,7 +288,6 @@
 			  top:0px;
 			  left:0px;
 			  width:120px !important;
-			/*   border:1px solid #999;   */
 			  z-index:1000;
 			  opacity:1;
 			  transition: width 1s, top 1s, left 1s, opacity 1s, z-index .01s;
@@ -350,3 +345,64 @@
 		margin-top: 12vw;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Flipbook Disclaimer */
+
+
+
+
+#flipbook-disclaimer {
+/* 	width: 720px; */
+	margin-top: 51vw !important;
+	margin-left: -3vw;
+/* 	text-align: center; */
+	font-size: 11px;
+	color: #fff;
+/* 	display: none !important; */
+	font-style: italic;
+}
+
+#flipbook-disclaimer:hover {
+	color: #ddd;
+}	
+
+
+/* Safari Browser Hack */
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
+    @media {
+        
+        #flipbook-disclaimer > a { 
+	        color: #ccc !important;
+        }
+    }   
+}
+	
+	
+	
+	
