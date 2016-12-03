@@ -8,8 +8,8 @@
 }
 
 #kinect-caption-1 {
-	margin-top: 43vw;
-	margin-left: -2vw;
+	margin-top: 56vw;
+	margin-left: 2vw;
 }
 
 .kinect-indent {
@@ -19,56 +19,56 @@
 #kinect-image-sensor {
 	width: 500px;
 	height: 163px;
-	margin-top: 10vw;
-	margin-left: 4vw;
+	margin-top: 12vw;
+	margin-left: 7vw;
 }
 
 #kinect-video-3 {
 	width: 500px;
 	height: 500px;
-	margin-top: 13vw;
+	margin-top: 20vw;
 	margin-left: 45vw;
 }
 
 #kinect-caption-1b {
-	margin-top: 51vw;
-	margin-left: 38vw;
+	margin-top: 61vw;
+	margin-left: 36vw;
 }
 
 #kinect-image-diagram {
 	width: 500px;
 	height: 500px;
-	margin-top: 12vw;
+	margin-top: 19vw;
 	margin-left: 2vw;
 }
 
 #kinect-caption-2 {
-	margin-top: 14vw;
+	margin-top: 19vw;
 	margin-left: 54vw;
 }
 
 #kinect-video-2 {
 	width: 600px;
 	height: 450px;
-	margin-top: 10vw;
+	margin-top: 15vw;
 	margin-left: 38vw;
 }
 
 #kinect-caption-3 {
-	margin-top: 55vw;
-	margin-left: 13vw;
+	margin-top: 59vw;
+	margin-left: 10vw;
 }
 
 #kinect-process {
 	margin-top: 2vw;
-	margin-left: 13vw;
+	margin-left: 10vw;
 }
 
 #kinect-code-1 {
 	width: 700px;
 	height: 1000px;
-	margin-top: 14vw;
-	margin-left: 13vw;
+	margin-top: 19vw;
+	margin-left: 16vw;
 	padding-bottom: 150px;
 }
 
@@ -177,7 +177,7 @@
 	#kinect-video-1 {
 		width: 896px;
 		height: 504px;
-/* 		margin-top: -7vw; */
+		margin-top: -3vw;
 /* 		margin-left: -7.5vw; */
 	}
 	
@@ -212,8 +212,8 @@
 	#kinect-image-diagram {
 		width: 350px;
 		height: 350px;
-		margin-top: 12vw;
-		margin-left: 2vw;
+/* 		margin-top: 12vw; */
+/* 		margin-left: 2vw; */
 	}
 	
 	#kinect-caption-2 {
@@ -242,7 +242,7 @@
 		width: 500px;
 		height: 695px;
 /* 		margin-top: 14vw; */
-		margin-left: 15vw;
+/* 		margin-left: 15vw; */
 /* 		padding-bottom: 150px; */
 	}
 }
@@ -265,8 +265,8 @@
 	}
 		
 	#kinect-caption-1 {
-		margin-top: 39vw;
-		margin-left: -2vw;
+/* 		margin-top: 39vw; */
+/* 		margin-left: -2vw; */
 	}
 		
 	#kinect-image-sensor {
@@ -277,8 +277,8 @@
 	#kinect-video-3 {
 		width: 600px;
 		height: 600px;
-		margin-top: 13vw;
-		margin-left: 45vw;
+/* 		margin-top: 13vw; */
+/* 		margin-left: 45vw; */
 	}
 	
 	#kinect-caption-1b {
@@ -289,13 +289,13 @@
 	#kinect-image-diagram {
 		width: 600px;
 		height: 600px;
-		margin-top: 12vw;
-		margin-left: 3vw;
+/* 		margin-top: 12vw; */
+/* 		margin-left: 3vw; */
 	}
 	
 	#kinect-caption-2 {
 /* 		margin-top: 14vw; */
-		margin-left: 59vw;
+/* 		margin-left: 59vw; */
 		}
 
 	#kinect-video-2 {
@@ -306,20 +306,20 @@
 	}
 	
 	#kinect-caption-3 {
-		margin-top: 50vw;
-		margin-left: 15vw;
+/* 		margin-top: 50vw; */
+/* 		margin-left: 15vw; */
 	}
 	
 	#kinect-process {
 /* 		margin-top: 2vw; */
-		margin-left: 15vw;
+/* 		margin-left: 15vw; */
 	}
 	
 	#kinect-code-1 {
 		width: 700px;
 		height: 1000px;
 /* 		margin-top: 14vw; */
-		margin-left: 23vw;
+/* 		margin-left: 23vw; */
 /* 		padding-bottom: 150px; */
 	}
 }
