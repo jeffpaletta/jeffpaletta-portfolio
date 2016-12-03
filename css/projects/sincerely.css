@@ -9,26 +9,26 @@
 }	
 
 #sincerely-caption-1 {
-	margin-top: 42vw; 
-	margin-left: 61vw;	
+	margin-top: 48vw; 
+	margin-left: 45vw;	
 }
 
 #sincerely-image-1 {	/* LMAO notebook sketch */
 	width: 378px;
 	height: 400px;
-	margin-top: 10vw;
-	margin-left: 12vw;
+	margin-top: 16vw;
+	margin-left: 14vw;
 }
 
 #sincerely-caption-2 {
 	margin-top: 12vw; 
-	margin-left: 1vw;	
+	margin-left: 3vw;	
 }
 
 #sincerely-image-2 {	/* Roll on floor laughing prompt */
 	width: 700px;
 	height: 137px;
-	margin-top: 15vw;
+	margin-top: 19vw;
 	margin-left: 30vw;
 }
 
@@ -45,203 +45,16 @@
 #sincerely-image-4 {	/* Picture message with text */
 	width: 450px;
 	height: 600px;
-	margin-top: 13vw;
-	margin-left: 10vw;
-}
-
-
-#sincerely-image-3 {	/* Message failed then Scanning */
-/*
-	width: 238px;
-	height: 300px;
-	margin-top: 50vw;
-	margin-left: 2vw;
-*/
+	margin-top: 19vw;
+	margin-left: 11vw;
 }
 
 
 
 
 
-/* Safari Hack */	
-@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
-	
-	/* 800 x 600 */
-	@media screen and (min-width: 701px) and (max-width: 1199px) {
-		
-		#sincerely-caption-1,
-		#sincerely-caption-2,
-		#sincerely-caption-3,
-		#sincerely-process {
-			font-size: 8px !important;
-			line-height: 13px !important;
-		}
-		
-		#sincerely-video-1 {
-			width: 243px !important;
-			height: 420px !important;
-			margin-top: -2vw !important;  
-			margin-left: -3vw !important;
-		}
-		
-		#sincerely-caption-1 {
-			margin-top: 56vw !important; 
-			margin-left: 51vw;	
-		}
-		
-		#sincerely-image-1 {	/* LMAO notebook sketch */
-			width: 150px !important;
-			height: 160px !important;
-			margin-top: 13vw;
-			margin-left: 1vw;
-		}
-		
-		#sincerely-caption-2 {
-			margin-top: 10vw; 
-			margin-left: 5vw;	
-		}
-		
-		#sincerely-image-2 {	/* Roll on floor laughing prompt */
-			width: 341px !important;
-			height: 66px !important;
-			margin-top: 15vw;
-			margin-left: 35vw !important;
-		}
-		
-		#sincerely-caption-3 {
-			margin-top: 13vw; 
-			margin-left: 50vw;	
-		}
-		
-		#sincerely-process {
-			margin-top: -2vw;
-			margin-left: 50vw;
-		}
-		
-		#sincerely-image-4 {	/* Picture message with text */
-			width: 179px !important;
-			height: 239px !important;
-			margin-top: 11vw;
-			margin-left: 10vw;
-		}
-	}
-	
-	
-	
-	/* 1336 x 768 */
-	@media screen and (min-width: 1200px) and (max-width: 1599px) {
-		
-		#sincerely-caption-1,
-		#sincerely-caption-2,
-		#sincerely-caption-3,
-		#sincerely-process {
-			font-size: 11px !important;
-			line-height: 18px !important;
-		}
-		
-		#sincerely-video-1 {
-			width: 342px !important;
-			height: 590px !important;
-			margin-top: -5vw; 
-			margin-left: 1vw;
-		}
-		
-		#sincerely-caption-1 {
-			margin-top: 42vw; 
-			margin-left: 56vw;	
-		}
-		
-		#sincerely-image-1 {	/* LMAO notebook sketch */
-			width: 264px !important;
-			height: 280px !important;
-			margin-top: 10vw;
-			margin-left: 12vw;
-		}
-		
-		#sincerely-caption-2 {
-			margin-top: 12vw; 
-			margin-left: 1vw;	
-		}
-		
-		#sincerely-image-2 {	/* Roll on floor laughing prompt */
-			width: 490px !important;
-			height: 95px !important;
-			margin-top: 15vw;
-			margin-left: 35vw !important;
-		}
-		
-		#sincerely-caption-3 {
-			margin-top: 13vw; 
-			margin-left: 55vw;	
-		}
-		
-		#sincerely-process {
-			margin-top: -2vw;
-			margin-left: 55vw;
-		}
-		
-		#sincerely-image-4 {	/* Picture message with text */
-			width: 315px !important;
-			height: 420px !important;
-			margin-top: 13vw;
-			margin-left: 10vw;
-		}
-	}
-	
-	
-	
-	/* 1920 x 1080 */
-	@media screen and (min-width: 1600px) and (max-width: 2099px) {
-	   
-	    #sincerely-video-1 {
-			width: 492px !important;
-			height: 848px !important;
-			margin-top: -5vw; 
-			margin-left: 1vw;
-		}
-		
-		#sincerely-caption-1 {
-			margin-top: 42vw; 
-			margin-left: 61vw;	
-		}
-		
-		#sincerely-image-1 {	/* LMAO notebook sketch */
-			width: 378px;
-			height: 400px;
-			margin-top: 10vw;
-			margin-left: 12vw;
-		}
-		
-		#sincerely-caption-2 {
-			margin-top: 12vw; 
-			margin-left: 1vw;	
-		}
-		
-		#sincerely-image-2 {	/* Roll on floor laughing prompt */
-			width: 700px;
-			height: 137px;
-			margin-top: 15vw;
-			margin-left: 30vw;
-		}
-		
-		#sincerely-caption-3 {
-			margin-top: 15vw; 
-			margin-left: 55vw;	
-		}
-		
-		#sincerely-process {
-			margin-top: -2vw;
-			margin-left: 55vw;
-		}
-		
-		#sincerely-image-4 {	/* Picture message with text */
-			width: 450px;
-			height: 600px;
-			margin-top: 13vw;
-			margin-left: 10vw;
-		}
-	}
-}
+
+
 
 
 
@@ -311,6 +124,14 @@
 
 
 
+
+
+
+
+
+
+
+
 /* 1336 x 768 */
 @media screen and (min-width: 1200px) and (max-width: 1599px) {
 	
@@ -373,57 +194,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
 /* 1920 x 1080 */
 @media screen and (min-width: 1600px) and (max-width: 2099px) {
-   
-    #sincerely-video-1 {
-		width: 492px !important;
-		height: 850px !important;
-		margin-top: -5vw; 
-		margin-left: 1vw;
-	}
-	
-	#sincerely-caption-1 {
-		margin-top: 42vw; 
-		margin-left: 61vw;	
-	}
-	
-	#sincerely-image-1 {	/* LMAO notebook sketch */
-		width: 307px !important;
-		height: 325px !important;
-		margin-top: 10vw;
-		margin-left: 12vw;
-	}
-	
-	#sincerely-caption-2 {
-		margin-top: 10vw; 
-		margin-left: 4vw;	
-	}
-	
-	#sincerely-image-2 {	/* Roll on floor laughing prompt */
-		width: 700px;
-		height: 137px;
-		margin-top: 15vw;
-		margin-left: 46vw;
-	}
-	
-	#sincerely-caption-3 {
-		margin-top: 12vw; 
-		margin-left: 41vw;	
-	}
-	
-	#sincerely-process {
-		margin-top: -2vw;
-		margin-left: 41vw;
-	}
-	
-	#sincerely-image-4 {	/* Picture message with text */
-		width: 375px;
-		height: 500px;
-		margin-top: 15vw;
-		margin-left: 10vw;
-	}
-}
+}   
+
+
+
+
+
+
+
+
+
 
 
 
@@ -433,8 +224,6 @@
 	#sincerely-video-1 {
 		width: 592px !important;
 		height: 1022px !important;
-/* 		margin-top: -5vw;  */
-/* 		margin-left: 1vw;	 */
 	}	
 	
 	#sincerely-caption-1 {
@@ -457,7 +246,6 @@
 	#sincerely-image-2 {	/* Roll on floor laughing prompt */
 		width: 840px !important;
 		height: 164px !important;
-/* 		margin-top: 15vw; */
 		margin-left: 36vw;
 	}
 	
@@ -477,5 +265,61 @@
 		margin-top: 13vw;
 		margin-left: 10vw;
 		padding-bottom: 200px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Safari Hack */	
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) { 
+	
+	/* 800 x 600 */
+	@media screen and (min-width: 701px) and (max-width: 1199px) {
+				
+		#sincerely-video-1 {
+			width: 243px !important;
+			height: 420px !important;
+		}
+	}
+	
+	
+	
+	/* 1336 x 768 */
+	@media screen and (min-width: 1200px) and (max-width: 1599px) {
+				
+		#sincerely-video-1 {
+			width: 342px !important;
+			height: 590px !important;
+		}
+		
+	}
+	
+	
+	
+	/* 1920 x 1080 */
+	@media screen and (min-width: 1600px) and (max-width: 2099px) {
+	   
+	    #sincerely-video-1 {
+			width: 492px !important;
+			height: 848px !important;
+		}
+		
 	}
 }
