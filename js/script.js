@@ -468,6 +468,22 @@ $(document).ready(function() {
 		$('#notepad').addClass('display-demo');
 		e.preventDefault();
 	});
+	
+// Argonaut Demo Toggler
+	$('body').on('click', '#bold-is-active', function(e) {
+		$('.set-reg-toggle').addClass('hide');
+		$('.set-bold-toggle').removeClass('hide');
+		$('#notepad-2').removeClass('bold-demo');
+		$('#notepad-2').addClass('reg-demo');
+		e.preventDefault();
+	});
+	$('body').on('click', '#reg-is-active', function(e) {
+		$('.set-bold-toggle').addClass('hide');
+		$('.set-reg-toggle').removeClass('hide');
+		$('#notepad-2').removeClass('reg-demo');
+		$('#notepad-2').addClass('bold-demo');
+		e.preventDefault();
+	});
 		
 	$(document).keydown(function(e) {
 		// Escape
