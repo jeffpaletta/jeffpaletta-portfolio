@@ -25,6 +25,8 @@
 
 
 
+
+
 #hamtown-caption-01 {
 	margin-top: 52vw !important;
 	margin-left: 3vw !important;
@@ -665,6 +667,20 @@
 
 }
 
+
+p.fullscreen-flipbook {
+	margin-top: 36vw;
+	margin-left: 70vw;
+	width: 400px !important;
+}
+
+p.fullscreen-flipbook > a {
+	font-weight: 300;
+	letter-spacing: 1px;
+	color: #cccccc !important;
+	text-decoration: none !important;
+	font-size: 10px !important;
+}
 
 
 
