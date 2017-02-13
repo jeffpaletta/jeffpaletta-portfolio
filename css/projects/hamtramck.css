@@ -1,11 +1,29 @@
 /* hamtramck.css by Jeffrey Paletta */
 
+/*
 #hamtown-flipbook-01 {
 	margin-top: 3vw;
 	margin-left: 25vw;
 	width: 850px !important;
 	height: 637px !important;
 }
+*/
+
+
+#hamtown-flipbook-02 {
+/*
+	margin-top: 14vw;
+	margin-left: -3vw;
+*/
+	margin-top: -10vw;
+	margin-left: 26vw;
+/* 	padding-bottom: 100px !important; */
+	overflow: hidden;
+	width: 1200px !important;
+	height: 1200px !important;
+}
+
+
 
 #hamtown-caption-01 {
 	margin-top: 52vw !important;
