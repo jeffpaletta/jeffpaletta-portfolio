@@ -15,10 +15,21 @@
 	margin-bottom: 12vw;
 }	
 
+/*
 #lorraine-flipbook {
 	margin-top: 14vw;
 	margin-left: -3vw;
 	padding-bottom: 100px !important;
+}
+*/
+
+#lorraine-flipbook {
+	margin-top: 14vw;
+	margin-left: -3vw;
+/* 	padding-bottom: 100px !important; */
+	overflow: hidden;
+	width: 1300px;
+	height: 1200px;
 }
 	
 #lorraine-spacer {
