@@ -17,6 +17,9 @@
 	height: 199px;
 	margin-top: 12vw;
 	margin-left: 42vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 		
 #intergram-caption-2 {
@@ -26,9 +29,12 @@
 		
 #intergram-image-2 {
 	width: 600px;
-	height: 349px;
+	height: 397px;
 	margin-top: 15vw;
 	margin-left: 40vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 		
 #intergram-caption-3 {

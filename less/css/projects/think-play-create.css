@@ -32,6 +32,9 @@
 	height: 461px;
 	margin-top: 24vw;
 	margin-left: 31vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #tpc-caption-3 {
@@ -50,6 +53,10 @@
 	height: 440px;
 	margin-top: 22vw;
 	margin-left: 7vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+
 }
 
 #tpc-caption-4 {

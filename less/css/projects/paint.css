@@ -5,6 +5,9 @@
 	margin-top: -3vw;
 	margin-left: 2vw;
 	z-index: -200;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 	
 #paint-caption-1 {
@@ -81,7 +84,10 @@
 	  float:left;
 	  height:116px !important;
 	  width:150px !important;
-	  background:#fff;
+	  -webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	  -moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	  box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+	  background:#eaeaea;
 	/*   border:1px solid #999; */
 	  margin:20px !important;
 	}

@@ -71,14 +71,17 @@ h5#resume-date {		/* project dates */
 
 #about-image-selfie {
 	width: 280px;
-	height: 248px;
-	margin-top: 16vw;
+	height: 498px;
+	margin-top: 18vw;
 	margin-left: 24vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 		
 
 #about-contact-info {
-	margin-top: 19vw;
+	margin-top: 15vw;
 	margin-left: 23vw !important;
 	}
 	
@@ -97,9 +100,12 @@ h5#resume-date {		/* project dates */
 
 #about-image-diploma {
 	width: 250px;
-	height: 136px;
+	height: 187px;
 	margin-top: 3vw;
 	margin-left: 50vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 	
 				
@@ -126,6 +132,9 @@ h3 > span {
 	height: 150px;
 	margin-top: 6vw;
 	margin-left: 4vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 	
 
@@ -228,6 +237,9 @@ div.exp-table-2 {
 	margin-top: 22vw;
 	margin-left: 57vw;
 	z-index: 100000;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 
 

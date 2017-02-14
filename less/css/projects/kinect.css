@@ -28,6 +28,9 @@
 	height: 500px;
 	margin-top: 20vw;
 	margin-left: 45vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		  -moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		  box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #kinect-caption-1b {
@@ -52,6 +55,9 @@
 	height: 450px;
 	margin-top: 15vw;
 	margin-left: 38vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #kinect-caption-3 {

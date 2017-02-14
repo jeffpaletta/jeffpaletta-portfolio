@@ -7,6 +7,9 @@
 #lorraine-image-1 {
 	margin-top:15vw;
 	margin-left:-6vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #lorraine-caption-2 {	
@@ -60,7 +63,10 @@
 		  float:left;
 		  height:100px !important;
 		  width:150px !important;
-		  background:#fff;
+		  -webkit-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+		  -moz-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
+			box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.20) !important;
+		  background:#eaeaea !important;
 		  margin:20px !important;
 		}
 		

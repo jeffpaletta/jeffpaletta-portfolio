@@ -18,6 +18,9 @@
 	height: 400px;
 	margin-top: 16vw;
 	margin-left: 14vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #sincerely-caption-2 {
@@ -47,6 +50,9 @@
 	height: 600px;
 	margin-top: 19vw;
 	margin-left: 14vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 

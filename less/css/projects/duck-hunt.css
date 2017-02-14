@@ -4,7 +4,10 @@
 	margin-top: 28vw;
 	margin-left: 32vw;
 	width: 800px !important;
-	height: 488px !important;
+	height: 452px !important;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #duck-caption-1 {
@@ -15,7 +18,7 @@
 
 #duck-image-prompt {
 	width: 350px !important;
-	height: 204px !important;
+	height: 210px !important;
 	margin-top: 12vw;
 	margin-left: 15vw;
 }
@@ -57,13 +60,17 @@
 	height: 478px !important;
 	margin-top:17vw;
 	margin-left: 21vw;
-	padding-bottom: 200px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 	
 #duck-process {
-	margin-top: 48vw;
+	margin-top: 49vw;
 	margin-left: 21vw;
+/* 	padding-bottom: 200px; */
+
 }
 
 

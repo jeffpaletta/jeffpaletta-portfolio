@@ -73,7 +73,10 @@
 		  float:left;
 		  height:120px !important;
 		  width:90px !important;
-		  background:#fff;
+		  -webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		  -moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+		  box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+		  background:#eaeaea;
 		  margin:20px !important;
 		}
 		

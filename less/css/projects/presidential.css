@@ -3,8 +3,11 @@
 	margin-top: vw;
 	margin-left: vw;
 	width: 800px !important;
-	height: 488px !important;
+	height: 532px !important;
 	z-index: -9000 !important;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 
@@ -15,6 +18,7 @@
 	margin-top: -2vw !important;
 	margin-left: 2vw;
 	z-index: 10000 !important;
+	
 }
 
 
@@ -37,7 +41,12 @@
 	margin-top: 15vw;
 	margin-left: 7vw;
 	width: 350px !important;
-	height:350px !important;
+	height:370px !important;
+	padding: 20px 0px 20px 0px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+
 }
 
 
@@ -53,6 +62,11 @@
 	margin-left: 44vw;
 	width: 400px !important;
 	height:520px !important;
+	padding: 20px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+
 }
 
 
@@ -68,7 +82,20 @@
 	height: 600px !important;
 	margin-top: 23vw;
 	margin-left: 10vw;
-	padding-bottom: 300px;
+/* 	padding-bottom: 300px; */
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+}
+
+#pres-space {
+	width: 100%;
+	height: 5px !important;
+	background: #fff;
+/* 	padding-bottom: 300px !important; */
+	display: block;
+	color: white !important;
+	margin-top: 60vw !important;
 }
 
 #pres-process {
