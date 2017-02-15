@@ -66,6 +66,17 @@
 }
 
 
+#sincerely-space {
+	width: 100%;
+	height: 5px !important;
+	background: #fff;
+/* 	padding-bottom: 300px !important; */
+	display: block;
+	color: white !important;
+	margin-top: 10vw !important;
+}
+
+
 
 
 
@@ -272,7 +283,7 @@
 	
 	#sincerely-image-1 {	/* LMAO notebook sketch */
 		width: 453px !important;
-		height: 480px !important;
+		height: 478px !important;
 		margin-top: 10vw;
 		margin-left: 15vw;
 	}
@@ -304,7 +315,7 @@
 		height: 720px;
 		margin-top: 13vw;
 		margin-left: 10vw;
-		padding-bottom: 200px;
+/* 		padding-bottom: 200px; */
 	}
 }
 
