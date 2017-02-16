@@ -500,40 +500,45 @@ p.enlarge-button > a:hover {
 */
 
 	#dada-flipbook-chance {
-		margin-top: 5vw;
-		margin-left: 15vw;
+/* 		margin-top: 2vw; */
+		margin-left: 11vw;
 	}
 	
 	#dada-enlarge-chance {
-		margin-top: 40vw;
-		margin-left: 35vw;
+		margin-top: 39vw;
+		margin-left: 31.5vw;
 	}
 	
 	
 	
 	
 	#dada-flipbook-play {
-		margin-top: 5vw;
-		margin-left: 2vw;
+/* 		margin-top: 5vw; */
+		margin-left: -7vw;
 	}
 	
 	#dada-enlarge-play {
-		margin-top: 40vw;
-		margin-left: 22vw;
+		margin-top: 36vw;
+		margin-left: 13vw;
 	}
 	
 	
 	
 	
 	#dada-flipbook-type {
+/*
 		margin-top: 4vw;
 		margin-left: 14vw;
+*/
 	}
 	
 	#dada-enlarge-type {
-		margin-top: 39vw;
-		margin-left: 34vw;
+		margin-top: 36vw;
+		margin-left: 34.5vw;
 	}
+	
+	
+	
 	
 	
 	#dada-video-1 {
@@ -547,7 +552,7 @@ p.enlarge-button > a:hover {
 	}
 	
 	#dada-process {
-		margin-top: 60vw;
+		margin-top: 53vw;
 		margin-left: 10vw;
 	}
 }
