@@ -1,78 +1,210 @@
 /* dada.css by Jeffrey Paletta */
 
+
+
+p.enlarge-button > a {
+	text-align: right !important;
+	font-size: 12px !important;
+	letter-spacing: 1px !important;
+	color: #cccccc !important;
+	text-decoration: none !important;
+}
+
+p.enlarge-button > a:hover {
+	color: #3233ff !important;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
 #dada-caption-1 {
-	margin-top: 4vw;
-	margin-left: 2vw;
+	margin-top: 0vw;
+	margin-left: 0vw;
 /* 	max-width: 25%; */
 }
 
 
+
+
+
+
+/*
 #dada-flipbook-1 {
 	margin-top: 11vw;
 	margin-left: 27vw;
 	width: 850px !important;
 	height: 566px !important;
 }
+*/
+
+#dada-flipbook-chance {
+	margin-top: 5vw;
+	margin-left: 15vw;
+	overflow: hidden;
+	width: 1200px !important;
+	height: 1200px !important;
+}
+
+#dada-enlarge-chance {
+	margin-top: 52vw;
+	margin-left: 42vw;
+	min-width: 200px !important;
+}
+
+
+
+
+
+
 
 
 #dada-caption-2 {
-	margin-top: 48vw;
-	margin-left: 53vw;
+	margin-top: 14vw;
+	margin-left: 20vw;
 }
 
 #dada-caption-2-5 {
-	margin-top: -0.5vw;
-	margin-left: 55vw;
+	margin-top: 0vw;
+	margin-left: 22vw;
 }
 
 
 #dada-caption-3 {
-	margin-top: 27vw;
-	margin-left: -2vw;
+	margin-top: 30vw;
+	margin-left: 0vw;
 }
 
 
+
+
+
+
+
+
+/*
 #dada-flipbook-2 {
 	margin-top: 5vw;
 	margin-left: 2vw;
 	width: 920px !important;
 	height: 613px !important;
 }
+*/
 
-#dada-caption-4 {
-	margin-top: 45vw;
-	margin-left: 15vw;
+#dada-flipbook-play {
+	margin-top: 5vw;
+	margin-left: 2vw;
+	overflow: hidden;
+	width: 1200px !important;
+	height: 1200px !important;
+}
+
+#dada-enlarge-play {
+	margin-top: 52vw;
+	margin-left: 29vw;
+	min-width: 200px !important;
 }
 
 
+
+
+
+
+
+
 #dada-caption-4 {
-	margin-top: 60vw;
-	margin-left: 59vw;
+	margin-top: 30vw;
+	margin-left: 19vw;
 }
 
 
+
+
+
+
+
+
+
+
+/*
 #dada-flipbook-3 {
 	margin-top: 10vw;
 	margin-left: 26vw;
 	width: 920px !important;
 	height: 613px !important;
 }
+*/
+
+#dada-flipbook-type {
+	margin-top: 4vw;
+	margin-left: 14vw;
+	overflow: hidden;
+	width: 1200px !important;
+	height: 1200px !important;
+}
+
+#dada-enlarge-type {
+	margin-top: 50vw;
+	margin-left: 41vw;
+	min-width: 200px !important;
+}
+
+
+
+
+
+
+
+
+
+#dada-caption-5 {
+	margin-top: 32vw;
+	margin-left: 10vw;
+	text-align: center !important;
+	width: 750px !important;
+}
+
+#dada-videos-title {
+	font-size: 18px;
+	font-style: italic;
+/* 	text-decoration: underline; */
+	color: #cccccc;
+}
+
+
+
+
 
 
 #dada-video-1 {
-	margin-top: 63vw;
-	margin-left: vw;
+	margin-top: 2vw;
+	margin-left: 10vw;
+	width: 750px;
+	height: 421px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 
 #dada-video-2 {
-	margin-top: 87vw;
-	margin-left: vw;
+	margin-top: 30vw;
+	margin-left: 10vw;
+	width: 750px;
+	height: 421px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #dada-process {
-	margin-top: 117vw;
-	margin-left: vw;
+	margin-top: 65vw;
+	margin-left: 10vw;
 	padding-bottom: 200px;
 }
 
@@ -177,6 +309,7 @@
 		margin-top: -1vw !important;
 	}
 	
+/*
 	#dada-flipbook-1 {
 		width: 700px !important;
 		height: 466px !important;
@@ -218,6 +351,69 @@
 	#dada-process {
 		margin-top: 121vw !important;
 	}
+*/
+	#dada-flipbook-chance {
+		margin-top: 5vw;
+		margin-left: 10vw;
+	}
+	
+	#dada-enlarge-chance {
+		margin-top: 68vw;
+		margin-left: 46vw;
+	}
+	
+	
+	
+	
+	#dada-flipbook-play {
+		margin-top: 4vw;
+		margin-left: -7vw;
+	}
+	
+	#dada-enlarge-play {
+		margin-top: 67vw;
+		margin-left: 28vw;
+	}
+	
+	
+	
+	
+	#dada-flipbook-type {
+		margin-top: 4vw;
+		margin-left: 3vw;
+	}
+	
+	#dada-enlarge-type {
+		margin-top: 68vw;
+		margin-left: 39vw;
+	}
+	
+	
+	#dada-videos-title {
+		font-size: 15px;
+		font-style: italic;
+	/* 	text-decoration: underline; */
+		color: #cccccc;
+	}
+	
+	
+	
+	#dada-video-1 {
+		margin-top: 4vw;
+		margin-left: 10vw;
+	}
+	
+	#dada-video-2 {
+		margin-top: 38vw;
+		margin-left: 10vw;
+	}
+	
+	#dada-process {
+		margin-top: 80vw;
+		margin-left: 10vw;
+	}
+	
+	
 	
 }
 
@@ -234,6 +430,7 @@
 /* 2100+ */
 @media screen and (min-width: 2100px)	 {
 	
+/*
 	#dada-flipbook-1 {
 		margin-top: 11vw;
 		margin-left: 31vw;
@@ -299,6 +496,59 @@
 		margin-top: 107vw;
 		margin-left: 8vw;
 		padding-bottom: 200px;
+	}
+*/
+
+	#dada-flipbook-chance {
+		margin-top: 5vw;
+		margin-left: 15vw;
+	}
+	
+	#dada-enlarge-chance {
+		margin-top: 40vw;
+		margin-left: 35vw;
+	}
+	
+	
+	
+	
+	#dada-flipbook-play {
+		margin-top: 5vw;
+		margin-left: 2vw;
+	}
+	
+	#dada-enlarge-play {
+		margin-top: 40vw;
+		margin-left: 22vw;
+	}
+	
+	
+	
+	
+	#dada-flipbook-type {
+		margin-top: 4vw;
+		margin-left: 14vw;
+	}
+	
+	#dada-enlarge-type {
+		margin-top: 39vw;
+		margin-left: 34vw;
+	}
+	
+	
+	#dada-video-1 {
+		margin-top: 4vw;
+		margin-left: 10vw;
+	}
+	
+	#dada-video-2 {
+		margin-top: 27vw;
+		margin-left: 10vw;
+	}
+	
+	#dada-process {
+		margin-top: 60vw;
+		margin-left: 10vw;
 	}
 }
 
