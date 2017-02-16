@@ -45,7 +45,7 @@ p.enlarge-button > a:hover {
 
 #dada-flipbook-chance {
 	margin-top: 5vw;
-	margin-left: 15vw;
+	margin-left: 10vw;
 	overflow: hidden;
 	width: 1200px !important;
 	height: 1200px !important;
@@ -53,7 +53,7 @@ p.enlarge-button > a:hover {
 
 #dada-enlarge-chance {
 	margin-top: 52vw;
-	margin-left: 42vw;
+	margin-left: 37vw;
 	min-width: 200px !important;
 }
 
@@ -65,13 +65,13 @@ p.enlarge-button > a:hover {
 
 
 #dada-caption-2 {
-	margin-top: 14vw;
-	margin-left: 20vw;
+	margin-top: 12vw;
+	margin-left: 16vw;
 }
 
 #dada-caption-2-5 {
 	margin-top: 0vw;
-	margin-left: 22vw;
+	margin-left: 18vw;
 }
 
 
@@ -97,8 +97,8 @@ p.enlarge-button > a:hover {
 */
 
 #dada-flipbook-play {
-	margin-top: 5vw;
-	margin-left: 2vw;
+	margin-top: 2vw;
+	margin-left: -9vw;
 	overflow: hidden;
 	width: 1200px !important;
 	height: 1200px !important;
@@ -106,7 +106,7 @@ p.enlarge-button > a:hover {
 
 #dada-enlarge-play {
 	margin-top: 52vw;
-	margin-left: 29vw;
+	margin-left: 18vw;
 	min-width: 200px !important;
 }
 
@@ -119,7 +119,7 @@ p.enlarge-button > a:hover {
 
 #dada-caption-4 {
 	margin-top: 30vw;
-	margin-left: 19vw;
+	margin-left: 20vw;
 }
 
 
@@ -141,7 +141,7 @@ p.enlarge-button > a:hover {
 */
 
 #dada-flipbook-type {
-	margin-top: 4vw;
+	margin-top: 2vw;
 	margin-left: 14vw;
 	overflow: hidden;
 	width: 1200px !important;
@@ -170,7 +170,7 @@ p.enlarge-button > a:hover {
 }
 
 #dada-videos-title {
-	font-size: 18px;
+	font-size: 16px;
 	font-style: italic;
 /* 	text-decoration: underline; */
 	color: #cccccc;
