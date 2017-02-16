@@ -57,6 +57,9 @@
 	margin-left: 8vw;
 	width: 600px !important;
 	height: 600px !important;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 
@@ -74,6 +77,9 @@
 			  	padding-top: 5px !important;
 			} .head-photo-image{
 				width:120px !important;
+				-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+				-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+				box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 			} .head-photo-image:hover{
 				width:120px !important;
 			}
@@ -100,6 +106,9 @@
 			  	padding-top: 5px !important;
 			} .watch-photo-image{
 			  	width:120px !important;
+			  	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+			  	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+			  	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 			} .watch-photo-image:hover{
 			  	width:120px !important;
 			}
@@ -110,6 +119,9 @@
 	margin-left: 44vw;
 	width: 500px !important;
 	height: 281px !important;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #maya-caption-2 {
@@ -124,6 +136,9 @@
 	height: 372px;
 	margin-top: 18vw;
 	margin-left: 20vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 
@@ -141,6 +156,9 @@
 			  	padding-top: 5px !important;
 			} .bowling-photo-image{
 				width:100px !important;
+				-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+				-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+				box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 			} .bowling-photo-image:hover{
 				width:100px !important;
 			}
@@ -169,6 +187,9 @@
 			  	padding-top: 5px !important;
 			} .scene-photo-image{
 				width:100px !important;
+				-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+				-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+				box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 			} .scene-photo-image:hover{
 				width:100px !important;
 			}
@@ -179,6 +200,9 @@
 	margin-left: 34vw;
 	width: 500px !important;
 	height: 281px !important;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 	
 
