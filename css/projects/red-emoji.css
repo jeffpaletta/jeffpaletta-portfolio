@@ -6,18 +6,28 @@
 	height: 576px;
 	margin-top: -1.5vw; 
 	margin-left: -6.5vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #emoji-caption-1 {
-	margin-top: 43vw;
-	margin-left: 51vw;
+	margin-top: 45vw;
+	margin-left: 52vw;
 }
 
 #emoji-image-red-dot {
-	width: 150px;
-	height: 150px;
+	width: 10px;
+	height: 10px;
+	opacity: 0.01 !important;
 	margin-top: 2vw;
-	margin-left: 65vw;
+	margin-left: 62vw;
+	
+/*
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+*/
 }
 	
 /* 
@@ -36,9 +46,12 @@
 
 #emoji-image-button {
 	width: 500px;
-	height: 375px;
+	height: 335px;
 	margin-top: 9vw;
 	margin-left: 9vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 	
 #emoji-caption-3 {
@@ -49,9 +62,12 @@
 #emoji-image-chairs {
 /* 	display: none; */
 	width: 500px;
-	height: 373px;
+	height: 333px;
 	margin-top: 15vw;
 	margin-left: 38vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #emoji-caption-4 {
@@ -61,10 +77,13 @@
 
 #emoji-image-arduino {
 /* 	display: none; */
-	width: 550px;
-	height: 275px;
+	width: 400px;
+	height: 200px;
 	margin-top: 10vw;
-	margin-left: 13vw;
+	margin-left: 15vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }	
 
 #emoji-process {
@@ -115,7 +134,7 @@
 	
 	#emoji-image-button {
 		width: 239px !important;
-		height: 166px !important;
+		height: 159px !important;
 		margin-top: 9vw;
 		margin-left: 14vw;
 	}
@@ -127,7 +146,7 @@
 		
 	#emoji-image-chairs {
 		width: 222px !important;
-		height: 166px !important;
+		height: 159px !important;
 		margin-top: 14vw;
 		margin-left: 36vw;
 	}
@@ -138,10 +157,10 @@
 	}
 	
 	#emoji-image-arduino {
-		width: 242px !important;
-		height: 121px !important;
+		width: 200px !important;
+		height: 100px !important;
 		margin-top: 10vw;
-		margin-left: 13vw;
+		margin-left: 15vw;
 	}	
 	
 	#emoji-process {
@@ -191,7 +210,7 @@
 	
 	#emoji-image-button {
 		width: 347px !important;
-		height: 260px !important;
+		height: 231px !important;
 		margin-top: 14vw;
 		margin-left: 14vw;
 	}
@@ -203,7 +222,7 @@
 		
 	#emoji-image-chairs {
 		width: 349px !important;
-		height: 261px !important;
+		height: 231px !important;
 		margin-top: 15vw;
 		margin-left: 38vw;
 	}
@@ -214,10 +233,10 @@
 	}
 	
 	#emoji-image-arduino {
-		width: 382px !important;
-		height: 191px !important;
+		width: 300px !important;
+		height: 150px !important;
 		margin-top: 10vw;
-		margin-left: 13vw;
+		margin-left: 15vw;
 	}	
 	
 	#emoji-process {
@@ -241,15 +260,19 @@
 	}
 	
 	#emoji-caption-1 {
+/*
 		margin-top: 42vw;
 		margin-left: 55vw;
+*/
 	}
 	
 	#emoji-image-red-dot {
-		width: 40px;
-		height: 40px;
+/*
+		width: 100px;
+		height: 100px;
 		margin-top: 1vw;
 		margin-left: 54vw;
+*/
 	}	
 	
 	#emoji-caption-2 {
@@ -259,7 +282,7 @@
 	
 	#emoji-image-button {
 		width: 500px;
-		height: 375px;
+		height: 333px;
 		margin-top: 9vw;
 		margin-left: 14vw;
 	}
@@ -271,7 +294,7 @@
 		
 	#emoji-image-chairs {
 		width: 500px;
-		height: 373px;
+		height: 333px;
 		margin-top: 12vw;
 		margin-left: 38vw;
 	}
@@ -282,10 +305,12 @@
 	}
 	
 	#emoji-image-arduino {
+/*
 		width: 550px;
 		height: 275px;
+*/
 		margin-top: 10vw;
-		margin-left: 13vw;
+/* 		margin-left: 13vw; */
 	}	
 	
 	#emoji-process {
@@ -326,7 +351,7 @@
 	
 	#emoji-image-button {
 		width: 500px !important;
-		height: 375px !important;
+		height: 333px !important;
 		margin-top: 9vw;
 		margin-left: 18vw;
 	}
@@ -338,7 +363,7 @@
 		
 	#emoji-image-chairs {
 		width: 598px !important;
-		height: 446px !important;
+		height: 398px !important;
 		margin-top: 12vw;
 		margin-left: 46vw;
 	}
@@ -349,10 +374,10 @@
 	}
 	
 	#emoji-image-arduino {
-		width: 657px !important;
-		height: 328px !important;
+		width: 450px !important;
+		height: 225px !important;
 		margin-top: 10vw;
-		margin-left: 13vw;
+		margin-left: 15vw;
 	}	
 	
 	#emoji-process {

@@ -10,6 +10,9 @@
 	height: 664px;
 	margin-top: -4vw;
 	margin-left: 15vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #clearance-caption-0 {
@@ -94,9 +97,12 @@ acaption-is-active {
 
 #clearance-image-yellow {
 	width: 370px;
-	height: 364px;
+	height: 284px;
 	margin-top: 9vw;
 	margin-left: 44vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #clearance-caption-1 {
@@ -112,6 +118,9 @@ acaption-is-active {
 	height: 315px;
 	margin-top: 16vw;
 	margin-left: 26vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #clearance-caption-2 {
@@ -139,6 +148,9 @@ acaption-is-active {
 	height: 283px;
 	margin-top: 17vw;
 	margin-left: 51vw;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #clearance-caption-3 {
@@ -206,7 +218,7 @@ acaption-is-active {
 	
 	#clearance-image-yellow {
 		width: 200px;
-		height: 195px;
+		height: 153px;
 		margin-top: 10vw !important;
 		margin-left: 45vw !important;
 	}
@@ -319,7 +331,7 @@ acaption-is-active {
 	
 	#clearance-image-yellow {
 		width: 290px;
-		height: 284px;
+		height: 223px;
 		margin-top: 8vw !important;
 		margin-left: 43vw !important;
 	}
@@ -469,7 +481,7 @@ acaption-is-active {
 	
 	#clearance-image-yellow {
 		width: 444px !important;
-		height: 460px !important;
+		height: 341px !important;
 		margin-top: 10vw;
 		margin-left: 48vw;
 	}

@@ -3,8 +3,11 @@
 	margin-top: vw;
 	margin-left: vw;
 	width: 800px !important;
-	height: 488px !important;
+	height: 532px !important;
 	z-index: -9000 !important;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #pres-image-logo {
@@ -59,7 +62,20 @@
 	height: 600px !important;
 	margin-top: 23vw;
 	margin-left: 10vw;
-	padding-bottom: 300px;
+	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
+	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
+/* 	padding-bottom: 300px; */
+}
+
+#pres-space {
+	width: 100%;
+	height: 5px !important;
+	background: #fff;
+/* 	padding-bottom: 300px !important; */
+	display: block;
+	color: white !important;
+	margin-top: 60vw !important;
 }
 
 #pres-process {
@@ -149,7 +165,7 @@
 		margin-top: 12vw;
 		margin-left: 1vw;
 		width: 336px !important;
-		height: 204px !important;
+		height: 223px !important;
 	}
 	
 	#pres-image-logo {
@@ -214,7 +230,7 @@
 		margin-top: 2vw;
 		margin-left: 2.5vw;
 		width: 560px !important;
-		height: 341px !important;
+		height: 372px !important;
 	}
 	
 	#pres-image-logo {
@@ -276,7 +292,7 @@
 	
 	#pres-image-1 {
 		width: 1000px !important;
-		height: 666px !important;
+		height: 665px !important;
 	}
 	
 	#pres-image-logo {
