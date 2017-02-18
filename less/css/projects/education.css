@@ -135,8 +135,6 @@
 	#education-caption-2,
 	#education-caption-3,
 	#education-process {
-		font-size: 8px !important;
-		line-height: 13px !important;
 	}
 	
 	#education-video-1 {
@@ -214,14 +212,12 @@
 
 
 /* 1336 x 768 */
-@media screen and (min-width: 1200px) and (max-width: 1599px) {
+@media screen and (min-width: 1200px) and (max-width: 1699px) {
 	
 	#education-caption-1,
 	#education-caption-2,
 	#education-caption-3,
 	#education-process {
-		font-size: 11px !important;
-/* 		line-height: 18px !important; */
 	}
 	
 	#education-video-1 {
@@ -232,29 +228,19 @@
 	}
 	
 	#education-caption-1 {
-/* 		margin-left:2vw;  */
 		margin-top: 53vw;
 	}
 	
 	#education-image-1 {
 		width: 325px !important;
 		height: 236px !important;
-/* 		margin-top: 7vw; */
-/* 		margin-left: 12vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
-	
-	#education-caption-2 {
-/* 		margin-left: 52vw;  */
-/* 		margin-top: 15vw !important; */
-	}
-	
+		
 	.education-gallery-container{
 	  max-width:450px !important;
-/* 	  margin-top:7vw !important; */
-/* 	  margin-left: 40vw !important; */
 	}
 	
 			.education-gallery-image{
@@ -271,23 +257,14 @@
 			  width:104px !important;
 			}
 			
-	#education-caption-3 {
-/* 		margin-left:5vw;  */
-/* 		margin-top: 18vw; */
-	}
 	
 	#education-process {
-/* 		margin-top: 1vw; */
-/* 		margin-left: 5vw; */
 		padding-bottom: 100px;
 	}
 	
 	#education-image-2 {
-/* 		display: none; */
 		width: 238px !important;
 		height: 344px !important;
-/* 		margin-top: 4vw; */
-/* 		margin-left: 20vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -299,29 +276,16 @@
 
 
 /* 1920 x 1080 */
-@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
+@media screen and (min-width: 1700px) and (max-width: 2099px)	 {
 	
 	#education-video-1 {
 		width: 1149px;
 		height: 710px;
-/* 		margin-top:-10vw;  */
-/* 		margin-left:24vw; */
-	}
-	
-	#education-caption-1 {
-/*
-		margin-left:2vw; 
-		margin-top: 37vw;
-*/
 	}
 	
 	#education-image-1 {
 		width: 400px;
 		height: 290px;
-/*
-		margin-top: 5vw;
-		margin-left: 14vw;
-*/
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -351,24 +315,14 @@
 			.education-photo-image:hover{
 			  width:150px !important;
 			}
-			
-	#education-caption-3 {
-/* 		margin-left:5vw;  */
-/* 		margin-top: 18vw; */
-	}
-	
+				
 	#education-process {
-/* 		margin-top: 1vw; */
-/* 		margin-left: 5vw; */
 		padding-bottom: 150px;
 	}
 	
 	#education-image-2 {
-/* 		display: none; */
 		width: 345px;
 		height: 500px;
-/* 		margin-top: 4vw; */
-/* 		margin-left: 20vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -389,34 +343,18 @@
 	#education-video-1 {
 		width: 1380px !important;
 		height: 852px !important;
-/* 		margin-top:-10vw;  */
-/* 		margin-left:24vw; */
-	}
-	
-	#education-caption-1 {
-/* 		margin-left:2vw;  */
-/* 		margin-top: 35vw; */
 	}
 	
 	#education-image-1 {
 		width: 550px !important;
 		height: 399px !important;
-/* 		margin-top: 6vw; */
-/* 		margin-left: 14vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 	}
 	
-	#education-caption-2 {
-/* 		margin-left: 52vw;  */
-/* 		margin-top: 14vw; */
-	}
-	
 	.education-gallery-container{
 	  max-width:750px !important;
-/* 	  margin-top:9vw !important; */
-/* 	  margin-left: 40vw !important; */
 	}
 	
 			.education-gallery-image{
@@ -433,11 +371,6 @@
 			  width:180px !important;
 			}
 			
-	#education-caption-3 { 
-/* 		margin-top: 18vw; */
-/* 		margin-left: 5vw; */
-	}
-	
 	#education-process {
 		margin-top: 1vw;
 		margin-left: 5vw;
@@ -448,8 +381,6 @@
 		display: block !important;
 		width: 414px !important;
 		height: 600px !important;
-/* 		margin-top: 3vw; */
-/* 		margin-left: 20vw; */
 		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);

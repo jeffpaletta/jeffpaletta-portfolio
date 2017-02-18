@@ -11,7 +11,7 @@
 }
 
 #duck-caption-1 {
-	margin-top: 17vw;
+	margin-top: 20vw;
 	margin-left: 3vw;
 	max-width: 390px;
 }
@@ -20,7 +20,7 @@
 	width: 350px !important;
 	height: 210px !important;
 	margin-top: 12vw;
-	margin-left: 15vw;
+	margin-left: 12vw;
 }
 
 #duck-caption-1b {
@@ -30,36 +30,36 @@
 }
 
 #duck-image-gun {
-	margin-top: 9vw;
-	margin-left: 15vw;
-	width: 600px !important;
-	height: 239px !important;
+	margin-top: 10vw;
+	margin-left: 25vw;
+	width: 500px !important;
+	height: 199px !important;
 }
 	
 #duck-caption-2 {
-	margin-top: 22vw;
-	margin-left: 36vw;
+	margin-top: 28vw;
+	margin-left: 39vw;
 	max-width: 350px;
 }
 
 #duck-image-sprite {
-	margin-top: 11vw;
-	margin-left: 10vw;
+	margin-top: 10vw;
+	margin-left: 23vw;
 	width: 300px !important;
 	height: 258px !important;
 }
 
 #duck-caption-2b {
-	margin-top: 15vw;
-	margin-left: 57vw;
+	margin-top: 18vw;
+	margin-left: 52vw;
 	max-width: 380px;
 }
 
 #duck-video-1 {
 	width: 850px !important;
 	height: 478px !important;
-	margin-top:17vw;
-	margin-left: 21vw;
+	margin-top:14vw;
+	margin-left: 25vw;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -67,8 +67,8 @@
 
 	
 #duck-process {
-	margin-top: 49vw;
-	margin-left: 21vw;
+	margin-top: 47vw;
+	margin-left: 25vw;
 /* 	padding-bottom: 200px; */
 
 }
@@ -78,9 +78,9 @@
 	border:none;
 	width:600px;
 	height: 800px !important;
-	margin-top: 24vw;
-	margin-left: 4vw;
-	padding-bottom: 300px !important;
+	margin-top: 28vw;
+	margin-left: 7vw;
+	padding-bottom: 800px !important;
 }
 	
 	
@@ -94,19 +94,17 @@
 	#duck-caption-2,
 	#duck-caption-2b,
 	#duck-process {
-		font-size: 8px !important;
-		line-height: 13px !important;
 	}
 	
 	#duck-image-1 {
 		margin-top: 40vw;
 		width: 364px !important;
-		height: 221px !important;
+		height: 205px !important;
 	}
 	
 	#duck-image-prompt {
-		width: 158px !important;
-		height: 91px !important;
+		width: 180px !important;
+		height: 103px !important;
 	}
 	
 	#duck-image-gun {
@@ -124,16 +122,17 @@
 	}
 	
 	#duck-video-1 {
-		width: 376px !important;
-		height: 211px !important;
+		width: 400px !important;
+		height: 224px !important;
 	}
 	
 	#duck-process {
 	}
 	
 	#duck-code {
-		width:300px;
-		height: 600px !important;
+		display: none !important;
+/* 		width:300px; */
+/* 		height: 600px !important; */
 	}
 }
 
@@ -147,13 +146,11 @@
 	#duck-caption-2,
 	#duck-caption-2b,
 	#duck-process {
-		font-size: 11px !important;
-		line-height: 18px !important;
 	}
 	
 	#duck-image-1 {
 		width: 560px !important;
-		height: 341px !important;
+		height: 316px !important;
 	}
 	
 	#duck-image-prompt {
@@ -162,8 +159,8 @@
 	}
 		
 	#duck-image-gun {
-		width: 420px !important;
-		height: 167px !important;
+		width: 380px !important;
+		height: 151px !important;
 	}
 		
 	#duck-image-sprite {
@@ -205,8 +202,8 @@
 	}
 	
 	#duck-image-gun {
-		width: 720px !important;
-		height: 286px !important;
+/* 		width: 720px !important; */
+/* 		height: 286px !important; */
 	}
 		
 	#duck-image-sprite {
