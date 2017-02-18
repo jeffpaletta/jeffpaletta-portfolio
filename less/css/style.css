@@ -1519,22 +1519,183 @@ s {
 
 
 
-/* Lazy Temp Color Override */
-/*
-body,
-a,
-::selection,
-body:not(.loading) nav li a:hover,
-body.colour-2:not(.loading) nav li a:hover,
-.symbol #header,
-nav li .title,
-nav li .title-2,
-.colour-2 nav li .title,
-.colour-2 .link-1,.colour-2 .link-1 a,.colour-2 .link-1 .title,.colour-2 .link-1 .title-2,
-.colour-2 nav li.active,.colour-2 nav li.active a,.colour-2 nav li.active .title,
-.colour-2 p a,
-.colour-2 .triangle,
-.link-underline {
-    color: #000000 !important;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/********* BEGIN ********
+	*						*
+	*						*
+	*		TEXT SIZE		*
+	*						*
+	*						*
+	*************************/
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
 }
-*/
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
+	
+	.copy > p, .copy > a {
+		font-size: smaller !important;
+		line-height: 180% !important;
+/* 		color: red !important; */
+	}
+	
+	.copy > p > a {
+/* 		color: green !important; */
+	}
+}
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
+	
+	.copy > p, .copy > a {
+		font-size: small !important;
+		line-height: 170% !important;
+	}
+	
+	.copy > p > a {
+	}
+}
+
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	.copy > p, .copy > a {
+		font-size: small !important;
+		line-height: 170% !important;
+	}
+}
+
+
+	/************************
+	*						*
+	*						*
+	*		TEXT SIZE		*
+	*						*
+	*						*
+	********** END **********/
+
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	/*********** BEGIN ************
+	*							  *
+	*							  *
+	*		ENLARGE BUTTONS		  *
+	*							  *
+	*							  *
+	*******************************/
+
+
+div.enlarge-container {
+	text-align: center !important;
+/* 	max-height: 50px !important; */
+	color: #cccccc;
+}
+
+p.enlarge-button > a {
+/* 	font-size: 12px; */
+ 	text-align: left; 
+	letter-spacing: 1px !important;
+	color: #cccccc !important;
+	text-decoration: none !important;
+}
+
+p.enlarge-button > a:hover {
+	color: #3233ff !important;
+	text-decoration: underline;
+}
+
+
+/* 800 x 600 */
+@media screen and (min-width: 701px) and (max-width: 1199px)  {
+	
+	p.enlarge-button > a {
+		font-size: 8px !important;
+	}
+}
+
+
+/* 1336 x 768 */
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
+	
+	div.enlarge-container {
+		width: 820px !important;
+	}
+	
+	p.enlarge-button > a {
+		font-size: x-small !important;
+/* 		color: lime !important; */
+	}
+}
+
+
+/* 1920 x 1080 */
+@media screen and (min-width: 1600px) and (max-width: 2099px)	 {
+	
+	div.enlarge-container {
+		width: 1100px !important;
+	}
+	
+	p.enlarge-button > a {
+		font-size: 12px !important;
+	}
+}
+
+
+/* 2100+ */
+@media screen and (min-width: 2100px)	 {
+	
+	p.enlarge-button > a {
+		font-size: 12px !important;
+	}
+}
+
+
+	/******************************
+	*							  *
+	*							  *
+	*		ENLARGE BUTTONS		  *
+	*							  *
+	*							  *
+	************* END *************/
+
+
+
+
+
+
+
+
+
+

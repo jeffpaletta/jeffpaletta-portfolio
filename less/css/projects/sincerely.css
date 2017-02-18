@@ -16,8 +16,8 @@
 #sincerely-image-1 {	/* LMAO notebook sketch */
 	width: 378px;
 	height: 400px;
-	margin-top: 16vw;
-	margin-left: 14vw;
+	margin-top: 20vw;
+	margin-left: 13vw;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
@@ -32,39 +32,28 @@
 	width: 700px;
 	height: 137px;
 	margin-top: 19vw;
-	margin-left: 30vw;
+	margin-left: 35vw;
 }
 
 #sincerely-caption-3 {
-	margin-top: 15vw; 
-	margin-left: 55vw;	
+	margin-top: 12vw; 
+	margin-left: 53vw;	
 }
 
 #sincerely-process {
-	margin-top: -2vw;
-	margin-left: 55vw;
+	margin-top: -3.5vw;
+	margin-left: 53vw;
 }
 
 #sincerely-image-4 {	/* Picture message with text */
-	width: 450px;
-	height: 600px;
-	margin-top: 19vw;
-	margin-left: 14vw;
+	width: 350px;
+	height: 466px;
+	margin-top: 25vw;
+	margin-left: 40vw;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
-
-
-#sincerely-image-3 {	/* Message failed then Scanning */
-/*
-	width: 238px;
-	height: 300px;
-	margin-top: 50vw;
-	margin-left: 2vw;
-*/
-}
-
 
 #sincerely-space {
 	width: 100%;
@@ -95,8 +84,6 @@
 	#sincerely-caption-2,
 	#sincerely-caption-3,
 	#sincerely-process {
-		font-size: 8px !important;
-		line-height: 12px !important;
 	}
 	
 	#sincerely-video-1 {
@@ -114,37 +101,35 @@
 	#sincerely-image-1 {	/* LMAO notebook sketch */
 		width: 150px !important;
 		height: 160px !important;
-		margin-top: 13vw;
-		margin-left: 1vw;
+/* 		margin-top: 13vw; */
+/* 		margin-left: 1vw; */
 	}
 	
 	#sincerely-caption-2 {
-		margin-top: 10vw; 
-		margin-left: 5vw;	
+/* 		margin-top: 10vw;  */
+/* 		margin-left: 5vw;	 */
 	}
 	
 	#sincerely-image-2 {	/* Roll on floor laughing prompt */
 		width: 341px !important;
 		height: 66px !important;
-		margin-top: 15vw;
-		margin-left: 35vw !important;
+/* 		margin-top: 15vw; */
+/* 		margin-left: 35vw !important; */
 	}
 	
 	#sincerely-caption-3 {
-		margin-top: 13vw; 
-		margin-left: 50vw;	
+/* 		margin-top: 13vw;  */
+/* 		margin-left: 50vw;	 */
 	}
 	
 	#sincerely-process {
-		margin-top: -2vw;
-		margin-left: 50vw;
+/* 		margin-top: -2vw; */
+/* 		margin-left: 50vw; */
 	}
 	
 	#sincerely-image-4 {	/* Picture message with text */
 		width: 179px !important;
 		height: 239px !important;
-		margin-top: 11vw;
-		margin-left: 10vw;
 	}
 }
 
@@ -157,8 +142,6 @@
 	#sincerely-caption-2,
 	#sincerely-caption-3,
 	#sincerely-process {
-		font-size: 11px !important;
-		line-height: 18px !important;
 	}
 	
 	#sincerely-video-1 {
@@ -167,46 +150,20 @@
 		margin-top: -5vw; 
 		margin-left: 1vw;
 	}
-	
-	#sincerely-caption-1 {
-		margin-top: 42vw; 
-		margin-left: 56vw;	
-	}
-	
+		
 	#sincerely-image-1 {	/* LMAO notebook sketch */
 		width: 264px !important;
-		height: 280px !important;
-		margin-top: 10vw;
-		margin-left: 12vw;
-	}
-	
-	#sincerely-caption-2 {
-		margin-top: 12vw; 
-		margin-left: 1vw;	
+		height: 278px !important;
 	}
 	
 	#sincerely-image-2 {	/* Roll on floor laughing prompt */
 		width: 490px !important;
 		height: 95px !important;
-		margin-top: 15vw;
-		margin-left: 35vw !important;
-	}
-	
-	#sincerely-caption-3 {
-		margin-top: 13vw; 
-		margin-left: 55vw;	
-	}
-	
-	#sincerely-process {
-		margin-top: -2vw;
-		margin-left: 55vw;
 	}
 	
 	#sincerely-image-4 {	/* Picture message with text */
-		width: 263px !important;
-		height: 420px !important;
-		margin-top: 13vw;
-		margin-left: 10vw;
+		width: 250px !important;
+		height: 333px !important;
 	}
 }
 
@@ -215,53 +172,6 @@
 /* 1920 x 1080 */
 @media screen and (min-width: 1600px) and (max-width: 2099px) {
    
-    #sincerely-video-1 {
-/* 		width: 492px !important; */
-/* 		height: 850px !important; */
-/* 		margin-top: -5vw;  */
-/* 		margin-left: 1vw; */
-	}
-	
-	#sincerely-caption-1 {
-/* 		margin-top: 42vw;  */
-/* 		margin-left: 61vw;	 */
-	}
-	
-	#sincerely-image-1 {	/* LMAO notebook sketch */
-/* 		width: 307px !important; */
-/* 		height: 325px !important; */
-/* 		margin-top: 10vw; */
-/* 		margin-left: 12vw; */
-	}
-	
-	#sincerely-caption-2 {
-/* 		margin-top: 10vw;  */
-/* 		margin-left: 4vw;	 */
-	}
-	
-	#sincerely-image-2 {	/* Roll on floor laughing prompt */
-/* 		width: 700px; */
-/* 		height: 137px; */
-/* 		margin-top: 15vw; */
-/* 		margin-left: 46vw; */
-	}
-	
-	#sincerely-caption-3 {
-/* 		margin-top: 12vw;  */
-/* 		margin-left: 41vw;	 */
-	}
-	
-	#sincerely-process {
-/* 		margin-top: -2vw; */
-/* 		margin-left: 41vw; */
-	}
-	
-	#sincerely-image-4 {	/* Picture message with text */
-/* 		width: 375px; */
-/* 		height: 500px; */
-/* 		margin-top: 15vw; */
-/* 		margin-left: 10vw; */
-	}
 }
 
 

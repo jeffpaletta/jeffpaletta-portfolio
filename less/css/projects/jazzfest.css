@@ -1,7 +1,7 @@
 /* jazzfest.css by Jeffrey Paletta */
 
 #jazz-image-1 {
-	margin-top: 30vw;
+	margin-top: 20vw;
 	margin-left: 12vw;
 	width: 480px;
 	height: 800px;
@@ -11,12 +11,12 @@
 }
 
 #jazz-caption-1 {
-	margin-top: 14vw;
-	margin-left: vw;
+	margin-top: 17vw;
+	margin-left: 4vw;
 }
 
 #jazz-image-scales {
-	margin-top: 18vw;
+	margin-top: 20vw;
 	margin-left: 44vw;
 	width: 480px !important;
 	height: 682px !important;
@@ -26,40 +26,29 @@
 }
 
 #jazz-caption-2 {
-	margin-top: 13vw;
-	margin-left: 36vw;
+	margin-top: 15vw;
+	margin-left: 38vw;
 }
 
-/*
-#jazz-image-alt-poster {
-	margin-top: 19vw;
-	margin-left: 12vw;
-	width: 383px;
-	height: 600px;
-	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
-}
-*/
 
 #jazz-image-text {
-	width: 600px;
-	height: 282px;
-	margin-top: 25vw;
-	margin-left: 2vw;
+	width: 520px;
+	height: 244px;
+	margin-top: 28vw;
+	margin-left: 9vw;
 	-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
 	box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
 }
 
 #jazz-caption-3 {
-	margin-top: 13vw;
-	margin-left: 16vw;
+	margin-top: 14vw;
+	margin-left: 13vw !important;
 }
 
 #jazz-process {
 	margin-top: 2vw;
-	margin-left: 16vw;
+	margin-left: 13vw;
 	padding-bottom: 200px;
 }
 
@@ -75,8 +64,10 @@
 	#jazz-caption-2,
 	#jazz-caption-3,
 	#jazz-process {
+/*
 		font-size: 8px !important;
 		line-height: 13px !important;
+*/
 	}
 	
 	#jazz-image-1 {
@@ -97,19 +88,7 @@
 	.remove-br {
 		display: none !important;
 	}
-	
-/*
-	#jazz-image-alt-poster {
-		margin-top: 18vw !important;
-		margin-left: 41vw !important;
-		width: 213px !important;
-		height: 335px !important;
-		-webkit-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
-		-moz-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
-		box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.20) !important;
-	}
-*/
-	
+		
 	#jazz-image-scales {
 		margin-top: 14vw;
 		margin-left: 47vw;
@@ -126,8 +105,8 @@
 	}
 	
 	#jazz-image-text {
-		width: 273px;
-		height: 128px;
+		width: 200px;
+		height: 94px;
 		margin-top: 21vw;
 		margin-left: 2vw;
 		-webkit-box-shadow: 5px 5px 22px -4px rgba(0,0,0,0.25) !important;
@@ -158,8 +137,6 @@
 	#jazz-caption-2,
 	#jazz-caption-3,
 	#jazz-process {
-		font-size: 11px !important;
-		line-height: 18px !important;
 	}
 	
 	#jazz-image-1 {
@@ -170,49 +147,21 @@
 	}
 	
 	#jazz-caption-1 {
-/* 		margin-top: 11vw !important; */
 		margin-left: 2vw !important;
 	}
 	
 	#jazz-image-scales {
-/* 		margin-top: 14vw; */
-/* 		margin-left: 47vw; */
 		width: 315px !important;
 		height: 448px !important;
-	}
-	
-	#jazz-caption-2 {
-/* 		margin-top: 11vw; */
-/* 		margin-left: 36vw; */
-	}
-	
-	/*
-	#jazz-image-alt-poster {
-		margin-top: 19vw;
-		margin-left: 12vw;
-		width: 383px;
-		height: 600px;
-		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
-	}
-	*/
+	}	
 	
 	#jazz-image-text {
-		width: 420px;
-		height: 197px;
-/* 		margin-top: 21vw; */
-/* 		margin-left: 2vw; */
+		width: 320px;
+		height: 150px;
 	}
 	
-	#jazz-caption-3 {
-/* 		margin-top: 11vw; */
-/* 		margin-left: 13vw; */
-	}
 	
 	#jazz-process {
-/* 		margin-top: 2vw; */
-/* 		margin-left: 13vw; */
 		padding-bottom: 200px;
 	}
 }
@@ -248,21 +197,10 @@
 		margin-left: 36vw;
 	}
 	
-	/*
-	#jazz-image-alt-poster {
-		margin-top: 19vw;
-		margin-left: 12vw;
-		width: 383px;
-		height: 600px;
-		-webkit-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-		-moz-box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.25);
-		box-shadow: 10px 10px 45px -8px rgba(0,0,0,0.20);
-	}
-	*/
 	
 	#jazz-image-text {
-		width: 720px;
-		height: 338px;
+		width: 600px;
+		height: 282px;
 		margin-top: 21vw;
 		margin-left: 2vw;
 	}
