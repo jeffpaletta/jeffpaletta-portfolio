@@ -60,8 +60,6 @@
 	#intergram-caption-2,
 	#intergram-caption-3,
 	#intergram-process {
-		font-size: 8px !important;
-		line-height: 13px !important;
 	}
 	
 	#intergram-video-1 {
@@ -116,8 +114,6 @@
 	#intergram-caption-2,
 	#intergram-caption-3,
 	#intergram-process {
-		font-size: 11px !important;
-		line-height: 18px !important;
 	}
 	
 	#intergram-video-1 {
@@ -129,19 +125,15 @@
 		
 	#intergram-caption-1 {
 		margin-top: 53vw;
-/* 		margin-left: 56vw; */
 	}
 			
 	#intergram-image-1 {
 		width: 420px !important;
 		height: 167px !important;
-/* 		margin-top: 17vw; */
-/* 		margin-left: -1vw; */
 	}
 			
 	#intergram-caption-2 {
 		margin-top: 21vw;
-/* 		margin-left: 12vw; */
 	}
 			
 	#intergram-image-2 {
@@ -157,7 +149,6 @@
 	}
 			
 	#intergram-process {
-/* 		margin-top: 3vw; */
 		margin-left: 26vw;
 		padding-bottom: 200px;
 	}

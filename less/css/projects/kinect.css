@@ -88,8 +88,10 @@
 	#kinect-caption-2,
 	#kinect-caption-3,
 	#kinect-process {
+/*
 		font-size: 8px !important;
 		line-height: 12px !important;
+*/
 	}
 	
 	#kinect-video-1 {
@@ -143,26 +145,16 @@
 	#kinect-video-2 {
 		width: 268px;
 		height: 201px;
-/* 		margin-top: 10vw; */
-/* 		margin-left: 38vw; */
 	}
 	
 	#kinect-caption-3 {
 		margin-top: 60vw;
-/* 		margin-left: 3vw; */
-	}
-	
-	#kinect-process {
-/* 		margin-top: 2vw; */
-/* 		margin-left: 3vw; */
 	}
 	
 	#kinect-code-1 {
-		width: 350px;
-		height: 500px;
-/* 		margin-top: 14vw; */
-/* 		margin-left: 13vw; */
-/* 		padding-bottom: 150px; */
+/* 		width: 350px; */
+/* 		height: 500px; */
+		display: none !important;
 	}
 }
 
@@ -176,8 +168,10 @@
 	#kinect-caption-2,
 	#kinect-caption-3,
 	#kinect-process {
+/*
 		font-size: 11px !important;
 		line-height: 18px !important;
+*/
 	}
 	
 	#kinect-video-1 {
@@ -270,11 +264,6 @@
 		height: 864px;
 	}
 		
-	#kinect-caption-1 {
-/* 		margin-top: 39vw; */
-/* 		margin-left: -2vw; */
-	}
-		
 	#kinect-image-sensor {
 		width: 600px;
 		height: 195px;
@@ -283,49 +272,62 @@
 	#kinect-video-3 {
 		width: 600px;
 		height: 600px;
-/* 		margin-top: 13vw; */
-/* 		margin-left: 45vw; */
-	}
-	
-	#kinect-caption-1b {
-/* 		margin-top: 48vw; */
-/* 		margin-left: 38vw; */
 	}
 	
 	#kinect-image-diagram {
 		width: 600px;
 		height: 600px;
-/* 		margin-top: 12vw; */
-/* 		margin-left: 3vw; */
 	}
-	
-	#kinect-caption-2 {
-/* 		margin-top: 14vw; */
-/* 		margin-left: 59vw; */
-		}
 
 	#kinect-video-2 {
 		width: 650px;
 		height: 487px;
-/* 		margin-top: 10vw; */
-/* 		margin-left: 38vw; */
 	}
-	
-	#kinect-caption-3 {
-/* 		margin-top: 50vw; */
-/* 		margin-left: 15vw; */
-	}
-	
-	#kinect-process {
-/* 		margin-top: 2vw; */
-/* 		margin-left: 15vw; */
-	}
-	
+		
 	#kinect-code-1 {
 		width: 700px;
 		height: 1000px;
-/* 		margin-top: 14vw; */
-/* 		margin-left: 23vw; */
-/* 		padding-bottom: 150px; */
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1280 x 800 */
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+}
+
+
+
+/* 1680 x 1050 */
+@media screen and (min-width: 1600px) and (max-width: 1800px) {
+}
+
+
+
+
+
+

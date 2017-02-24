@@ -129,8 +129,6 @@
 	#wooemmaii-caption-2,
 	#wooemmaii-caption-3,
 	#wooemmaii-process {
-		font-size: 8px !important;
-		line-height: 13px !important;
 	}
 	
 	#wooemmaii-video-1 {
@@ -207,8 +205,6 @@
 	#wooemmaii-caption-2,
 	#wooemmaii-caption-3,
 	#wooemmaii-process {
-		font-size: 11px !important;
-/* 		line-height: 11px !important; */
 	}
 	
 	#wooemmaii-video-1 {
@@ -362,3 +358,51 @@
 				
 				
 				
+
+
+
+
+
+
+
+
+
+/* 1280 x 800 */
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+	
+}
+
+
+
+/* 1680 x 1050 */
+@media screen and (min-width: 1600px) and (max-width: 1800px) {
+	
+
+/*
+	#wooemmaii-video-1 {
+		margin-top: vw;
+		margin-left: 8.8vw;
+		width: 1100px;
+		height: 660px;
+	}
+*/
+
+
+	#wooemmaii-caption-1 {
+		margin-top: 58vw !important;
+		margin-left: 2vw;
+	}
+	
+	#wooemmaii-caption-2 {
+		margin-top: 26vw;
+		margin-left: 53vw;
+	}
+	
+	#wooemmaii-image-1 {
+		margin-top: 14vw;
+		margin-left: 14vw;
+		width: 260px;
+		height: 350px;
+		}
+
+}

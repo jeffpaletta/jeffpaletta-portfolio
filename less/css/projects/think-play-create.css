@@ -84,8 +84,6 @@
 	#tpc-caption-3-small,
 	#tpc-caption-4,
 	#tpc-process-link {
-		font-size: 8px !important;
-		line-height: 13px !important;
 	}
 	
 	#tpc-video-1 {
@@ -120,13 +118,15 @@
 	}
 	
 	#tpc-caption-3 {
-		display: none !important;
+/* 		display: none !important; */
 	}
 	
 	#tpc-caption-3-small {
+/*
 		display: block !important;
 		margin-top: 52vw !important;
 		margin-left: 29vw !important;
+*/
 	}
 	
 	#tpc-video-3 {
@@ -159,8 +159,6 @@
 	#tpc-caption-3-small,
 	#tpc-caption-4,
 	#tpc-process-link {
-		font-size: 11px !important;
-		line-height: 18px !important;
 	}
 	
 	#tpc-video-1 {
